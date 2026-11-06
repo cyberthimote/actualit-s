@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>L’actualité, vraiment.</title>
+<meta name="theme-color" content="#f6f1e7">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<style>
+:root{--bg:#f6f1e7;--cd:#fbf8f1;--fg:#1b1b1b;--mu:#6b655a;--ac:#9a1f17;--ln:#d8cfbb;color-scheme:light}
+:root[data-t=dark]{--bg:#141414;--cd:#1c1c1c;--fg:#ece7da;--mu:#a09a8d;--ac:#e0685d;--ln:#333;color-scheme:dark}
+@media(prefers-color-scheme:dark){:root:not([data-t=light]){--bg:#141414;--cd:#1c1c1c;--fg:#ece7da;--mu:#a09a8d;--ac:#e0685d;--ln:#333;color-scheme:dark}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.55 Georgia,"Iowan Old Style",serif;padding-top:env(safe-area-inset-top)}
+header,main{max-width:720px;margin:0 auto;padding:0 18px}
+header{display:flex;justify-content:space-between;align-items:baseline;padding-top:16px;padding-bottom:8px;border-bottom:3px double var(--fg)}
+h1{margin:0;font-size:1.7rem;letter-spacing:-.02em}h1 i{color:var(--ac);font-style:normal}
+main{padding-bottom:96px}
+.k,h3,nav,button,.b,.chip,.mu,.dt,.src span,.warn,.row span,.back,summary{font-family:system-ui,sans-serif}
+.dt,.mu{color:var(--mu);font-size:.85rem}.dt{margin:12px 0 4px;text-transform:capitalize}
+.c{background:var(--cd);border:1px solid var(--ln);border-radius:10px;padding:16px 18px;margin:16px 0}
+.k{font-size:.72rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--ac)}
+h2{font-size:1.2rem;line-height:1.25;margin:.25em 0 .5em}.big h2,h2.big{font-size:1.6rem}
+h3{font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;color:var(--mu);margin:1.3em 0 .3em}
+p{margin:.5em 0}details{margin:.6em 0}summary{cursor:pointer;color:var(--ac);font-size:.85rem;font-weight:600}
+.src{list-style:none;padding:0;margin:.8em 0;font-size:.9rem}.src li{margin:.3em 0}.src a{color:var(--fg);font-weight:700}.src span{color:var(--mu);font-size:.8rem}
+.r{display:flex;gap:10px;align-items:center;margin-top:.8em}
+.b,button,.chip{border:1px solid var(--fg);background:none;color:var(--fg);border-radius:999px;padding:7px 14px;font-size:.85rem;text-decoration:none;cursor:pointer}
+.b{background:var(--fg);color:var(--bg)}
+.chips{display:flex;gap:8px;overflow-x:auto;padding:6px 0}.chip{white-space:nowrap}.chip[aria-pressed=true]{background:var(--ac);border-color:var(--ac);color:#fff}
+.warn{font-size:.8rem;color:var(--mu);border-left:3px solid var(--ac);padding-left:10px;margin:1em 0}
+.tl{padding-left:1.2em}.tl li{margin:.5em 0}
+.row{display:block;padding:12px 0;border-bottom:1px solid var(--ln);color:var(--fg);text-decoration:none}.row span{display:block;color:var(--mu);font-size:.8rem}
+.back{font-size:.85rem;color:var(--ac)}
+input{width:100%;padding:12px;font-size:1rem;border:1px solid var(--ln);border-radius:8px;background:var(--cd);color:var(--fg);margin:16px 0}
+dt{font-weight:700;margin-top:.8em}dd{margin:0}
+nav{position:fixed;left:0;right:0;bottom:0;display:flex;justify-content:space-around;background:var(--bg);border-top:1px solid var(--ln);padding:10px 4px calc(10px + env(safe-area-inset-bottom))}
+nav a{font-size:.78rem;color:var(--mu);text-decoration:none}nav a[aria-current]{color:var(--ac);font-weight:700}
+</style>
+</head>
+<body>
+<header><h1>L’actualité, <i>vraiment.</i></h1><button id="th" aria-label="Basculer le mode sombre">◐</button></header>
+<main id="app"></main>
+<nav></nav>
+<script>
+const $=q=>document.querySelector(q),A=$('#app'),C={};
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const safe=u=>/^https?:\/\//.test(u)?esc(u):'#';
+let saved={},flt='';
+try{saved=JSON.parse(localStorage.getItem('av-s')||'{}');const t=localStorage.getItem('av-t');if(t)document.documentElement.dataset.t=t}catch(e){}
+const persist=()=>{try{localStorage.setItem('av-s',JSON.stringify(saved))}catch(e){}};
+async function J(p){if(!C[p]){const r=await fetch(p,{cache:'no-cache'});if(!r.ok)throw new Error(p);C[p]=await r.json()}return C[p]}
+const idxOf=()=>J('data/index.json').catch(()=>({editions:[]}));
+const D=d=>new Date(d+'T12:00:00').toLocaleDateString('fr-FR',{weekday:'long',day:'numeric',month:'long',year:'numeric'});
+const T=d=>new Date(d).toLocaleDateString('fr-FR',{day:'numeric',month:'short'});
+const ACC={libre:'Accès libre',mixte:'Peut être payant','abonnés':'Payant'};
+const mins=it=>Math.max(1,Math.round(JSON.stringify([it.resume,it.pourquoi,it.contexte]).split(/\s+/).length/200));
+const p=s=>s?`<p>${esc(s)}</p>`:'';
+const li=a=>a&&a.length?`<ul>${a.map(x=>`<li>${esc(x)}</li>`).join('')}</ul>`:'';
+const sec=(h,b)=>b?`<h3>${h}</h3>${b}`:'';
+const src=a=>a&&a.length?`<ul class="src">${a.map(s=>`<li><a href="${safe(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.media)}</a> <span>${esc(s.titre)} · ${T(s.date)} · ${ACC[s.acces]||''}</span></li>`).join('')}</ul>`:'';
+
+function card(e,it,i){
+  const k=e.date+'/'+it.id,more=it.pourquoi||it.contexte||(it.acteurs||[]).length;
+  return `<article class="c${(i<2&&e.mode!=='revue')||it.importance>2?' big':''}"><div class="k">${esc(it.rubrique)} · ${mins(it)} min</div><h2>${esc(it.titre)}</h2>${p(it.resume)}
+${more?`<details><summary>Pourquoi, contexte, acteurs</summary>${sec('Pourquoi c’est important',p(it.pourquoi))}${sec('Le contexte',p(it.contexte))}${sec('Acteurs concernés',li((it.acteurs||[]).map(a=>a.nom+' — '+a.role)))}${sec('Divergences entre sources',p(it.divergences))}</details>`:''}
+${src(it.sources)}<div class="r">${it.approfondir?`<a class="b" href="#/a/${k}">Approfondir</a>`:''}<button data-s="${k}" aria-pressed="${!!saved[k]}">${saved[k]?'★ Sauvegardé':'☆ Sauvegarder'}</button></div></article>`}
+
+async function home(d){
+  const idx=await idxOf();
+  if(!idx.editions.length){A.innerHTML=`<div class="c"><h2>Aucune édition publiée pour l’instant</h2><p>Rien n’est simulé : cette application n’affiche que des éditions construites à partir de vrais flux de presse. Lancez le workflow « Édition quotidienne » sur GitHub (voir le README), puis rechargez.</p></div>`;return}
+  d=d||idx.editions[0].date;const e=await J(`data/${d}.json`);
+  const cats=[...new Set(e.items.map(i=>i.rubrique))],list=e.items.filter(i=>!flt||i.rubrique===flt),tot=e.items.reduce((s,i)=>s+mins(i),0);
+  A.innerHTML=`<div class="dt">${D(e.date)} · ≈ ${tot} min de lecture · ${e.items.length} informations</div>${d!==idx.editions[0].date?'<p class="warn">Ancienne édition. <a href="#/">Revenir à aujourd’hui</a></p>':''}${p(e.resume_jour)}${e.mode==='revue'?'<p class="warn">Mode revue de presse : titres et extraits des médias, regroupés par recoupement, sans synthèse par IA. Ajoutez une clé d’API pour obtenir le briefing complet et « Approfondir ».</p>':''}<div class="chips">${['',...cats].map(c=>`<button class="chip" data-f="${esc(c)}" aria-pressed="${flt===c}">${c?esc(c):'Tout'}</button>`).join('')}</div>${list.map((it,i)=>card(e,it,i)).join('')}${(e.a_surveiller||[]).length?`<h3>Ce qu’il faut surveiller</h3><ul>${e.a_surveiller.map(x=>`<li><b>${esc(x.quand)}</b> — ${esc(x.quoi)}</li>`).join('')}</ul>`:''}`}
+
+async function detail(d,id){
+  const e=await J(`data/${d}.json`),it=e.items.find(x=>x.id===id);
+  if(!it){A.innerHTML='<p class="mu">Article introuvable.</p>';return}
+  const a=it.approfondir||{};
+  A.innerHTML=`<p><a class="back" href="#/e/${d}">← Édition du ${D(d)}</a></p><div class="k">${esc(it.rubrique)}</div><h2 class="big">${esc(it.titre)}</h2>${p(it.resume)}
+${it.approfondir?'<p class="warn">Synthèse rédigée par une IA à partir des articles listés ci-dessous. Vérifiez-la avec les sources : le contexte peut contenir des erreurs.</p>':''}
+${sec('Chronologie',a.chronologie&&a.chronologie.length?`<ol class="tl">${a.chronologie.map(x=>`<li><b>${esc(x.date)}</b> ${esc(x.texte)}</li>`).join('')}</ol>`:'')}
+${sec('Origines historiques et politiques',p(a.origines))}${sec('Causes immédiates',li(a.causes&&a.causes.immediates))}${sec('Causes structurelles',li(a.causes&&a.causes.structurelles))}
+${sec('Acteurs et intérêts',li((a.acteurs_interets||[]).map(x=>x.nom+' — '+x.interet)))}${sec('Rapports de force',p(a.rapports_de_force))}
+${sec('Conséquences à court terme',li(a.consequences&&a.consequences.court_terme))}${sec('Conséquences à long terme',li(a.consequences&&a.consequences.long_terme))}
+${sec('Controverses et interprétations',li(a.controverses))}${sec('Incertain ou débattu',li(a.incertitudes))}
+${sec('Sources',src(it.sources))}${sec('Pour aller plus loin',src(a.lectures))}`}
+
+async function hist(){const idx=await idxOf();A.innerHTML='<h2>Éditions précédentes</h2>'+(idx.editions.map(x=>`<a class="row" href="#/e/${x.date}"><b>${D(x.date)}</b><span>${x.n} informations</span></a>`).join('')||'<p class="mu">Aucune édition pour l’instant.</p>')}
+
+function savedView(){const ks=Object.keys(saved);A.innerHTML='<h2>Sauvegardes</h2>'+(ks.length?ks.map(k=>`<a class="row" href="#/a/${esc(k)}"><b>${esc(saved[k].t)}</b><span>${D(k.split('/')[0])} · ${esc(saved[k].r)}</span></a>`).join(''):'<p class="mu">Rien de sauvegardé pour le moment.</p>')}
+
+async function all(){const idx=await idxOf();return Promise.all(idx.editions.slice(0,60).map(x=>J(`data/${x.date}.json`)))}
+
+async function search(){
+  A.innerHTML='<input id="q" type="search" placeholder="Événement, pays, institution…" autofocus><div id="res"></div>';
+  const eds=await all();
+  const run=()=>{const v=$('#q').value.toLowerCase().trim();
+    $('#res').innerHTML=v.length<2?'':(eds.flatMap(e=>e.items.map(it=>({e,it}))).filter(({it})=>JSON.stringify([it.titre,it.resume,it.rubrique,it.acteurs,(it.sources||[]).map(s=>s.titre)]).toLowerCase().includes(v)).map(({e,it})=>`<a class="row" href="#/${it.approfondir?'a/'+e.date+'/'+it.id:'e/'+e.date}"><b>${esc(it.titre)}</b><span>${D(e.date)} · ${esc(it.rubrique)}</span></a>`).join('')||'<p class="mu">Aucun résultat.</p>')};
+  $('#q').oninput=run}
+
+async function gloss(){
+  const m=new Map();(await all()).forEach(e=>(e.glossaire||[]).forEach(g=>m.has(g.terme.toLowerCase())||m.set(g.terme.toLowerCase(),g)));
+  const rows=[...m.values()].sort((a,b)=>a.terme.localeCompare(b.terme,'fr')).map(g=>`<dl><dt>${esc(g.terme)}</dt><dd>${esc(g.definition)}</dd></dl>`).join('');
+  A.innerHTML='<h2>Glossaire</h2>'+(rows?'<p class="warn">Définitions générales rédigées par une IA ; elles se complètent à chaque édition.</p>'+rows:'<p class="mu">Le glossaire se remplit au fil des éditions (mode briefing complet).</p>')}
+
+const NAV=[['','Aujourd’hui'],['h','Historique'],['s','Sauvegardes'],['g','Glossaire'],['q','Recherche']];
+async function route(){
+  const [r='',a,b]=location.hash.slice(2).split('/');
+  $('nav').innerHTML=NAV.map(([h,l])=>`<a href="#/${h}"${(r===h||(r==='e'&&h===''))?' aria-current="page"':''}>${l}</a>`).join('');
+  try{await({'':()=>home(),e:()=>home(a),a:()=>detail(a,b),h:hist,s:savedView,g:gloss,q:search}[r]||home)()}
+  catch(x){A.innerHTML='<p class="mu">Impossible de charger les données (hors ligne et pas encore en cache ?).</p>'}
+  scrollTo(0,0)}
+addEventListener('hashchange',route);route();
+
+document.addEventListener('click',ev=>{
+  const f=ev.target.closest('[data-f]');if(f){flt=f.dataset.f;return route()}
+  const b=ev.target.closest('[data-s]');if(!b)return;
+  const k=b.dataset.s,[d,id]=k.split('/'),e=C[`data/${d}.json`],it=e&&e.items.find(x=>x.id===id);
+  if(saved[k])delete saved[k];else if(it)saved[k]={t:it.titre,r:it.rubrique};
+  persist();b.textContent=saved[k]?'★ Sauvegardé':'☆ Sauvegarder';b.setAttribute('aria-pressed',!!saved[k]);
+  if(location.hash==='#/s')route()});
+$('#th').onclick=()=>{const c=document.documentElement,dark=c.dataset.t==='dark'||(!c.dataset.t&&matchMedia('(prefers-color-scheme:dark)').matches);c.dataset.t=dark?'light':'dark';try{localStorage.setItem('av-t',c.dataset.t)}catch(e){}};
+if('serviceWorker' in navigator)navigator.serviceWorker.register('sw.js').catch(()=>{});
+</script>
+</body>
+</html>
