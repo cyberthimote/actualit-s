@@ -1,0 +1,17 @@
+[
+ {"nom":"Le Monde","url":"https://www.lemonde.fr/politique/rss_full.xml","rubrique":"France","acces":"mixte"},
+ {"nom":"Le Monde","url":"https://www.lemonde.fr/international/rss_full.xml","rubrique":"International","acces":"mixte"},
+ {"nom":"Le Monde","url":"https://www.lemonde.fr/economie/rss_full.xml","rubrique":"Économie","acces":"mixte"},
+ {"nom":"Le Monde","url":"https://www.lemonde.fr/planete/rss_full.xml","rubrique":"Environnement et sciences","acces":"mixte"},
+ {"nom":"franceinfo","url":"https://www.francetvinfo.fr/politique.rss","rubrique":"France","acces":"libre"},
+ {"nom":"franceinfo","url":"https://www.francetvinfo.fr/monde.rss","rubrique":"International","acces":"libre"},
+ {"nom":"franceinfo","url":"https://www.francetvinfo.fr/economie.rss","rubrique":"Économie","acces":"libre"},
+ {"nom":"France 24","url":"https://www.france24.com/fr/rss","rubrique":"International","acces":"libre"},
+ {"nom":"RFI","url":"https://www.rfi.fr/fr/rss","rubrique":"International","acces":"libre"},
+ {"nom":"Le Figaro","url":"https://www.lefigaro.fr/rss/figaro_politique.xml","rubrique":"France","acces":"mixte"},
+ {"nom":"Courrier international","url":"https://www.courrierinternational.com/feed/all/rss.xml","rubrique":"International","acces":"mixte"},
+ {"nom":"BBC News","url":"https://feeds.bbci.co.uk/news/world/rss.xml","rubrique":"International","acces":"libre"},
+ {"nom":"The Guardian","url":"https://www.theguardian.com/world/rss","rubrique":"International","acces":"libre"},
+ {"nom":"Al Jazeera","url":"https://www.aljazeera.com/xml/rss/all.xml","rubrique":"International","acces":"libre"},
+ {"nom":"ONU Info","url":"https://news.un.org/feed/subscribe/fr/news/all/rss.xml","rubrique":"Géopolitique","acces":"libre"}
+]
