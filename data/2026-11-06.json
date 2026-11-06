@@ -1,0 +1,321 @@
+{
+ "mode": "revue",
+ "items": [
+  {
+   "id": "s1",
+   "rubrique": "International",
+   "titre": "Mobilisation du 5 novembre : la grogne sociale se poursuit en France",
+   "resume": "Face aux centaines de milliers de Français dans les rues jeudi pour réclamer une hausse de leur pouvoir d'achat, Sébastien Lecornu a annoncé une conférence sociale lundi avec les syndicats et le patronat.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Grève du 5 novembre : entre colère sociale et révolte politique, une mobilisation massive pour le pouvoir d’achat",
+     "url": "https://www.lemonde.fr/politique/article/2026/11/06/greve-du-5-novembre-entre-colere-sociale-et-revolte-politique-une-mobilisation-massive-pour-le-pouvoir-d-achat_6807682_823448.html",
+     "date": "2026-11-06T04:44+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "Grève du 5 novembre : revivez la journée de mobilisation qui a rassemblé entre 575 000 et 1,6 million de manifestants en France",
+     "url": "https://www.lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-entre-575-000-et-1-6-million-de-manifestants-en-france-jeudi-une-conference-sociale-avec-les-syndicats-et-le-patronat-prevue-a-matignon-lundi_6806775_823448.html",
+     "date": "2026-11-05T22:43+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "France 24",
+     "titre": "Mobilisation du 5 novembre : la grogne sociale se poursuit en France",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261106-mobilisation-du-5-novembre-la-grogne-sociale-se-poursuit-en-france",
+     "date": "2026-11-06T09:54+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Courrier international",
+     "titre": "Avec la vaste mobilisation du 5 novembre en France, “la rue maintient la pression”",
+     "url": "https://www.courrierinternational.com/article/vu-de-l-etranger-avec-la-vaste-mobilisation-du-5-novembre-en-france-la-rue-maintient-la-pression_285303",
+     "date": "2026-11-05T19:43+00:00",
+     "acces": "mixte"
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "rubrique": "International",
+   "titre": "Trump signs order to preserve Oval Office as national monument",
+   "resume": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "Trump signs order to preserve Oval Office as national monument",
+     "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-06T09:19+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "Trump signs proclamation to try to prevent changes to gold-covered Oval Office",
+     "url": "https://www.theguardian.com/us-news/2026/nov/05/trump-oval-office-design-proclamation",
+     "date": "2026-11-06T00:29+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Trump issues proclamation declaring Oval Office national monument",
+     "url": "https://www.aljazeera.com/news/2026/11/6/trump-issues-proclamation-declaring-oval-office-national-monument?traffic_source=rss",
+     "date": "2026-11-06T04:48+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "rubrique": "International",
+   "titre": "Donald Trump s'emporte contre des élections \"truquées\", après la défaite des républicains aux midterms 2026",
+   "resume": "\"Nos élections sont tellement truquées, vous n'avez pas idée\", a déclaré le président américain, qui refuse d'endosser la responsabilité de la défaite républicaine aux élections de mi-mandat.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Donald Trump s'emporte contre des élections \"truquées\", après la défaite des républicains aux midterms 2026",
+     "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/donald-trump-s-emporte-contre-des-elections-truquees-apres-la-defaite-des-republicains-aux-midterms-2026_8269964.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-06T07:35+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Midterms : les démocrates engrangent les sièges, Donald Trump fustige des élections truquées",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261106-midterms-les-d%C3%A9mocrates-engrangent-les-si%C3%A8ges-donald-trump-fustige-des-%C3%A9lections-truqu%C3%A9es",
+     "date": "2026-11-06T06:04+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Courrier international",
+     "titre": "Après les midterms, Tokyo redoute un rapprochement entre Donald Trump et Xi Jinping",
+     "url": "https://www.courrierinternational.com/article/diplomatie-apres-les-midterms-tokyo-redoute-un-rapprochement-entre-donald-trump-et-xi-jinping_285283",
+     "date": "2026-11-06T07:32+00:00",
+     "acces": "mixte"
+    }
+   ]
+  },
+  {
+   "id": "s4",
+   "rubrique": "International",
+   "titre": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
+   "resume": "Wong, 30, in prison since 2020, is only activist in Hong Kong prosecuted twice under national security law Exclusive: Joshua Wong laments city’s fate from inside maximum security prison The Hong Kong activist Joshua Wong has been sentenced to 10 years in prison after earlier pleading guilty to “foreign collusion”, his second conviction under a national security law critics say has been used to silence political oppos",
+   "sources": [
+    {
+     "media": "RFI",
+     "titre": "Hong Kong: le militant pro-démocratie Joshua Wong condamné à 10 ans de prison supplémentaires",
+     "url": "https://www.rfi.fr/fr/asie-pacifique/20261105-hong-kong-le-militant-prod%C3%A9mocratie-joshua-wong-condamn%C3%A9-%C3%A0-10-ans-de-prison-suppl%C3%A9mentaires",
+     "date": "2026-11-05T03:28+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "BBC News",
+     "titre": "Macau jails pro-democracy campaigner in city's first national security case",
+     "url": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-06T06:46+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
+     "url": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
+     "date": "2026-11-05T07:56+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "rubrique": "International",
+   "titre": "European skies on high alert after hoax bomb threats this week – Europe live",
+   "resume": "Hoax bomb threats targeted commercial flights this week leaving at least 35 planes searched or diverted Prague police say they are also investigating threats against “a number of aircraft arriving at and departing from Prague airport.” “In cooperation with Prague Airport, we have taken the necessary security measures with minimal impact on the airport’s normal operations . We continue to investigate the case,” they a",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "Hoax bomb threats target European airlines and airports for second time in a week",
+     "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-05T17:39+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "BBC News",
+     "titre": "Who could be behind hoax bomb threats to European air travel?",
+     "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-05T19:58+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "European skies on high alert after hoax bomb threats this week – Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live",
+     "date": "2026-11-06T10:16+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s6",
+   "rubrique": "International",
+   "titre": "Israël : Gadi Eisenkot bien placé pour former le prochain gouvernement ?",
+   "resume": "Le président israélien annoncera dimanche qui sera chargé de former le prochain gouvernement, le centriste Gadi Eisenkot apparaissant en position de force grâce au soutien des partis arabes face au Premier ministre sortant Benjamin Neyanyahu.",
+   "sources": [
+    {
+     "media": "France 24",
+     "titre": "Israël : Gadi Eisenkot bien placé pour former le prochain gouvernement ?",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261106-isra%C3%ABl-gadi-eisenkot-bien-plac%C3%A9-pour-former-le-prochain-gouvernement",
+     "date": "2026-11-06T10:10+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Courrier international",
+     "titre": "En Israël, Eisenkot apparaît en position de force pour former un gouvernement",
+     "url": "https://www.courrierinternational.com/article/politique-en-israel-eisenkot-apparait-en-position-de-force-pour-former-un-gouvernement_285354",
+     "date": "2026-11-06T05:11+00:00",
+     "acces": "mixte"
+    }
+   ]
+  },
+  {
+   "id": "s7",
+   "rubrique": "International",
+   "titre": "Paraguay : Santiago Peña, l'économiste réputé défait par une crise bancaire",
+   "resume": "Le président paraguayen Santiago Peña, qui a présenté sa démission jeudi, est passé en trois ans d'une image de brillant économiste incarnant la jeune garde du parti dominant dans le pays, à celle d'homme d'État visé par une destitution pour ses liens avec une banque devenue insolvable.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Crise au Paraguay : démission du président, Santiago Peña, après le gel des avoirs de près de la moitié de la population dans la principale banque du pays",
+     "url": "https://www.franceinfo.fr/monde/ameriques/crise-au-paraguay-le-president-santiago-pena-demissionne-apres-le-gel-des-avoirs-de-pres-de-la-moitie-de-la-population-dans-la-principale-banque-du-pays_8269922.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-05T21:52+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Au Paraguay, le président Santiago Peña annonce sa démission dans la foulée d'une crise bancaire",
+     "url": "https://www.franceinfo.fr/monde/ameriques/au-paraguay-le-president-santiago-pena-annonce-sa-demission-dans-la-foulee-d-une-crise-bancaire_8269847.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-05T20:27+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Paraguay : Santiago Peña, l'économiste réputé défait par une crise bancaire",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261106-paraguay-santiago-pe%C3%B1a-l-%C3%A9conomiste-r%C3%A9put%C3%A9-d%C3%A9fait-par-une-crise-bancaire",
+     "date": "2026-11-06T10:10+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s8",
+   "rubrique": "International",
+   "titre": "Les adieux doux-amers du Portugal à Cristiano Ronaldo : “Le mythe tire sa révérence”",
+   "resume": "Après vingt-trois ans sous le maillot de la Seleção, l’“éternel” capitaine a annoncé sa retraite internationale jeudi 5 novembre. La presse portugaise rend hommage à une légende nationale, mais ne cache pas ses regrets face aux circonstances peu glorieuses de son départ.",
+   "sources": [
+    {
+     "media": "France 24",
+     "titre": "Cristiano Ronaldo met un terme à sa carrière internationale",
+     "url": "https://www.france24.com/fr/%C3%A9missions/sports/20261106-cristiano-ronaldo-met-un-terme-%C3%A0-sa-carri%C3%A8re-internationale",
+     "date": "2026-11-06T07:15+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Courrier international",
+     "titre": "Les adieux doux-amers du Portugal à Cristiano Ronaldo : “Le mythe tire sa révérence”",
+     "url": "https://www.courrierinternational.com/article/football-les-adieux-doux-amers-du-portugal-a-cristiano-ronaldo-le-mythe-tire-sa-reverence_285387",
+     "date": "2026-11-06T09:55+00:00",
+     "acces": "mixte"
+    }
+   ]
+  },
+  {
+   "id": "s9",
+   "rubrique": "International",
+   "titre": "Global stocks plunge amid AI slowdown fears after Democrats’ midterm triumph",
+   "resume": "Asian and European markets follow Wall Street with sharp fall as FTSE down 1.5% Business live – latest updates European stock markets have fallen sharply as a rout in US tech stocks spread across the Atlantic, after the Democrats’ midterms victory sparked fears of a slowdown in the AI industry. A sell-off on Wall Street on Thursday was followed by sharp falls in Asian stocks markets on Friday morning. The investor se",
+   "sources": [
+    {
+     "media": "The Guardian",
+     "titre": "Global stocks plunge amid AI slowdown fears after Democrats’ midterm triumph",
+     "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
+     "date": "2026-11-06T08:58+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Global tech stocks plunge over fears of AI curbs in US",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/global-tech-stocks-plunge-over-fears-of-ai-curbs-in-us?traffic_source=rss",
+     "date": "2026-11-06T07:24+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "rubrique": "International",
+   "titre": "États-Unis: une juge fédérale bloque le projet de Trump d'arc de triomphe géant à Washington",
+   "resume": "Un juge fédéral américain a bloqué dans la nuit de jeudi 5 à vendredi 6 novembre le projet de construction à Washington d'un gigantesque arc de triomphe voulu par le président Donald Trump. Objet de multiples contestations, le projet avait obtenu le feu vert d'une commission d'urbanisme.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Le projet d’arc de triomphe voulu par Donald Trump à Washington suspendu par une juge, après sa validation par une commission publique",
+     "url": "https://www.lemonde.fr/international/article/2026/11/06/l-immense-arc-de-triomphe-souhaite-par-donald-trump-a-washington-valide-par-une-commission-publique_6807717_3210.html",
+     "date": "2026-11-06T04:57+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "RFI",
+     "titre": "États-Unis: une juge fédérale bloque le projet de Trump d'arc de triomphe géant à Washington",
+     "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261106-%C3%A9tats-unis-une-juge-f%C3%A9d%C3%A9rale-bloque-le-projet-de-trump-d-arc-de-triomphe-g%C3%A9ant-%C3%A0-washington",
+     "date": "2026-11-06T08:50+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "rubrique": "International",
+   "titre": "Ce que les élections de mi-mandat ont changé pour le droit à l'avortement aux États-Unis",
+   "resume": "Au Nevada et en Virginie, les électeurs ont approuvé une protection constitutionnelle du droit à l'avortement. Dans le Missouri, ils ont empêché sa remise en cause. Mais dans l'Idaho, une proposition visant à assouplir les restrictions a été rejetée. Des résultats qui illustrent les profondes différences d'accès à l'IVG aux États-Unis.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Ce que les élections de mi-mandat ont changé pour le droit à l'avortement aux États-Unis",
+     "url": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/ce-que-les-elections-de-mi-mandat-ont-change-pour-le-droit-a-l-avortement-aux-etats-unis_8249872.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-06T08:26+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Courrier international",
+     "titre": "Des États-Unis au Brésil, sale temps pour les populistes",
+     "url": "https://www.courrierinternational.com/article/opinion-des-etats-unis-au-bresil-sale-temps-pour-les-populistes_285267",
+     "date": "2026-11-06T04:00+00:00",
+     "acces": "mixte"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "rubrique": "International",
+   "titre": "Les démocrates ont repris le Congrès : jusqu’où iront-ils contre Trump ?",
+   "resume": "Ils promettent un changement drastique, une fin de la guerre en Iran et des enquêtes sur la corruption. Mais les démocrates, vainqueurs des élections de mi-mandat, vont devoir faire face aux pouvoirs de Trump et à leurs propres divisions.",
+   "sources": [
+    {
+     "media": "France 24",
+     "titre": "Trump vs. le Congrès : la bataille des pouvoirs",
+     "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261105-trump-vs-le-congr%C3%A8s-la-bataille-des-pouvoirs",
+     "date": "2026-11-05T23:11+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Courrier international",
+     "titre": "Les démocrates ont repris le Congrès : jusqu’où iront-ils contre Trump ?",
+     "url": "https://www.courrierinternational.com/article/midterms-les-democrates-ont-repris-le-congres-jusqu-ou-iront-ils-contre-trump_285272",
+     "date": "2026-11-06T08:22+00:00",
+     "acces": "mixte"
+    }
+   ]
+  }
+ ],
+ "date": "2026-11-06",
+ "genere_le": "2026-11-06T10:36+00:00",
+ "articles_analyses": 269
+}
