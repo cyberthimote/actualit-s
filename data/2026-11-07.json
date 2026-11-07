@@ -1,0 +1,300 @@
+{
+ "mode": "revue",
+ "items": [
+  {
+   "id": "s1",
+   "rubrique": "International",
+   "titre": "Paraguay's President Santiago Peña impeached and arrested",
+   "resume": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Paraguay : Pedro Alliana investi président, le président destitué Santiago Peña placé en détention à domicile",
+     "url": "https://www.lemonde.fr/international/article/2026/11/07/paraguay-le-vice-president-pedro-alliana-investi-president-apres-la-destitution-de-santiago-pena-par-le-senat_6807901_3210.html",
+     "date": "2026-11-06T23:46+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Crise au Paraguay : démission du président, Santiago Peña, après le gel des avoirs de près de la moitié de la population dans la principale banque du pays",
+     "url": "https://www.franceinfo.fr/monde/ameriques/crise-au-paraguay-le-president-santiago-pena-demissionne-apres-le-gel-des-avoirs-de-pres-de-la-moitie-de-la-population-dans-la-principale-banque-du-pays_8269922.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-05T21:52+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Paraguay: le président Santiago Peña destitué, le vice-président Pedro Alliana lui succède",
+     "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261106-paraguay-le-pr%C3%A9sident-santiago-pe%C3%B1a-destitu%C3%A9-au-terme-de-son-proc%C3%A8s-au-s%C3%A9nat-apr%C3%A8s-la-crise-bancaire",
+     "date": "2026-11-06T22:20+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "BBC News",
+     "titre": "Paraguay's President Santiago Peña impeached and arrested",
+     "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-07T03:25+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "rubrique": "International",
+   "titre": "With Stephen Miller pick, Trump readies for a battle",
+   "resume": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Donald Trump nomme Stephen Miller, représentant de la droite identitaire, au poste stratégique de directeur de cabinet",
+     "url": "https://www.lemonde.fr/international/article/2026/11/06/donald-trump-nomme-stephen-miller-representant-de-la-droite-identitaire-au-poste-strategique-de-directeur-de-cabinet_6807861_3210.html",
+     "date": "2026-11-06T19:41+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "Stephen Miller, l’idéologue réactionnaire de la Maison Blanche, devient le nouveau chef de l’administration Trump",
+     "url": "https://www.lemonde.fr/international/article/2026/11/07/stephen-miller-l-ideologue-reactionnaire-de-la-maison-blanche-devient-le-nouveau-chef-de-l-administration-trump_6808135_3210.html",
+     "date": "2026-11-07T04:00+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Donald Trump promeut son conseiller Stephen Miller, représentant de la droite identitaire,comme directeur de cabinet",
+     "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-promeut-comme-directeur-de-cabinet-son-conseiller-stephen-miller-representant-de-la-droite-identitaire_8271515.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-06T21:02+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Stephen Miller, figure de la droite identitaire, devient le nouveau directeur de cabinet de Trump",
+     "url": "https://www.france24.com/fr/am%C3%A9riques/20261106-stephen-miller-figure-de-la-droite-identitaire-devient-le-nouveau-directeur-de-cabinet-de-trump",
+     "date": "2026-11-06T19:30+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "rubrique": "International",
+   "titre": "Trump confirms new US strikes on Iran’s Qeshm Island",
+   "resume": "The US president also claims 'a lot of progress' in Washington's negotiations with Tehran.",
+   "sources": [
+    {
+     "media": "The Guardian",
+     "titre": "US carries out another round of ‘minor’ strikes on Iran, Trump says",
+     "url": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says",
+     "date": "2026-11-07T03:07+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Trump confirms new US strikes on Iran’s Qeshm Island",
+     "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island?traffic_source=rss",
+     "date": "2026-11-07T03:53+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s4",
+   "rubrique": "International",
+   "titre": "Midterms 2026 : la ville de Houston limite sa coopération avec l’ICE après la victoire démocrate",
+   "resume": "Afin de « réduire les craintes et les angoisses », le maire démocrate de la ville, John Whitmire, a déclaré que les forces de l’ordre locales ne contacteraient la controversée police de l’immigration que lorsqu’une personne sera arrêtée pour un délit passible d’emprisonnement et non pas lors de contrôles.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Midterms 2026 : la ville de Houston limite sa coopération avec l’ICE après la victoire démocrate",
+     "url": "https://www.lemonde.fr/international/article/2026/11/07/la-ville-de-houston-limite-sa-cooperation-avec-l-ice-apres-la-victoire-democrate-aux-midterms_6808001_3210.html",
+     "date": "2026-11-07T01:08+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "Courrier international",
+     "titre": "Les marchés boursiers essorés par la victoire démocrate aux midterms",
+     "url": "https://www.courrierinternational.com/article/etats-unis-les-marches-boursiers-essores-par-la-victoire-democrate-aux-midterms_285461",
+     "date": "2026-11-06T17:33+00:00",
+     "acces": "mixte"
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "rubrique": "International",
+   "titre": "Pope Leo XIV arrives for South American tour after cancer surgery",
+   "resume": "Pope Leo XIV arrives in Uruguay kicking off a 12-day tour of South America after undergoing lung surgery last month.",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+     "url": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-06T00:02+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Pope Leo XIV arrives for South American tour after cancer surgery",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/pope-leo-xiv-arrives-for-south-american-tour-after-cancer-surgery?traffic_source=rss",
+     "date": "2026-11-07T00:55+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s6",
+   "rubrique": "International",
+   "titre": "Thomas Markle, Meghan’s father, charged in Florida in connection to child sexual abuse material",
+   "resume": "Father of the Duchess of Sussex was taken into custody near Tampa, US prosecutors said Thomas Markle, the father of Meghan, the Duchess of Sussex , was arrested by US federal agents in Florida on Friday and charged in connection with possession of child sexual abuse material, according to the Federal Bureau of Investigation (FBI). Markle, 82, was taken into custody at a senior care facility in Polk county early on Fr",
+   "sources": [
+    {
+     "media": "The Guardian",
+     "titre": "Thomas Markle, Meghan’s father, charged in Florida in connection to child sexual abuse material",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested",
+     "date": "2026-11-06T22:09+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Meghan Markle’s father arrested in US over alleged child sex abuse photos",
+     "url": "https://www.aljazeera.com/news/2026/11/6/meghan-markles-father-arrested-in-us-over-alleged-child-sex-abuse-photos?traffic_source=rss",
+     "date": "2026-11-06T20:28+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s7",
+   "rubrique": "International",
+   "titre": "Elon Musk appears to signal the end of the road for Cybertruck",
+   "resume": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Tesla va progressivement arrêter la production du Cybertruck vers mi-2027, annonce Elon Musk",
+     "url": "https://www.franceinfo.fr/internet/elon-musk/tesla-va-progressivement-arreter-la-production-du-cybertruck-vers-mi-2027-annonce-elon-musk_8271110.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-06T16:26+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "BBC News",
+     "titre": "Elon Musk appears to signal the end of the road for Cybertruck",
+     "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-06T21:49+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s8",
+   "rubrique": "International",
+   "titre": "Protesters break into Microsoft data centre site in Amsterdam",
+   "resume": "Data centres face protests across Europe due to the massive amounts of computing power and water they use.",
+   "sources": [
+    {
+     "media": "The Guardian",
+     "titre": "Activists break into building site of Microsoft datacentre in Amsterdam",
+     "url": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam",
+     "date": "2026-11-06T18:51+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Protesters break into Microsoft data centre site in Amsterdam",
+     "url": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss",
+     "date": "2026-11-06T21:04+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s9",
+   "rubrique": "International",
+   "titre": "Tanzanian opposition leader jailed in ‘politically motivated’ case",
+   "resume": "Tanzanian opposition leader Tundu Lissu has been jailed in a case widely condemned as politically motivated.",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
+     "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-06T14:57+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Tanzanian opposition leader jailed in ‘politically motivated’ case",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/tanzanian-opposition-leader-jailed-in-politically-motivated-case?traffic_source=rss",
+     "date": "2026-11-06T19:42+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "rubrique": "Économie",
+   "titre": "A bord du « TGV nouvelle génération », entre Paris et Marseille : un train repensé de A à Z, à la capacité accrue et moins gourmand en énergie",
+   "resume": "Livré par Alstom à la SNCF avec plus de deux ans de retard, il a effectué son voyage inaugural vendredi. Il remplacera progressivement les plus vieilles unités de la flotte.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "A bord du « TGV nouvelle génération », entre Paris et Marseille : un train repensé de A à Z, à la capacité accrue et moins gourmand en énergie",
+     "url": "https://www.lemonde.fr/economie/article/2026/11/06/a-bord-du-tgv-nouvelle-generation-entre-paris-et-marseille-un-train-repense-de-a-a-z-a-la-capacite-accrue-et-moins-gourmand-en-energie_6807856_3234.html",
+     "date": "2026-11-06T19:23+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "TGV nouvelle génération enfin sur les rails",
+     "url": "https://www.franceinfo.fr/economie/transports/sncf/tgv-nouvelle-generation-enfin-sur-les-rails_8270801.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-06T12:00+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "rubrique": "France",
+   "titre": "La justice autorise in extremis une conférence du député LFI Raphaël Arnault à Villeurbanne",
+   "resume": "Le tribunal administratif a invalidé en partie un arrêté préfectoral d'interdiction pris jeudi, en raison d'un risque d'affrontements \"entre des groupuscules radicaux\".",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "La justice autorise une conférence du député LFI Raphaël Arnault près de Lyon",
+     "url": "https://www.lemonde.fr/politique/article/2026/11/06/la-justice-autorise-une-conference-du-depute-lfi-raphael-arnault-pres-de-lyon_6807843_823448.html",
+     "date": "2026-11-06T17:19+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "La justice autorise in extremis une conférence du député LFI Raphaël Arnault à Villeurbanne",
+     "url": "https://www.franceinfo.fr/politique/la-justice-autorise-in-extremis-une-conference-du-depute-lfi-raphael-arnault-a-villeurbanne_8271167.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-06T18:22+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "rubrique": "International",
+   "titre": "Manifestations de samedi en France : 70 000 policiers et gendarmes à nouveau mobilisés",
+   "resume": "Le ministre de l'Intérieur a annoncé vendredi la reconduction d'un dispositif de \"sécurité\" en vue des manifestations de samedi. 70 000 policiers et gendarmes seront déployés sur l'ensemble du territoire à l'occasion de cette nouvelle journée de mobilisation à l'initiative d'organisations syndicales et de jeunesse ainsi que des gilets jaunes.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Manifestations du 7 novembre : un quatrième samedi de mobilisation ; 70 000 policiers et gendarmes mobilisés",
+     "url": "https://www.lemonde.fr/politique/article/2026/11/06/manifestations-du-7-novembre-le-dispositif-de-securite-est-reconduit-avec-70-000-policiers-et-gendarmes-mobilises_6807790_823449.html",
+     "date": "2026-11-06T17:05+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "France 24",
+     "titre": "Manifestations de samedi en France : 70 000 policiers et gendarmes à nouveau mobilisés",
+     "url": "https://www.france24.com/fr/france/20261106-manifestations-de-samedi-en-france-70-000-policiers-et-gendarmes-%C3%A0-nouveau-mobilis%C3%A9s",
+     "date": "2026-11-06T18:18+00:00",
+     "acces": "libre"
+    }
+   ]
+  }
+ ],
+ "date": "2026-11-07",
+ "genere_le": "2026-11-07T05:19+00:00",
+ "articles_analyses": 277
+}
