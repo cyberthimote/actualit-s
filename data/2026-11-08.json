@@ -1,0 +1,349 @@
+{
+ "mode": "revue",
+ "items": [
+  {
+   "id": "s1",
+   "rubrique": "France",
+   "titre": "Présidentielle 2027 : en meeting au Bourget, Jean-Luc Mélenchon mobilise sa base tout en s’attelant à élargir son électorat",
+   "resume": "Le candidat de La France insoumise a présenté samedi son programme, « L’Avenir en commun », devant plusieurs milliers de sympathisants. Tout en assurant qu’il n’avait pas l’intention de « mettre de l’eau dans son vin », le tribun s’est livré à une rhétorique moins conflictuelle.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Présidentielle 2027 : en meeting au Bourget, Jean-Luc Mélenchon mobilise sa base tout en s’attelant à élargir son électorat",
+     "url": "https://www.lemonde.fr/politique/article/2026/11/08/presidentielle-2027-en-meeting-au-bourget-jean-luc-melenchon-s-attelle-a-mobiliser-sa-base-tout-en-elargissant-son-electorat_6808387_823448.html",
+     "date": "2026-11-08T04:00+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "\"Il faut tout changer !\", scande Jean-Luc Mélenchon lors de son grand meeting du Bourget",
+     "url": "https://www.franceinfo.fr/politique/melenchon/il-faut-tout-changer-scande-jean-luc-melenchon-lors-de-son-grand-meeting-du-bourget_8272676.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-07T19:43+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Meeting de Jean-Luc Mélenchon au Bourget : \"Peu de candidats ou candidates à l'élection présidentielle sont capables de remplir une salle aussi grande\", souligne le rédacteur en chef de \"Regards\"",
+     "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/meeting-de-jean-luc-melenchon-au-bourget-peu-de-candidats-ou-candidates-a-l-election-presidentielle-sont-capables-de-remplir-une-salle-aussi-grande-souligne-le-redacteur-en-chef-de-de-regards_8272619.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-07T20:16+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "🔴 En direct : suivez le discours de Jean-Luc Mélenchon au Bourget",
+     "url": "https://www.france24.com/fr/france/20261106-grand-meeting-de-m%C3%A9lenchon-au-bourget-apr%C3%A8s-la-sortie-de-son-programme-pr%C3%A9sidentiel",
+     "date": "2026-11-07T15:50+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "rubrique": "International",
+   "titre": "En Israël, les défis de Gadi Eisenkot, général novice en politique chargé de former un gouvernement",
+   "resume": "Le leader de l’opposition au premier ministre sortant Benyamin Nétanyahou doit être officiellement missionné, dimanche, par le président Isaac Herzog, pour constituer le prochain gouvernement israélien. Une tâche ardue après des législatives qui n’ont donné aucune majorité à la Knesset.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "En Israël, les défis de Gadi Eisenkot, général novice en politique chargé de former un gouvernement",
+     "url": "https://www.lemonde.fr/international/article/2026/11/08/en-israel-les-defis-de-gadi-eisenkot-general-novice-en-politique-charge-de-former-un-gouvernement_6808385_3210.html",
+     "date": "2026-11-08T04:00+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "En Israël, le chef de l'opposition à Benyamin Nétanyahou, Gadi Eisenkot, sera chargé dimanche de former le prochain gouvernement, annonce la présidence",
+     "url": "https://www.franceinfo.fr/monde/israel/en-israel-le-chef-de-l-opposition-a-benyamin-netanyahou-gadi-eisenkot-sera-charge-dimanche-de-former-le-prochain-gouvernement-annonce-la-presidence_8272685.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-07T19:52+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Israël : Gadi Eisenkot chargé de former un gouvernement",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261107-isra%C3%ABl-gadi-eisenkot-charg%C3%A9-de-former-un-gouvernement",
+     "date": "2026-11-07T20:43+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "🔴 Israël : Eisenkot, rival de Netanyahu, sera chargé de former le prochain gouvernement",
+     "url": "https://www.france24.com/fr/moyen-orient/20261107-isra%C3%ABl-gadi-eisenkot-rival-de-benjamin-netanyahu-sera-charg%C3%A9-de-former-le-prochain-gouvernement",
+     "date": "2026-11-07T19:41+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "rubrique": "International",
+   "titre": "Stephen Miller, un réactionnaire à la tête de l'administration Trump",
+   "resume": "Aux États-Unis, quel signal Donald Trump allait-il donner après sa défaite aux élections de mi-mandat ? Le président américain a décidé de nommer une figure de la droite identitaire comme nouveau directeur de cabinet : Stephen Miller, considéré comme un défenseur du suprémacisme blanc. Une décision fortement critiquée par les démocrates.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Stephen Miller, un réactionnaire à la tête de l'administration Trump",
+     "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/stephen-miller-un-reactionnaire-a-la-tete-de-l-administration-trump_8272337.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-07T14:42+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Stephen Miller, «cerveau de Trump» et architecte de sa politique migratoire, promu directeur de cabinet de la Maison Blanche",
+     "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261107-%C3%A9tats-unis-cerveau-de-donald-trump-stephen-miller-nomm%C3%A9-directeur-de-cabinet-de-la-maison-blanche",
+     "date": "2026-11-07T05:49+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "BBC News",
+     "titre": "With Stephen Miller pick, Trump readies for a battle",
+     "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-06T23:24+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "Stephen Miller, Trump’s incoming chief of staff, pledges ‘total devotion’ to the president",
+     "url": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty",
+     "date": "2026-11-07T15:15+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s4",
+   "rubrique": "International",
+   "titre": "Israel's president tasks opposition leader Eisenkot with forming government",
+   "resume": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "Israel's president tasks opposition leader Eisenkot with forming government",
+     "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-07T22:19+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+     "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+     "date": "2026-11-07T19:49+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Israel’s president picks Eisenkot over Netanyahu to form next government",
+     "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
+     "date": "2026-11-07T20:26+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "rubrique": "International",
+   "titre": "Paraguay’s ousted president appears before prosecutors after impeachment",
+   "resume": "Former Paraguayan President Santiago Pena has appeared before prosecutors.",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "Paraguay's former president charged after bank collapse",
+     "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-07T19:17+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+     "url": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
+     "date": "2026-11-07T01:55+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Paraguay’s ousted president appears before prosecutors after impeachment",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-paraguay-former-president-detained-appears?traffic_source=rss",
+     "date": "2026-11-07T20:08+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s6",
+   "rubrique": "International",
+   "titre": "🔴 Pologne : au moins cinq morts dans une fusillade à Cracovie, selon la police, le suspect interpellé ⤵️",
+   "resume": "",
+   "sources": [
+    {
+     "media": "France 24",
+     "titre": "🔴 Pologne : au moins cinq morts dans une fusillade à Cracovie, selon la police, le suspect interpellé ⤵️",
+     "url": "https://www.france24.com/fr/europe/20261107-fusillade-pologne-au-moins-cinq-morts-plusieurs-bless%C3%A9s-tireur-interpell%C3%A9",
+     "date": "2026-11-07T15:31+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Pologne: six morts dans une fusillade à Cracovie, le tireur «fasciné par les idéologies d'extrême droite»",
+     "url": "https://www.rfi.fr/fr/europe/20261107-pologne-fusillade-dans-le-centre-de-cracovie-le-tireur-interpell%C3%A9",
+     "date": "2026-11-07T15:24+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Courrier international",
+     "titre": "Au moins six morts et quinze blessés en plein cœur de Cracovie après une fusillade",
+     "url": "https://www.courrierinternational.com/article/pologne-au-moins-six-morts-et-quinze-blesses-en-plein-c-ur-de-cracovie-apres-une-fusillade_285652",
+     "date": "2026-11-07T17:24+00:00",
+     "acces": "mixte"
+    }
+   ]
+  },
+  {
+   "id": "s7",
+   "rubrique": "International",
+   "titre": "L'Ukraine frappée par des bombardements nocturnes russes \"massifs\" contre ses infrastructures énergétiques",
+   "resume": "Selon Volodymyr Zelensky, au moins neuf personnes ont été blessées, dont un enfant, lors de ces attaques qui ont touché une dizaine de régions du pays. Le président ukrainien a par ailleurs affirmé que l'armée russe avait notamment utilisé des missiles fabriqués en Corée du Nord lors de ces frappes.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "L'Ukraine frappée par des bombardements nocturnes russes \"massifs\" contre ses infrastructures énergétiques",
+     "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-un-pont-et-des-infrastructures-energetiques-endommages-par-des-frappes-russes-dans-la-region-de-kiev_8272043.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-07T14:42+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "L'Ukraine frappée par des frappes nocturnes russes à Kiev et sa région",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261107-l-ukraine-frapp%C3%A9e-par-des-frappes-nocturnes-russes-%C3%A0-kiev-et-sa-r%C3%A9gion",
+     "date": "2026-11-07T14:10+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Ukraine: de nouvelles frappes nocturnes russes «massives» contre des infrastructures énergétiques",
+     "url": "https://www.rfi.fr/fr/europe/20261107-ukraine-de-nouvelles-frappes-nocturnes-russes-massives-contre-des-infrastructures-%C3%A9nerg%C3%A9tiques",
+     "date": "2026-11-07T12:02+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s8",
+   "rubrique": "Économie",
+   "titre": "Mobilisation du 7 novembre : 146 000 personnes ont défilé en France samedi selon le ministère de l'Intérieur, 250 000 selon l'intersyndicale de la jeunesse",
+   "resume": "De nouvelles manifestations se sont tenues samedi sous haute sécurité, deux jours après une mobilisation nationale de grande ampleur à l'appel des syndicats.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Revivez les manifestations du 7 novembre : 146 000 personnes ont défilé dans le calme en France, selon le ministère de l’intérieur, 250 000, selon l’intersyndicale de la jeunesse",
+     "url": "https://www.lemonde.fr/societe/live/2026/11/07/en-direct-manifestations-du-7-novembre-146-000-personnes-ont-defile-en-france-samedi-selon-le-ministere-de-l-interieur-250-000-selon-l-intersyndicale-de-la-jeunesse_6808254_3224.html",
+     "date": "2026-11-07T17:07+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Mobilisation du 7 novembre : 146 000 personnes ont défilé en France samedi selon le ministère de l'Intérieur, 250 000 selon l'intersyndicale de la jeunesse",
+     "url": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-7-novembre-suivez-avec-nous-cette-nouvelle-journee-de-manifestations_8272010.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-08T05:20+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s9",
+   "rubrique": "International",
+   "titre": "Plus de 5000 cas de rougeole enregistrés aux États-Unis en 2026, un niveau inédit depuis 35 ans",
+   "resume": "Selon les chiffres rapportés vendredi 6 novembre par l'Agence fédérale américaine de contrôle et de prévention des maladies, plus de 5 000 cas de rougeole ont déjà été recensés cette année aux États-Unis, soit un niveau jamais atteint depuis 35 ans. Très contagieuse, cette infection virale touche principalement les jeunes enfants et peut entraîner de graves complications, voire la mort. Plusieurs spécialistes estimen",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Etats-Unis : plus de 5 000 cas de rougeole recensés depuis le début de l’année, un niveau inédit en trente-cinq ans",
+     "url": "https://www.lemonde.fr/planete/article/2026/11/07/etats-unis-plus-de-5-000-cas-de-rougeole-recenses-depuis-le-debut-de-l-annee-un-niveau-jamais-vu-en-trente-cinq-ans_6807968_3244.html",
+     "date": "2026-11-07T00:35+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "RFI",
+     "titre": "Plus de 5000 cas de rougeole enregistrés aux États-Unis en 2026, un niveau inédit depuis 35 ans",
+     "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261108-plus-de-5000-cas-de-rougeole-enregistr%C3%A9s-aux-%C3%A9tats-unis-en-2026-un-niveau-in%C3%A9dit-depuis-35-ans",
+     "date": "2026-11-08T03:58+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "rubrique": "International",
+   "titre": "What we know so far after Krakow gun attack",
+   "resume": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "What we know so far after Krakow gun attack",
+     "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-08T01:47+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "What’s the point? Ten years after the Paris treaty, are climate talks getting anywhere?",
+     "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere",
+     "date": "2026-11-07T05:00+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "Three teenagers arrested after 17-year-old injured in Gloucester sword attack",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured",
+     "date": "2026-11-07T16:41+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "rubrique": "International",
+   "titre": "Maison Kanty's, la mode ivoirienne tissée de souvenirs et de savoir-faire",
+   "resume": "William Mackenzie, cofondateur et directeur artistique de la marque ivoirienne Maison Kanty's, crée avec Thierry Aguy des collections inspirées de leur vécu et de leur héritage culturel. La maison valorise l'artisanat local et les matières innovantes dans une démarche écoresponsable, récompensée cette année par un prix à Africa Fashion Up. Elle participera à l'Afrik Fashion Week à Abidjan du 11 au 15 novembre.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Que faire si je constate des fissures sur ma maison ?",
+     "url": "https://www.lemonde.fr/argent/article/2026/11/07/que-faire-si-je-constate-des-fissures-sur-ma-maison_6808202_1657007.html",
+     "date": "2026-11-07T05:00+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "RFI",
+     "titre": "Maison Kanty's, la mode ivoirienne tissée de souvenirs et de savoir-faire",
+     "url": "https://www.rfi.fr/fr/podcasts/100-cr%C3%A9ation/20261107-maison-kanty-s-la-mode-ivoirienne-tiss%C3%A9e-de-souvenirs-et-de-savoir-faire",
+     "date": "2026-11-07T23:02+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "rubrique": "International",
+   "titre": "Dana White, le patron de l’UFC et proche de Donald Trump, sollicité pour devenir porte-parole de la Maison Blanche",
+   "resume": "Le président américain a exhorté le dirigeant de la plus grande organisation mondiale d’arts martiaux mixtes à accepter ce poste vacant depuis le 16 octobre, lui suggérant de s’entourer de combattants pour affronter « la gauche cinglée ».",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Dana White, le patron de l’UFC et proche de Donald Trump, sollicité pour devenir porte-parole de la Maison Blanche",
+     "url": "https://www.lemonde.fr/international/article/2026/11/07/dana-white-le-patron-de-l-ufc-sollicite-par-donald-trump-au-poste-de-porte-parole-de-la-maison-blanche_6808316_3210.html",
+     "date": "2026-11-07T20:53+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Donald Trump propose le poste de porte-parole de la Maison Blanche à Dana White, patron d'une fédération de MMA",
+     "url": "https://www.franceinfo.fr/monde/usa/donald-trump-propose-le-poste-de-porte-parole-de-la-maison-blanche-a-dana-white-patron-d-une-federation-de-mma_8272667.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-07T19:28+00:00",
+     "acces": "libre"
+    }
+   ]
+  }
+ ],
+ "date": "2026-11-08",
+ "genere_le": "2026-11-08T05:22+00:00",
+ "articles_analyses": 254
+}
