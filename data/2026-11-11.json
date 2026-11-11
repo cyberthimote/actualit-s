@@ -1,0 +1,356 @@
+{
+ "mode": "revue",
+ "items": [
+  {
+   "id": "s1",
+   "rubrique": "International",
+   "titre": "En direct : poursuite des pourparlers entre l'Ukraine et la Russie à Abu Dhabi",
+   "resume": "Le président ukrainien Volodymyr Zelensky s'est dit \"satisfait\" du changement d'approche de Washington dans les pourparlers avec Moscou qui doivent se poursuivre mercredi à Abu Dhabi, insistant toutefois sur la nécessité de garanties de sécurité pour son pays. Suivez notre direct.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Guerre en Ukraine : à Abu Dhabi, les pourparlers russo-ukrainiens condamnés à l’impasse",
+     "url": "https://www.lemonde.fr/international/article/2026/11/11/guerre-en-ukraine-a-abu-dhabi-les-pourparlers-russo-ukrainiens-condamnes-a-l-impasse_6808927_3210.html",
+     "date": "2026-11-11T04:30+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Après la reprise des pourparlers entre l'Ukraine et la Russie, Volodymyr Zelensky juge que les échanges ont été \"constructifs\"",
+     "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/apres-la-reprise-des-pourparlers-entre-l-ukraine-et-la-russie-volodymyr-zelensky-juge-que-les-echanges-ont-ete-constructifs_8276978.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-10T22:01+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "En direct : poursuite des pourparlers entre l'Ukraine et la Russie à Abu Dhabi",
+     "url": "https://www.france24.com/fr/europe/20261111-en-direct-poursuite-pourparlers-ukraine-russie-abu-dhabi-zelensky-poutine-kushner",
+     "date": "2026-11-11T02:32+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Pourparlers Ukraine-Russie: Washington appelle à un «nouveau» cadre de sécurité avec l'Europe",
+     "url": "https://www.rfi.fr/fr/europe/20261110-pourparlers-ukraine-russie-washington-appelle-%C3%A0-un-nouveau-cadre-de-s%C3%A9curit%C3%A9-avec-l-europe",
+     "date": "2026-11-10T16:24+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "rubrique": "International",
+   "titre": "France: sans surprise, Éric Zemmour annonce sa candidature à l'élection présidentielle",
+   "resume": "Après 2022, le président de Reconquête ! retente sa chance. Éric Zemmour a annoncé, ce mardi 10 novembre, qu'il rentrait officiellement dans la course à l'Élysée. Il préparait le terrain depuis quelques mois, c’est désormais officiel.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Eric Zemmour confirme sa candidature à l’élection présidentielle",
+     "url": "https://www.lemonde.fr/politique/article/2026/11/10/eric-zemmour-confirme-sa-candidature-a-l-election-presidentielle_6808904_823448.html",
+     "date": "2026-11-10T19:55+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Eric Zemmour, leader du parti d'extrême droite Reconquête, officialise sa candidature à l'élection présidentielle de 2027",
+     "url": "https://www.franceinfo.fr/elections/presidentielle/eric-zemmour-leader-du-parti-d-extreme-droite-reconquete-officialise-sa-candidature-a-la-presidentielle_8276858.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-10T20:10+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Éric Zemmour confirme sa candidature à la présidentielle pour \"enrayer le déclin\"",
+     "url": "https://www.france24.com/fr/france/20261110-%C3%A9ric-zemmour-confirme-candidature-pr%C3%A9sidentielle-enrayer-d%C3%A9clin",
+     "date": "2026-11-10T20:15+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "France: sans surprise, Éric Zemmour annonce sa candidature à l'élection présidentielle",
+     "url": "https://www.rfi.fr/fr/france/20261110-france-sans-surprise-%C3%A9ric-zemmour-annonce-sa-candidature-%C3%A0-l-%C3%A9lection-pr%C3%A9sidentielle",
+     "date": "2026-11-10T21:44+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "rubrique": "International",
+   "titre": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+   "resume": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+     "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-11T03:26+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "Pentagon declares ‘total victory’ after House Republicans block effort to impeach Pete Hegseth – as it happened",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
+     "date": "2026-11-11T02:55+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Iran war live: US House blocks Hegseth impeachment with 11 Democrats absent",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks?traffic_source=rss",
+     "date": "2026-11-11T00:01+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "House Republicans block Pete Hegseth impeachment effort",
+     "url": "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss",
+     "date": "2026-11-10T22:36+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s4",
+   "rubrique": "International",
+   "titre": "Au Brésil, Meta condamnée à une lourde amende pour un traitement jugé inégal entre Lula et Flavio Bolsonaro durant la présidentielle",
+   "resume": "Au cours de la campagne, l’équipe de Lula avait accusé la maison mère de Facebook, d’Instagram et de WhatsApp de s’être livrée à une « manipulation algorithmique » destinée à avantager son rival de droite.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Au Brésil, Meta condamnée à une lourde amende pour un traitement jugé inégal entre Lula et Flavio Bolsonaro durant la présidentielle",
+     "url": "https://www.lemonde.fr/international/article/2026/11/11/au-bresil-meta-condamnee-a-une-lourde-amende-pour-un-traitement-juge-inegal-entre-lula-et-flavio-bolsonaro-durant-la-presidentielle_6808918_3210.html",
+     "date": "2026-11-11T03:16+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "France 24",
+     "titre": "Présidentielle au Brésil : Meta écope d'une amende pour traitement inégal entre Lula et Bolsonaro",
+     "url": "https://www.france24.com/fr/am%C3%A9riques/20261111-presidentielle-bresil-meta-ecope-amende-traitement-inegal-lula-bolsonaro",
+     "date": "2026-11-11T02:40+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Brésil: amende contre Meta pour traitement inégal entre Lula et Bolsonaro lors de la présidentielle",
+     "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261111-br%C3%A9sil-amende-contre-meta-pour-traitement-in%C3%A9gal-entre-lula-et-bolsonaro-lors-de-la-pr%C3%A9sidentielle",
+     "date": "2026-11-11T01:39+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "rubrique": "International",
+   "titre": "Un militaire américain arrêté en Angleterre, soupçonné d’espionnage au profit de la Russie",
+   "resume": "Le suspect de 41 ans est soupçonné d’avoir enfreint plusieurs articles de la loi britannique de 2023 sur la sécurité nationale, qui concernent l’obtention ou la divulgation d’informations protégées et l’assistance à un service de renseignement étranger.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Un militaire américain arrêté en Angleterre, soupçonné d’espionnage au profit de la Russie",
+     "url": "https://www.lemonde.fr/international/article/2026/11/11/un-militaire-americain-arrete-en-angleterre-soupconne-d-espionnage-au-profit-de-la-russie_6808915_3210.html",
+     "date": "2026-11-11T01:55+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "France 24",
+     "titre": "Le Royaume-Uni arrête un militaire américain soupçonné d'espionnage au profit de la Russie",
+     "url": "https://www.france24.com/fr/europe/20261110-royaume-uni-arrete-militaire-americain-soup%C3%A7onne-espionnage-russie",
+     "date": "2026-11-10T22:46+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Un militaire américain arrêté au Royaume-Uni, soupçonné d'espionnage au profit de la Russie",
+     "url": "https://www.rfi.fr/fr/europe/20261110-un-militaire-am%C3%A9ricain-arr%C3%AAt%C3%A9-au-royaume-uni-soup%C3%A7onn%C3%A9-d-espionnage-au-profit-de-la-russie",
+     "date": "2026-11-10T20:49+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s6",
+   "rubrique": "International",
+   "titre": "Congrès américain : la procédure de destitution contre Pete Hegseth tuée dans l'œuf",
+   "resume": "Les députés américains, majoritaires au Congrès jusqu'au mois de janvier, ont voté mardi pour renvoyer en commission la procédure de destitution à l'encontre du ministre de la Défense Pete Hegseth, ce qui permet de renvoyer sine die tout vote contre lui. Donald Trump s'est réjoui d'une \"victoire totale\".",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Pete Hegseth, visé par une procédure de destitution, dénonce une « mise en scène politique »",
+     "url": "https://www.lemonde.fr/international/article/2026/11/10/vise-par-une-procedure-de-destitution-pete-hegseth-denonce-une-mise-en-scene-politique_6808854_3210.html",
+     "date": "2026-11-10T15:02+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "Etats-Unis : Pete Hegseth, défiant et offensif, échappe à une tentative de destitution au Congrès",
+     "url": "https://www.lemonde.fr/international/article/2026/11/11/etats-unis-pete-hegseth-defiant-et-offensif-echappe-a-une-tentative-de-destitution-au-congres_6808912_3210.html",
+     "date": "2026-11-11T00:28+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Le ministre de la Défense américain, Pete Hegseth, visé par une procédure de destitution, dénonce une \"mise en scène politique\"",
+     "url": "https://www.franceinfo.fr/monde/usa/le-ministre-de-la-defense-americain-pete-hegseth-vise-par-une-procedure-de-destitution-denonce-une-mise-en-scene-politique_8276519.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-10T15:51+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Congrès américain : la procédure de destitution contre Pete Hegseth tuée dans l'œuf",
+     "url": "https://www.france24.com/fr/am%C3%A9riques/20261111-congres-americain-procedure-de-destitution-contre-pete-hegseth-tuee-dans-l-%C5%93uf",
+     "date": "2026-11-11T01:01+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s7",
+   "rubrique": "France",
+   "titre": "La pétition appelant à \"supprimer CNews de l'audiovisuel français\" classée en commission à l'Assemblée nationale",
+   "resume": "Les députés de la commission des affaires culturelles et de l'éducation se sont opposés, d'une courte majorité, à l'organisation d'un débat dans l'hémicycle sur ce texte, qui a recueilli plus d'un million de signatures.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "La pétition pour « supprimer CNews de l’audiovisuel français » est enterrée par l’Assemblée nationale",
+     "url": "https://www.lemonde.fr/economie/article/2026/11/10/la-petition-pour-supprimer-cnews-de-l-audiovisuel-francais-est-enterree-par-l-assemblee-nationale_6808844_3234.html",
+     "date": "2026-11-10T14:16+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "La pétition appelant à \"supprimer CNews de l'audiovisuel français\" classée en commission à l'Assemblée nationale",
+     "url": "https://www.franceinfo.fr/politique/la-petition-appelant-a-supprimer-cnews-de-l-audiovisuel-francais-classee-par-la-commission-de-l-assemblee-nationale_8276303.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-10T19:28+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Le Figaro",
+     "titre": "Pétition contre CNews : quelles suites possibles à l’Assemblée nationale ?",
+     "url": "https://www.lefigaro.fr/medias/petition-contre-cnews-quelles-suites-possibles-a-l-assemblee-nationale-20261109",
+     "date": "2026-11-10T11:05+00:00",
+     "acces": "mixte"
+    }
+   ]
+  },
+  {
+   "id": "s8",
+   "rubrique": "Économie",
+   "titre": "Derrière la cyberattaque contre les frigos de supermarchés, l’Iran et l’unité cyber Shahid Kaveh des gardiens de la révolution",
+   "resume": "L’Etat français, qui accuse Téhéran d’être à l’origine de l’attaque de la mi-octobre, a convoqué l’ambassadeur iranien à Paris. Cette unité est connue pour ses attaques contre les systèmes industriels.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Derrière la cyberattaque contre les frigos de supermarchés, l’Iran et l’unité cyber Shahid Kaveh des gardiens de la révolution",
+     "url": "https://www.lemonde.fr/pixels/article/2026/11/10/derriere-la-cyberattaque-contre-les-frigos-de-supermarches-l-iran-et-l-unite-cyber-des-gardiens-de-la-revolution_6808819_4408996.html",
+     "date": "2026-11-10T10:30+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "L'Iran rejette \"les accusations infondées\" de la France concernant la cyberattaque contre les frigos de supermarchés",
+     "url": "https://www.franceinfo.fr/monde/iran/l-iran-rejette-les-accusations-infondees-de-la-france-concernant-la-cyberattaque-contre-des-frigos_8276831.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-10T19:17+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Cyberattaques contre les supermarchés français : Shahid Kaveh, des saboteurs iraniens récidivistes",
+     "url": "https://www.france24.com/fr/%C3%A9co-tech/20261110-cyberattaques-cyberav3nger-supermarch%C3%A9s-fran%C3%A7ais-shahid-kaveh-saboteurs-iraniens-r%C3%A9cidivistes",
+     "date": "2026-11-10T16:48+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s9",
+   "rubrique": "International",
+   "titre": "Malaysia’s ex-PM transferred to house arrest for 1MDB graft sentence",
+   "resume": "Former Malaysian Prime Minister Najib Razak has been transferred from prison to his Kuala Lumpur home for house arrest.",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+     "url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-10T18:33+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Malaysia’s ex-PM transferred to house arrest for 1MDB graft sentence",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/malaysias-ex-pm-transferred-to-house-arrest-for-1mdb-graft-sentence?traffic_source=rss",
+     "date": "2026-11-11T04:56+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "rubrique": "International",
+   "titre": "Le journaliste Christophe Gleizes, en détention en Algérie, compose avec la routine de la vie carcérale : « Ce sont 500 jours de trop »",
+   "resume": "Le reporter français, condamné en juin 2025 pour « apologie du terrorisme », est incarcéré dans la prison de Koléa, l’un des plus grands établissements pénitentiaires du pays. Ses proches décrivent un homme combatif, « qui ne peut se passer d’être journaliste, même en prison ».",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Le journaliste Christophe Gleizes, en détention en Algérie, compose avec la routine de la vie carcérale : « Ce sont 500 jours de trop »",
+     "url": "https://www.lemonde.fr/international/article/2026/11/11/le-journaliste-christophe-gleizes-en-detention-en-algerie-compose-avec-la-routine-de-la-vie-carcerale-ce-sont-500-jours-de-trop_6808926_3210.html",
+     "date": "2026-11-11T04:30+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "RFI",
+     "titre": "De Zidane à Infantino, la mobilisation continue pour Christophe Gleizes après 500 jours de détention",
+     "url": "https://www.rfi.fr/fr/afrique/20261111-de-zidane-%C3%A0-infantino-la-mobilisation-continue-pour-christophe-gleizes-apr%C3%A8s-500-jours-de-d%C3%A9tention",
+     "date": "2026-11-11T03:45+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "rubrique": "International",
+   "titre": "France: le RN en passe d'obtenir un prêt bancaire pour financer la campagne présidentielle de Marine Le Pen",
+   "resume": "Le Rassemblement national a annoncé ce mardi 10 novembre être tout proche d'obtenir le prêt bancaire qu'il recherche pour financer la campagne de Marine Le Pen. La formation d'extrême droite devrait cependant se tourner une fois de plus vers deux banques étrangères.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "INFO FRANCEINFO. Le RN a obtenu un pré-accord de deux banques européennes pour financer sa campagne pour la présidentielle",
+     "url": "https://www.franceinfo.fr/politique/front-national/info-franceinfo-le-rn-a-un-obtenu-un-pre-accord-de-deux-banques-europeennes-pour-financer-sa-campagne-pour-la-presidentielle_8276195.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-10T11:29+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "France: le RN en passe d'obtenir un prêt bancaire pour financer la campagne présidentielle de Marine Le Pen",
+     "url": "https://www.rfi.fr/fr/france/20261111-france-le-rn-en-passe-d-obtenir-un-pr%C3%AAt-bancaire-pour-financer-la-campagne-pr%C3%A9sidentielle-de-marine-le-pen",
+     "date": "2026-11-11T04:12+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "rubrique": "International",
+   "titre": "El Salvador fires missiles on Haitian gang hideout",
+   "resume": "El Salvador’s military fired rockets at a compound allegedly belonging to the leader of Haiti’s 400 Mawozo gang.",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "Headquarters of Haitian gang destroyed, El Salvador's president says",
+     "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-11T02:47+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "El Salvador fires missiles on Haitian gang hideout",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/el-salvador-fires-missiles-on-haitian-gang-hideout?traffic_source=rss",
+     "date": "2026-11-11T03:00+00:00",
+     "acces": "libre"
+    }
+   ]
+  }
+ ],
+ "date": "2026-11-11",
+ "genere_le": "2026-11-11T05:28+00:00",
+ "articles_analyses": 290
+}
