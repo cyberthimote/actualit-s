@@ -1,0 +1,342 @@
+{
+ "mode": "revue",
+ "items": [
+  {
+   "id": "s1",
+   "rubrique": "International",
+   "titre": "Les écoles italiennes, irlandaises et écossaises visées par des alertes à la bombe",
+   "resume": "Des courriers électroniques menaçants ont été envoyés à des milliers d’établissements scolaires, mercredi 11 novembre. Les autorités de Belfast, de Dublin et d’Edimbourg ont minimisé le danger, mais en Italie le gouvernement voudrait quand même sensibiliser davantage les citoyens aux risques de la guerre hybride.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Les écoles italiennes, irlandaises et écossaises visées par des alertes à la bombe",
+     "url": "https://www.lemonde.fr/international/article/2026/11/11/les-ecoles-italiennes-irlandaises-et-ecossaises-visees-par-des-alertes-a-la-bombe_6809033_3210.html",
+     "date": "2026-11-11T22:30+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "\"On n'a rien trouvé, dans aucune école\", assure Giorgia Meloni après les milliers d'alertes à la bombe ayant visé des écoles italiennes",
+     "url": "https://www.franceinfo.fr/monde/italie/on-n-a-rien-trouve-dans-aucune-ecole-assure-giorgia-meloni-apres-les-milliers-d-alertes-a-la-bombe-ayant-vise-des-ecoles-italiennes_8278382.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-11T22:09+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Italie : des centaines d’écoles évacuées après des fausses alertes à la bombe",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-italie-des-centaines-d-%C3%A9coles-%C3%A9vacu%C3%A9es-apr%C3%A8s-des-fausses-alertes-%C3%A0-la-bombe",
+     "date": "2026-11-11T18:34+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Courrier international",
+     "titre": "Des écoles italiennes, irlandaises et britanniques visées par des alertes à la bombe",
+     "url": "https://www.courrierinternational.com/article/menaces-des-ecoles-italiennes-irlandaises-et-britanniques-visees-par-des-alertes-a-la-bombe_286443",
+     "date": "2026-11-11T13:34+00:00",
+     "acces": "mixte"
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "rubrique": "International",
+   "titre": "Deux journalistes et deux députés français interdits de séjour en Russie, une nouvelle étape dans la dégradation des relations entre Paris et Moscou",
+   "resume": "Les députés Sacha Houlié et Arthur Delaporte, ainsi que les journalistes Ariane Chemin, du « Monde », et Paul Gogo ont été ciblés « en raison de leur participation au harcèlement de Xenia Fedorova », propagandiste du Kremlin et salariée du groupe Bolloré, selon les termes du ministère russe des affaires étrangères.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Deux journalistes et deux députés français interdits de séjour en Russie, une nouvelle étape dans la dégradation des relations entre Paris et Moscou",
+     "url": "https://www.lemonde.fr/international/article/2026/11/11/quatre-journalistes-et-deputes-francais-interdits-de-sejour-en-russie-une-nouvelle-etape-dans-la-degradation-des-relations-entre-paris-et-moscou_6809031_3210.html",
+     "date": "2026-11-11T20:40+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "La Russie interdit de territoire deux députés et deux journalistes français, en réponse à l'expulsion de Xenia Fedorova",
+     "url": "https://www.franceinfo.fr/monde/russie/la-russie-interdit-l-entree-sur-son-territoire-a-deux-deputes-et-deux-journalistes-francais-en-reponse-a-l-expulsion-de-xenia-fedorova_8277836.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-11T20:15+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "La Russie interdit de territoire deux députés et deux journalistes français, en réponse à l'expulsion de Xenia Fedorova",
+     "url": "https://www.franceinfo.fr/monde/russie/la-russie-interdit-l-entree-sur-son-territoire-a-deux-deputes-et-deux-journalistes-francais-en-reponse-a-l-expulsion-de-xenia-fedorova_8277836.html#xtor=RSS-3-%5Beconomie%5D",
+     "date": "2026-11-11T20:15+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Affaire Fedorova : Moscou déclare persona non grata deux journalistes et deux députés français",
+     "url": "https://www.france24.com/fr/europe/20261111-affaire-fedorova-moscou-d%C3%A9clare-deux-journalistes-et-deux-d%C3%A9put%C3%A9s-fran%C3%A7ais-persona-non-grata",
+     "date": "2026-11-11T16:23+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "rubrique": "International",
+   "titre": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+   "resume": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+     "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-12T04:00+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "Scott Colom claims victory as he addresses supporters in Mississippi following his historic Senate victory – as it happened",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
+     "date": "2026-11-12T03:46+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "Democrat Scott Colom unseats Cindy Hyde-Smith in stunning Mississippi Senate win",
+     "url": "https://www.theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-senate-race",
+     "date": "2026-11-12T00:11+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Democrat Scott Colom wins closely watched US Senate race in Mississippi",
+     "url": "https://www.aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi?traffic_source=rss",
+     "date": "2026-11-11T23:05+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s4",
+   "rubrique": "International",
+   "titre": "Le Paraguay rembourse une partie de leurs avoirs à tous les épargnants de Ueno Bank",
+   "resume": "La Banque centrale du Paraguay a annoncé mercredi avoir partiellement remboursé la totalité des clients de Ueno Bank bénéficiant d'une garantie de l'État, après la faillite de cette dernière qui a provoqué la destitution du président Santiago Peña.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Paraguay : la Banque centrale rembourse en partie tous les clients de Ueno Bank dont l’effondrement a provoqué la chute du président",
+     "url": "https://www.lemonde.fr/international/article/2026/11/12/paraguay-la-banque-centrale-rembourse-en-partie-tous-les-clients-de-ueno-bank-dont-l-effondrement-a-provoque-la-chute-du-president_6809038_3210.html",
+     "date": "2026-11-12T01:40+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "France 24",
+     "titre": "Le Paraguay rembourse une partie de leurs avoirs à tous les épargnants de Ueno Bank",
+     "url": "https://www.france24.com/fr/am%C3%A9riques/20261112-paraguay-rembourse-une-partie-de-leurs-avoirs-epargnants-ueno-bank",
+     "date": "2026-11-12T02:09+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Le Paraguay restitue une partie de leurs avoirs à tous les clients de Ueno Bank",
+     "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261111-le-paraguay-restitue-une-partie-de-leurs-avoirs-%C3%A0-tous-les-clients-de-ueno-bank",
+     "date": "2026-11-11T22:54+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "rubrique": "International",
+   "titre": "Former Italian Red Brigades member escapes house arrest in Argentina",
+   "resume": "Bertulazzi used a rope and harness to climb down from a fifth-floor apartment and evade authorities in Argentina.",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
+     "url": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-11T14:56+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina",
+     "url": "https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina",
+     "date": "2026-11-11T19:00+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Former Italian Red Brigades member escapes house arrest in Argentina",
+     "url": "https://www.aljazeera.com/news/2026/11/12/former-italian-red-brigades-member-escapes-house-arrest-in-argentina?traffic_source=rss",
+     "date": "2026-11-12T01:04+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s6",
+   "rubrique": "International",
+   "titre": "Clashes erupt in Barcelona after thousands join Spain general strike",
+   "resume": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "Clashes erupt in Barcelona after thousands join Spain general strike",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-11T22:07+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "Millions join Spain’s first general strike in 14 years in protest at housing costs",
+     "url": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs",
+     "date": "2026-11-11T18:51+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Barcelona erupts in violence after general strike",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/barcelona-erupts-in-violence-after-general-strike?traffic_source=rss",
+     "date": "2026-11-11T23:50+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s7",
+   "rubrique": "International",
+   "titre": "L'Ukraine et la Russie ont trouvé un accord pour un vaste échange de prisonniers lors des négociations ukraino-russes à Abou Dhabi",
+   "resume": "Jared Kushner, l'un des émissaires de Donald Trump, a rapporté que le nombre de détenus concernés serait tranché jeudi.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "L'Ukraine et la Russie ont trouvé un accord pour un vaste échange de prisonniers lors des négociations ukraino-russes à Abou Dhabi",
+     "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/kiev-et-moscou-se-sont-accordees-pour-un-vaste-echange-de-prisonniers-lors-des-negociations-ukraino-russes_8278220.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-11T19:00+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Ukraine-Russie: fin annoncée des pourparlers sous médiation américaine à Abou Dhabi",
+     "url": "https://www.rfi.fr/fr/europe/20261111-ukraine-russie-fin-annonc%C3%A9e-pourparlers-sous-m%C3%A9diation-am%C3%A9ricaine-%C3%A0-abou-dhabi",
+     "date": "2026-11-11T11:25+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Courrier international",
+     "titre": "Pourparlers d’Abou Dhabi : une promesse d’échange de prisonniers mais pas d’avancée sur un cessez-le-feu",
+     "url": "https://www.courrierinternational.com/article/ukraine-pourparlers-d-abou-dhabi-une-promesse-d-echange-de-prisonniers-mais-pas-d-avancee-sur-un-cessez-le-feu_286575",
+     "date": "2026-11-12T04:52+00:00",
+     "acces": "mixte"
+    }
+   ]
+  },
+  {
+   "id": "s8",
+   "rubrique": "International",
+   "titre": "Soudan du Sud : Amnesty International dénonce l’inaction tragique des autorités et de l’ONU",
+   "resume": "Plus de 200 personnes dont des enfants sont mortes au cours d’un massacre perpétré le 1ᵉʳ mars par des rebelles. Selon un rapport de l’organisation de défense des droits humains, publié jeudi, le pouvoir soudanais ainsi que la Minuss avaient été informés de la possibilité de cette attaque au moins deux semaines plus tôt.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Soudan du Sud : Amnesty International dénonce l’inaction tragique des autorités et de l’ONU",
+     "url": "https://www.lemonde.fr/afrique/article/2026/11/12/soudan-du-sud-amnesty-international-denonce-l-inaction-tragique-des-autorites-et-de-l-onu_6809060_3212.html",
+     "date": "2026-11-12T05:16+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Amnesty dénonce l'inaction des autorités et de l'ONU pour empêcher un massacre au Soudan du Sud",
+     "url": "https://www.franceinfo.fr/monde/afrique/soudan-du-sud/amnesty-denonce-l-inaction-des-autorites-et-de-l-onu-pour-empecher-un-massacre-au-soudan-du-sud_8278367.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-11T21:53+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s9",
+   "rubrique": "International",
+   "titre": "Nvidia board reportedly meeting to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
+   "resume": "Huang’s potential departure would leave a leadership vacuum at the roughly $4tn chipmaker he co-founded, with Nvidia’s shares sliding about 8% in ​after-hours trading Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding is a plain vanilla 3.6%. On the other hand, Nvidia’s board does not appear to have spent much time w",
+   "sources": [
+    {
+     "media": "The Guardian",
+     "titre": "Nvidia board reportedly meeting to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
+     "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+     "date": "2026-11-12T05:14+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Nvidia shares plunge amid reports board to discuss CEO Huang’s future",
+     "url": "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future?traffic_source=rss",
+     "date": "2026-11-12T00:43+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "rubrique": "International",
+   "titre": "New York building collapse kills at least two, officials say",
+   "resume": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "New York building collapse kills at least two, officials say",
+     "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-12T05:12+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Building collapse in Brooklyn kills two, injures more than a dozen",
+     "url": "https://www.aljazeera.com/news/2026/11/12/building-collapse-in-brooklyn-kills-two-injures-more-than-a-dozen?traffic_source=rss",
+     "date": "2026-11-12T03:31+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "rubrique": "France",
+   "titre": "Présidentielle 2027 : Bruno Retailleau propose un calendrier pour la primaire et accentue la pression sur Edouard Philippe",
+   "resume": "Le candidat Les Républicains propose de départager les postulants à l’Elysée les 31 janvier et 7 février. Une première réunion doit avoir lieu mardi pour fixer les modalités. Si Gabriel Attal et David Lisnard seront représentés par leurs directeurs de campagne, le siège du représentant Horizons restera vide.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Présidentielle 2027 : Bruno Retailleau propose un calendrier pour la primaire et accentue la pression sur Edouard Philippe",
+     "url": "https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-bruno-retailleau-propose-un-calendrier-pour-la-primaire-et-accentue-la-pression-sur-edouard-philippe_6809051_823448.html",
+     "date": "2026-11-12T05:00+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Bruno Retailleau propose une primaire de la droite et du centre les 31 janvier et 7 février",
+     "url": "https://www.franceinfo.fr/elections/presidentielle/bruno-retailleau-propose-une-primaire-de-la-droite-et-du-centre-les-31-janvier-et-7-fevrier_8277581.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-11T09:54+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "rubrique": "International",
+   "titre": "En visite dans «sa patrie» au Pérou, Léon XIV appelle à surmonter les divisions du passé",
+   "resume": "Accueilli avec ferveur mercredi 11 novembre 2026 au Pérou, sa « patrie », où il a vécu près de vingt ans, le pape Léon XIV a appelé les Péruviens à aborder les épisodes douloureux du passé avec « justice et sensibilité ».",
+   "sources": [
+    {
+     "media": "France 24",
+     "titre": "Au Pérou, sa patrie d'adoption, le pape Léon XIV appelle à surmonter les divisions du passé",
+     "url": "https://www.france24.com/fr/am%C3%A9riques/20261111-apr%C3%A8s-l-argentine-le-pape-l%C3%A9on-xiv-arrive-au-p%C3%A9rou-sa-patrie-d-adoption",
+     "date": "2026-11-11T17:58+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "En visite dans «sa patrie» au Pérou, Léon XIV appelle à surmonter les divisions du passé",
+     "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261112-en-visite-dans-sa-patrie-au-p%C3%A9rou-l%C3%A9on-xiv-appelle-%C3%A0-surmonter-les-divisions-du-pass%C3%A9",
+     "date": "2026-11-12T04:08+00:00",
+     "acces": "libre"
+    }
+   ]
+  }
+ ],
+ "date": "2026-11-12",
+ "genere_le": "2026-11-12T05:30+00:00",
+ "articles_analyses": 282
+}
