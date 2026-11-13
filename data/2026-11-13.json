@@ -1,0 +1,328 @@
+{
+ "mode": "revue",
+ "items": [
+  {
+   "id": "s1",
+   "rubrique": "International",
+   "titre": "Jensen Huang has resigned, what's next for Nvidia?",
+   "resume": "The BBC's Samira Hussain reports from Wall Street on what the fall of the tech superstar means for the company and AI.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Jensen Huang, patron emblématique de Nvidia et parrain de l’IA, quitte ses fonctions",
+     "url": "https://www.lemonde.fr/economie/article/2026/11/12/jensen-huang-patron-emblematique-de-nvidia-et-parrain-de-l-ia-demis-de-ses-fonctions_6809106_3234.html",
+     "date": "2026-11-12T13:53+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Effondrement en bourse, révélations du New York Times… La chute de Jensen Huang, le patron de Nvidia proche de Donald Trump",
+     "url": "https://www.franceinfo.fr/economie/entreprises/effondrement-en-bourse-revelations-du-new-york-times-la-chute-de-jensen-huang-le-patron-de-nvidia-proche-de-donald-trump_8280008.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-12T21:54+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Effondrement en bourse, révélations du New York Times… La chute de Jensen Huang, le patron de Nvidia proche de Donald Trump",
+     "url": "https://www.franceinfo.fr/economie/entreprises/effondrement-en-bourse-revelations-du-new-york-times-la-chute-de-jensen-huang-le-patron-de-nvidia-proche-de-donald-trump_8280008.html#xtor=RSS-3-%5Beconomie%5D",
+     "date": "2026-11-12T21:54+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Avec la démission de son PDG Jensen Huang, le géant de la tech Nvidia vacille",
+     "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261112-direct-nvidia-pdg-jensen-huang-pdg-sellette-wall-street-chine",
+     "date": "2026-11-12T12:18+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "rubrique": "France",
+   "titre": "Israël interdit à Jean-Luc Mélenchon et Mathilde Panot l'entrée sur son territoire, dénonçant \"la position anti-israélienne virulente\" de La France insoumise",
+   "resume": "\"Je regrette que le gouvernement d'Israël me poursuive de cette manière\", a réagi Jean-Luc Mélenchon sur franceinfo, assurant qu'il ne changerait pas son discours sur le pays s'il était élu.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "L’avenir selon La France insoumise : l’analyse du programme de Jean-Luc Mélenchon",
+     "url": "https://www.lemonde.fr/podcasts/article/2026/11/13/l-avenir-selon-la-france-insoumise-l-analyse-du-programme-de-jean-luc-melenchon_6809267_5463015.html",
+     "date": "2026-11-13T04:00+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "Jean-Luc Mélenchon a été interdit d’entrée en Israël en raison de la « position extrêmement hostile » de LFI",
+     "url": "https://www.lemonde.fr/international/article/2026/11/12/israel-interdit-a-jean-luc-melenchon-l-entree-sur-son-territoire-jugeant-lfi-extremement-hostile-a-son-egard_6809141_3210.html",
+     "date": "2026-11-12T17:39+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Israël interdit à Jean-Luc Mélenchon et Mathilde Panot l'entrée sur son territoire, dénonçant \"la position anti-israélienne virulente\" de La France insoumise",
+     "url": "https://www.franceinfo.fr/politique/la-france-insoumise/israel-interdit-a-jean-luc-melenchon-et-mathilde-panot-l-entree-sur-son-territoire-denoncant-la-position-extremement-anti-israelienne-de-la-france-insoumise_8279801.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-12T19:56+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Israël interdit l'entrée sur son territoire à Mélenchon, Paris dénonce une \"décision démagogique\"",
+     "url": "https://www.france24.com/fr/france/20261112-isra%C3%ABl-interdit-entr%C3%A9e-territoire-jean-luc-m%C3%A9lenchon-lfi-gauche-radicale-gaza-colonies",
+     "date": "2026-11-12T17:25+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "rubrique": "International",
+   "titre": "Gaza surgeon films aftermath of Israeli strike",
+   "resume": "British volunteer surgeon films the terrifying aftermath of an Israeli strike on Gaza’s Nasser Hospital.",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+     "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-12T16:54+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others",
+     "url": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
+     "date": "2026-11-12T12:19+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Gaza surgeon films aftermath of Israeli strike",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/gaza-surgeon-films-aftermath-of-israeli-strike?traffic_source=rss",
+     "date": "2026-11-13T03:11+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s4",
+   "rubrique": "International",
+   "titre": "Mississippi : Scott Colom, premier sénateur noir élu depuis 150 ans",
+   "resume": "Dans le Mississippi, Scott Colom devient le premier sénateur noir élu depuis près de 150 ans dans cet État du Sud, marqué par l’histoire de la ségrégation. Sa victoire, qui s’inscrit dans la vague bleue des élections de mi-mandat, est-elle un tournant politique et symbolique ? Comment expliquer ce résultat dans un État où la population noire ne représente que 30 % des habitants ? Reed Brody, avocat et ancien substitu",
+   "sources": [
+    {
+     "media": "France 24",
+     "titre": "Mississippi : Scott Colom, premier sénateur noir élu depuis 150 ans",
+     "url": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261112-mississippi-les-d%C3%A9mocrates-remportent-un-si%C3%A8ge-au-s%C3%A9nat",
+     "date": "2026-11-12T19:11+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Courrier international",
+     "titre": "Au Mississippi, l’élection du premier sénateur noir depuis 145 ans, “un séisme dans le Sud profond”",
+     "url": "https://www.courrierinternational.com/article/midterms-au-mississippi-le-premier-senateur-noir-depuis-145-ans-est-un-seisme-dans-le-sud-profond_286674",
+     "date": "2026-11-12T16:25+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "BBC News",
+     "titre": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+     "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-12T12:56+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "BBC News",
+     "titre": "Before Scott Colom, these two men were the last black US senators from Mississippi",
+     "url": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-12T14:12+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "rubrique": "International",
+   "titre": "From ocean legend to undersea reef: Why has the SS United States been sunk?",
+   "resume": "The ship had been inactive for years despite various owners attempting to save and restore it.",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "Famed ship SS United States deliberately sunk off Florida coast to become a reef",
+     "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-12T04:03+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "From ocean legend to undersea reef: Why has the SS United States been sunk?",
+     "url": "https://www.aljazeera.com/news/2026/11/13/from-ocean-legend-to-undersea-reef-why-has-the-ss-united-states-been-sunk?traffic_source=rss",
+     "date": "2026-11-13T04:39+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s6",
+   "rubrique": "France",
+   "titre": "Présidentielle 2027 : l’offensive illibérale de Marine Le Pen",
+   "resume": "Associations, syndicats, magistrats, journalistes : les dirigeants du Rassemblement national multiplient les attaques publiques contre les corps intermédiaires, les institutions et les organisations civiles susceptibles de les critiquer.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Présidentielle 2027 : l’offensive illibérale de Marine Le Pen",
+     "url": "https://www.lemonde.fr/politique/article/2026/11/13/presidentielle-2027-l-offensive-illiberale-de-marine-le-pen_6809272_823448.html",
+     "date": "2026-11-13T04:29+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Présidentielle 2027 : Marine Tondelier promet l'ouverture de 2 000 centres de santé d'ici 2030 en France",
+     "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-marine-tondelier-promet-l-ouverture-de-2-000-centres-de-sante-d-ici-2030-en-france_8279639.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-12T16:03+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s7",
+   "rubrique": "International",
+   "titre": "Who is US Senator Chris Van Hollen?",
+   "resume": "Van Hollen is known for his anti-war positions and championing progressive causes.",
+   "sources": [
+    {
+     "media": "The Guardian",
+     "titre": "Chris Van Hollen says he will run for Senate majority leader, challenging fellow Democrat Chuck Schumer – as it happened",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
+     "date": "2026-11-13T03:04+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "Chris Van Hollen to challenge Chuck Schumer for Senate majority leader",
+     "url": "https://www.theguardian.com/us-news/2026/nov/12/chris-van-hollen-chuck-schumer-senate-majority-leader",
+     "date": "2026-11-13T02:30+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Who is US Senator Chris Van Hollen?",
+     "url": "https://www.aljazeera.com/news/2026/11/13/who-is-us-senator-chris-van-hollen?traffic_source=rss",
+     "date": "2026-11-13T04:28+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s8",
+   "rubrique": "International",
+   "titre": "Guerre en Ukraine : les émissaires américains assurent que les Européens seront associés aux prochaines réunions de négociation de paix",
+   "resume": "Depuis plusieurs mois, l’Europe réclame une place à la table des négociations, mais Moscou n’a pas confirmé son accord. Jared Kushner et Steve Witkoff, les envoyés spéciaux de Donald Trump, sont repartis de Moscou, jeudi, avec très peu d’éléments nouveaux sur les négociations entre la Russie et l’Ukraine.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Guerre en Ukraine : les émissaires américains assurent que les Européens seront associés aux prochaines réunions de négociation de paix",
+     "url": "https://www.lemonde.fr/international/article/2026/11/13/guerre-en-ukraine-les-emissaires-americains-assurent-que-les-europeens-seront-associes-aux-prochaines-reunions-de-negociation-de-paix_6809269_3210.html",
+     "date": "2026-11-13T04:00+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "France 24",
+     "titre": "En direct : les Européens seront présents aux prochaines négociations sur l'Ukraine",
+     "url": "https://www.france24.com/fr/europe/20261113-en-direct-ukraine-russie-europeens-presents-prochaines-negociations-zelensky-poutine",
+     "date": "2026-11-13T03:32+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s9",
+   "rubrique": "International",
+   "titre": "Finland detects strike on Russian warship as Zelenskyy meets US envoys",
+   "resume": "Reports of attack in Baltic came before US envoys met with Russian and Ukrainian presidents.",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+     "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-12T20:09+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Finland detects strike on Russian warship as Zelenskyy meets US envoys",
+     "url": "https://www.aljazeera.com/news/2026/11/13/finland-detects-strike-on-russian-warship-as-zelenskyy-meets-us-envoys?traffic_source=rss",
+     "date": "2026-11-13T02:35+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "rubrique": "Économie",
+   "titre": "Une panne mondiale d’Outlook perturbe l’accès aux e-mails",
+   "resume": "Après environ huit heures de blocage, le géant Microsoft a annoncé, dans la nuit de jeudi à vendredi, que les mesures prises pour résoudre le problème ne fonctionnaient « pas comme prévu », et qu’il s’employait à trouver des solutions alternatives.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Une panne mondiale d’Outlook perturbe l’accès aux e-mails",
+     "url": "https://www.lemonde.fr/pixels/article/2026/11/13/une-panne-mondiale-d-outlook-empeche-des-dizaines-de-milliers-d-utilisateurs-d-acceder-a-leurs-e-mails_6809171_4408996.html",
+     "date": "2026-11-12T23:36+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "France 24",
+     "titre": "Une panne mondiale affecte la messagerie Outlook de Microsoft",
+     "url": "https://www.france24.com/fr/%C3%A9co-tech/20261112-une-panne-mondiale-affecte-la-messagerie-outlook-de-microsoft",
+     "date": "2026-11-12T22:57+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "rubrique": "International",
+   "titre": "Ligue des nations: la France de Zidane battue par l’Italie à San Siro",
+   "resume": "Privée de nombreux cadres, l’équipe de France s’est logiquement inclinée (3-1) ce jeudi 12 novembre à San Siro face à l’Italie lors de la cinquième journée du groupe A de la Ligue des nations. Il s’agit de la première défaite de l’ère Zidane et les Bleus joueront leur qualification pour les quarts de finale dimanche contre la Turquie.",
+   "sources": [
+    {
+     "media": "France 24",
+     "titre": "🔴 Ligue des nations : la France renversée par l'Italie, la qualification en danger",
+     "url": "https://www.france24.com/fr/sports/20261112-ligue-nations-france-renversee-italie-qualification",
+     "date": "2026-11-12T21:41+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Ligue des nations: la France de Zidane battue par l’Italie à San Siro",
+     "url": "https://www.rfi.fr/fr/sports/20261112-ligue-des-nations-la-france-de-zidane-battue-par-l-italie-%C3%A0-san-siro",
+     "date": "2026-11-12T22:06+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "rubrique": "International",
+   "titre": "\"Déjà 12 ou 13 personnes dans le village ont été tuées\" : en Inde, les tensions territoriales entre habitants et éléphants sauvages font des centaines de morts chaque année",
+   "resume": "En Inde, des éléphants sauvages chargent jusque dans les villages. Ces attaques font des centaines de morts chaque année. Les forêts qui abritent ces animaux reculent, et les rencontres avec les habitants se multiplient. Dans certaines campagnes, sortir travailler ou rentrer chez soi peut devenir dangereux : nos équipes ont partagé ce quotidien sous tension.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "\"Déjà 12 ou 13 personnes dans le village ont été tuées\" : en Inde, les tensions territoriales entre habitants et éléphants sauvages font des centaines de morts chaque année",
+     "url": "https://www.franceinfo.fr/environnement/biodiversite/animaux/deja-12-ou-13-personnes-dans-le-village-qui-ont-ete-tuees-en-inde-les-tensions-territoriales-entre-habitants-et-elephants-sauvages-font-des-centaines-de-morts-chaque-annee_8280089.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-12T21:56+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "ONU Info",
+     "titre": "Haïti : plus de 1 100 personnes tuées entre juillet et septembre",
+     "url": "https://news.un.org/feed/view/fr/story/2026/11/1159831",
+     "date": "2026-11-12T12:00+00:00",
+     "acces": "libre"
+    }
+   ]
+  }
+ ],
+ "date": "2026-11-13",
+ "genere_le": "2026-11-13T05:28+00:00",
+ "articles_analyses": 278
+}
