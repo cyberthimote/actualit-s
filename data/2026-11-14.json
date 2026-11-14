@@ -1,0 +1,314 @@
+{
+ "mode": "revue",
+ "items": [
+  {
+   "id": "s1",
+   "rubrique": "Économie",
+   "titre": "Ce que l’on sait de la panne d’Outlook et de Microsoft 365",
+   "resume": "Plusieurs services de Microsoft, comme Outlook, Teams ou Copilot, ont connu d’importantes perturbations jeudi et vendredi, ce qui a affecté entreprises et gouvernements à travers le monde. La firme américaine, qui écarte la thèse d’une cyberattaque, notait des « progrès encourageants » en fin d’après-midi.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Ce que l’on sait de la panne d’Outlook et de Microsoft 365",
+     "url": "https://www.lemonde.fr/pixels/article/2026/11/13/ce-que-l-on-sait-de-la-panne-d-outlook-et-de-microsoft-365_6809312_4408996.html",
+     "date": "2026-11-13T10:42+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Panne mondiale d'Outlook : de CrowdStrike à Facebook, ces grandes pannes qui ont révélé notre dépendance aux géants de la tech",
+     "url": "https://www.franceinfo.fr/internet/panne-informatique-mondiale/panne-mondiale-d-outlook-de-crowdstrike-a-facebook-ces-grandes-pannes-qui-ont-revele-notre-dependance-aux-geants-de-la-tech_8281130.html#xtor=RSS-3-%5Beconomie%5D",
+     "date": "2026-11-13T15:27+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Panne mondiale chez Microsoft : l'Europe sous dépendance ?",
+     "url": "https://www.france24.com/fr/%C3%A9missions/la-question-qui-f%C3%A2che/20261113-panne-mondiale-chez-microsoft-l-europe-sous-d%C3%A9pendance",
+     "date": "2026-11-13T22:56+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Panne mondiale Microsoft: la firme présente ses excuses et écarte la piste d'une cyberattaque",
+     "url": "https://www.rfi.fr/fr/%C3%A9conomie/20261113-panne-mondiale-microsoft-la-firme-pr%C3%A9sente-ses-excuses-et-%C3%A9carte-la-piste-d-une-cyberattaque",
+     "date": "2026-11-13T19:34+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "rubrique": "International",
+   "titre": "US flight outage: FAA lifts nationwide ground stop; Trump officials suggest new tech overwhelmed old equipment – as it happened",
+   "resume": "This live blog is now closed. Follow our latest coverage here. US aviation agency lifts nationwide ground stop affecting all air travel Chaos at US airports as flight stoppage grinds travel plans to a halt Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in the company’s history. My colleagues are covering the latest and how it’s affecting millions an",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
+     "url": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-14T01:47+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "US flight outage: FAA lifts nationwide ground stop; Trump officials suggest new tech overwhelmed old equipment – as it happened",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+     "date": "2026-11-14T03:11+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "US flights resume after FAA lifts hours-long nationwide ground stop",
+     "url": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss",
+     "date": "2026-11-13T21:32+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "rubrique": "International",
+   "titre": "Après plusieurs heures de suspension des vols, les États-Unis rouvrent leur espace aérien",
+   "resume": "Des milliers de vols ont été annulés vendredi après-midi aux États-Unis après la fermeture de l'espace aérien au niveau national. Les vols ont de nouveau été autorisés dans la soirée, mais le retour à la normale sera progressif. Écartant la piste d'une cyberattaque, le ministre des Transports a pointé vers la responsabilité de \"vieux matériel\" informatique, en réclamant de nouveaux moyens au Congrès.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Suspension des vols aux Etats-Unis : l’agence de l’aviation civile annonce une reprise du trafic aérien après une vaste « panne des télécommunications »",
+     "url": "https://www.lemonde.fr/international/article/2026/11/14/suspension-des-vols-aux-etats-unis-l-agence-de-l-aviation-civile-annonce-une-reprise-du-trafic-aerien-apres-une-vaste-panne-des-telecommunications_6809389_3211.html",
+     "date": "2026-11-14T02:31+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "France 24",
+     "titre": "Après plusieurs heures de suspension des vols, les États-Unis rouvrent leur espace aérien",
+     "url": "https://www.france24.com/fr/%C3%A9co-tech/20261114-etats-unis-suspension-des-vols-reouverture-espace-aerien-faa",
+     "date": "2026-11-14T02:42+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "États-Unis: l'espace aérien rouvert après une suspension des vols de plusieurs heures",
+     "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261113-le-r%C3%A9gulateur-am%C3%A9ricain-de-l-aviation-ordonne-l-arr%C3%AAt-de-tous-les-vols-%C3%A0-cause-d-un-probl%C3%A8me-de-communication",
+     "date": "2026-11-13T21:45+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s4",
+   "rubrique": "International",
+   "titre": "JOJ de Dakar, clap de fin : succès et satisfaction pour une première en Afrique",
+   "resume": "Clap de fin aux 4e Jeux Olympique de la Jeunesse Dakar 2026. Après deux semaines de compétition 5 pays africains se sont classés dans le top 10 du classement des médailles à savoir l'Egypte, l'Ethiopie, le Senegal, le Kenya et l'Afrique du Sud, une première dans l'histoire des jeux. Les athlètes et encadreurs ont manifesté leur entière satisfaction sur l'organisation de ce premier évènement olympique en Afrique.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Jeux olympiques de la jeunesse de Dakar 2026, une année record pour l’Afrique",
+     "url": "https://www.lemonde.fr/videos/video/2026/11/13/jeux-olympiques-de-la-jeunesse-de-dakar-2026-une-annee-record-pour-l-afrique_6809359_1669088.html",
+     "date": "2026-11-13T16:44+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "France 24",
+     "titre": "JOJ de Dakar, clap de fin : succès et satisfaction pour une première en Afrique",
+     "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261113-joj-de-dakar-clap-de-fin-succ%C3%A8s-et-satisfaction-pour-une-premi%C3%A8re-en-afrique",
+     "date": "2026-11-13T22:30+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "JOJ Dakar 2026: un bilan satisfaisant, porteur d’espoir pour de prochains Jeux en Afrique",
+     "url": "https://www.rfi.fr/fr/sports/20261113-joj-dakar-2026-un-bilan-satisfaisant-porteur-d-espoir-pour-de-prochains-jeux-en-afrique",
+     "date": "2026-11-13T18:19+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "rubrique": "International",
+   "titre": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
+   "resume": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
+     "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-13T21:14+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "Microsoft ‘deeply sorry’ for global disruption that could have billion-dollar impact on Australia",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia",
+     "date": "2026-11-14T00:52+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Microsoft services begin recovering after global outage",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/microsoft-services-begin-recovering-after-global-outage?traffic_source=rss",
+     "date": "2026-11-14T00:17+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s6",
+   "rubrique": "International",
+   "titre": "German spies granted sweeping new powers",
+   "resume": "Parliament passes legislation months after a thwarted attack at Leipzig-Halle airport, which Berlin linked to Russia.",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+     "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-13T15:42+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "German spies granted sweeping new powers",
+     "url": "https://www.aljazeera.com/news/2026/11/14/german-spies-granted-sweeping-new-powers?traffic_source=rss",
+     "date": "2026-11-14T04:41+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s7",
+   "rubrique": "International",
+   "titre": "All passengers and crew accounted for after New Orleans boat crash in ‘miracle on the Mississippi’",
+   "resume": "No passengers or crew killed or critically hurt after tanker collides with river cruise ship on Mississippi, officials say In what the city’s mayor declared a “miracle on the Mississippi”, all passengers were accounted for – with none killed or critically hurt – after a tanker collided with a river cruise ship docked on the Mississippi River in New Orleans on Friday afternoon. Thirty-two people were taken to local ho",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+     "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-13T23:40+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "All passengers and crew accounted for after New Orleans boat crash in ‘miracle on the Mississippi’",
+     "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans",
+     "date": "2026-11-14T03:11+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s8",
+   "rubrique": "International",
+   "titre": "Donald Trump, Xi Jinping et Vladimir Poutine vont se rencontrer jeudi en Chine",
+   "resume": "Les présidents américain, chinois et russe vont se rencontrer jeudi à Shenzhen, en Chine, en marge du sommet de l'Apec. Les sujets du nucléaire et de l'Iran devraient être abordés, mais probablement pas l'Ukraine.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "La Maison Blanche annonce une rencontre trilatérale entre Donald Trump, Vladimir Poutine et Xi Jinping, jeudi en Chine",
+     "url": "https://www.lemonde.fr/international/article/2026/11/14/la-maison-blanche-annonce-une-rencontre-trilaterale-entre-donald-trump-vladimir-poutine-et-xi-jinping-jeudi-en-chine_6809488_3210.html",
+     "date": "2026-11-14T01:49+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "France 24",
+     "titre": "Donald Trump, Xi Jinping et Vladimir Poutine vont se rencontrer jeudi en Chine",
+     "url": "https://www.france24.com/fr/asie-pacifique/20261114-donald-trump-xi-jinping-vladimir-poutine-vont-se-rencontrer-jeudi-chine",
+     "date": "2026-11-14T02:15+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s9",
+   "rubrique": "International",
+   "titre": "Un navire-citerne percute un bateau de croisière à La Nouvelle-Orléans, aucun blessé grave",
+   "resume": "Douze personnes ont été sorties de l’eau et 32 personnes ont été transportées à l’hôpital. La collision a eu lieu alors que le bateau de la compagnie American Cruise Lines était amarré à quai, sur le Mississippi, avec ses passagers à bord.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Un navire-citerne percute un bateau de croisière à La Nouvelle-Orléans, aucun blessé grave",
+     "url": "https://www.lemonde.fr/international/article/2026/11/14/un-navire-citerne-percute-un-bateau-de-croisiere-a-la-nouvelle-orleans-aucun-blesse-grave_6809455_3210.html",
+     "date": "2026-11-14T00:35+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Un porte-conteneurs et un bateau de croisière sont entrés en collision dans le port de La Nouvelle-Orléans",
+     "url": "https://www.franceinfo.fr/monde/usa/un-porte-conteneurs-et-un-bateau-de-croisiere-sont-entres-en-collision-dans-le-port-de-la-nouvelle-orleans_8281676.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-13T22:28+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "rubrique": "International",
+   "titre": "Aux Etats-Unis, l'administration fédérale de l'aviation ordonne l'arrêt de tous les vols à cause d'un \"problème de communication\"",
+   "resume": "Le ministre américain des Transports, Sean Duffy, a expliqué vendredi que des techniciens \"enquêtent\" actuellement \"sur le problème\".",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Aux Etats-Unis, l'administration fédérale de l'aviation ordonne l'arrêt de tous les vols à cause d'un \"problème de communication\"",
+     "url": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-l-administration-federale-de-l-aviation-ordonne-l-arret-de-tous-les-vols-a-cause-d-un-probleme-de-communication_8281691.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-13T23:00+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "États-Unis : l'agence de l'aviation civile ordonne l'arrêt de tous les vols à cause d'un problème de communication",
+     "url": "https://www.france24.com/fr/am%C3%A9riques/20261113-%C3%A9tats-unis-tous-les-vols-arr%C3%AAt%C3%A9s-dans-les-a%C3%A9roports-du-pays-en-raison-d-un-probl%C3%A8me-de-communication",
+     "date": "2026-11-13T21:35+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "rubrique": "International",
+   "titre": "L’armée américaine intervient pour une « suspicion d’activité de drone non autorisée » au-dessus d’une base militaire britannique",
+   "resume": "« Aucun membre du personnel, aucun avion ni aucune infrastructure n’ont été touchés », a fait savoir un porte-parole de l’armée de l’air américaine, une fois l’incident résolu. La base concernée se situe à Lakenheath, dans l’est de l’Angleterre.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "L’armée américaine intervient pour une « suspicion d’activité de drone non autorisée » au-dessus d’une base militaire britannique",
+     "url": "https://www.lemonde.fr/international/article/2026/11/13/l-armee-americaine-intervient-pour-une-suspicion-d-activite-de-drone-non-autorisee-au-dessus-d-une-base-militaire-britannique_6809392_3210.html",
+     "date": "2026-11-13T22:51+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "L'armée américaine rapporte qu'elle a répondu à une activité de drone détectée au-dessus d'une base britannique",
+     "url": "https://www.franceinfo.fr/internet/drones/l-armee-americaine-rapporte-qu-elle-a-repondu-a-une-activite-de-drone-detectee-au-dessus-d-une-base-britannique_8281700.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-13T22:12+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "rubrique": "International",
+   "titre": "Mort de Jesús de Miguel: le gardien d'Andorre Jesús Owono suspendu 12 matches",
+   "resume": "Le gardien de but d'Andorre Jesús Owono a été suspendu douze matches pour avoir percuté l'attaquant de Tenerife Jesús de Miguel, décédé le lendemain des suites du choc lors d'un match de deuxième division, a annoncé vendredi 13 novembre la Fédération espagnole de football (RFEF).",
+   "sources": [
+    {
+     "media": "France 24",
+     "titre": "Mort de Jesus de Miguel : l'équato-guinéen Jesus Owono fixé sur son sort",
+     "url": "https://www.france24.com/fr/sports/20261113-mort-de-jesus-de-miguel-l-%C3%A9quato-guin%C3%A9en-jesus-owono-conna%C3%AEt-la-dur%C3%A9e-de-sa-suspension",
+     "date": "2026-11-13T21:54+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Mort de Jesús de Miguel: le gardien d'Andorre Jesús Owono suspendu 12 matches",
+     "url": "https://www.rfi.fr/fr/sports/20261113-mort-de-jes%C3%BAs-de-miguel-le-gardien-d-andorre-jes%C3%BAs-owono-suspendu-12-matches",
+     "date": "2026-11-13T22:31+00:00",
+     "acces": "libre"
+    }
+   ]
+  }
+ ],
+ "date": "2026-11-14",
+ "genere_le": "2026-11-14T05:22+00:00",
+ "articles_analyses": 269
+}
