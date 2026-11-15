@@ -1,0 +1,314 @@
+{
+ "mode": "revue",
+ "items": [
+  {
+   "id": "s1",
+   "rubrique": "International",
+   "titre": "Ukraine : Volodymyr Zelensky évoque l’hypothèse américaine d’une adhésion de son pays à l’OTAN contre la cession du Donbass",
+   "resume": "Les envoyés de Donald Trump ont proposé à Kiev une adhésion à l’OTAN en échange de territoires dans le Donbass, ce que l’Ukraine ne prend pas au sérieux, tandis que Vladimir Poutine campe sur ses exigences territoriales.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Ukraine : Volodymyr Zelensky évoque l’hypothèse américaine d’une adhésion de son pays à l’OTAN contre la cession du Donbass",
+     "url": "https://www.lemonde.fr/international/article/2026/11/15/ukraine-volodymyr-zelensky-evoque-l-hypothese-americaine-d-une-adhesion-de-son-pays-a-l-otan-contre-la-cession-du-donbass_6810710_3210.html",
+     "date": "2026-11-14T23:49+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Volodymyr Zelensky affirme que Washington a proposé des concessions territoriales en échange d'une adhésion de l'Ukraine à l'Otan",
+     "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-affirme-que-washington-a-propose-des-concessions-territoriales-en-echange-d-une-adhesion-de-l-ukraine-a-l-otan_8282804.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-14T19:47+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Guerre en Ukraine : les Etats-Unis ont proposé des concessions territoriales en échange d'une adhésion de Kiev à l'Otan, selon Volodymyr Zelensky",
+     "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-volodymy-zelensky-affirme-que-les-etats-unis-ont-propose-des-concessions-territoriales-en-echange-d-une-adhesion-de-kiev-a-l-otan_8282333.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-14T11:14+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Ukraine: Washington aurait proposé des concessions territoriales en échange d'une adhésion du pays à l'Otan",
+     "url": "https://www.rfi.fr/fr/europe/20261114-ukraine-washington-aurait-propos%C3%A9-des-concessions-territoriales-en-%C3%A9change-d-une-adh%C3%A9sion-du-pays-%C3%A0-l-otan",
+     "date": "2026-11-14T13:43+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "rubrique": "International",
+   "titre": "En Israël, Gadi Eisenkot dénonce les « ruses » de Benyamin Nétanyahou, qui plaide pour la formation d’un gouvernement d’union",
+   "resume": "Aux yeux du premier ministre israélien sortant, seul un gouvernement d’union nationale avec Gadi Eisenkot permettra de « garantir la sécurité d’Israël » face à l’Iran, dont il promet d’éliminer la menace « une fois pour toutes ».",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "En Israël, Gadi Eisenkot dénonce les « ruses » de Benyamin Nétanyahou, qui plaide pour la formation d’un gouvernement d’union",
+     "url": "https://www.lemonde.fr/international/article/2026/11/14/en-israel-gadi-eisenkot-denonce-les-ruses-de-benyamin-netanyahou-qui-plaide-pour-la-formation-d-un-gouvernement-d-union_6810511_3210.html",
+     "date": "2026-11-14T19:33+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Après les élections, Benyamin Nétanyahou réaffirme que seul un gouvernement d'union nationale peut \"garantir la sécurité d'Israël\"",
+     "url": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/apres-les-elections-benyamin-netanyahou-reaffirme-que-seul-un-gouvernement-d-union-nationale-peut-garantir-la-securite-d-israel_8282762.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-14T19:05+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Israël : Eisenkot accuse Netanyahu d'entraver la formation d'un gouvernement",
+     "url": "https://www.france24.com/fr/moyen-orient/20261114-isra%C3%ABl-eisenkot-accuse-netanyahu-d-entraver-la-formation-d-un-gouvernement",
+     "date": "2026-11-14T21:14+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Israël: le bras de fer Eisenkot-Netanyahu se poursuit, la formation d'un gouvernement piétine",
+     "url": "https://www.rfi.fr/fr/moyen-orient/20261114-isra%C3%ABl-le-bras-de-fer-eisenkot-netanyahu-se-poursuit-la-formation-d-un-gouvernement-pi%C3%A9tine",
+     "date": "2026-11-14T21:22+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "rubrique": "International",
+   "titre": "Macron dénonce \"ceux qui veulent rationner\" l’aide à l’Ukraine et \"l’obliger à une paix injuste\"",
+   "resume": "Dans un message publié sur son compte X, Emmanuel Macron a estimé samedi que \"rationner les moyens de l'Ukraine\" était \"la recette pour la guerre d'après\". Le président de la République a appelé à ne pas diminuer les aides à l'Ukraine, comme la candidate du Rassemblement national Marine Le Pen l'a précédemment envisagé, si elle est élue.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Guerre en Ukraine : Emmanuel Macron dénonce « ceux qui veulent rationner » l’aide à Kiev et « l’obliger à une paix injuste ». Retrouvez nos informations du 9 au 14 novembre.",
+     "url": "https://www.lemonde.fr/international/live/2026/11/14/en-direct-guerre-en-ukraine-emmanuel-macron-denonce-ceux-qui-veulent-rationner-l-aide-a-kiev-et-l-obliger-a-une-paix-injuste_6808609_3210.html",
+     "date": "2026-11-14T19:33+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Emmanuel Macron affirme que \"ceux qui veulent rationner\" l'aide à l'Ukraine veulent \"l'obliger à une paix injuste\"",
+     "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/emmanuel-macron-affirme-que-ceux-qui-veulent-rationner-l-aide-a-l-ukraine-veulent-l-obliger-a-une-paix-injuste_8282819.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-14T19:31+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Macron dénonce \"ceux qui veulent rationner\" l’aide à l’Ukraine et \"l’obliger à une paix injuste\"",
+     "url": "https://www.france24.com/fr/france/20261114-macron-d%C3%A9nonce-ceux-qui-veulent-rationner-l-aide-%C3%A0-l-ukraine-et-l-obliger-%C3%A0-une-paix-injuste",
+     "date": "2026-11-14T20:02+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s4",
+   "rubrique": "France",
+   "titre": "Présidentielle 2027 : Teddy Riner découvre le combat politique, entre popularité et agacement",
+   "resume": "Le judoka a passé son samedi après-midi au salon du Made in France alors que sa campagne connaît déjà des premières turbulences. Au milieu d’une forêt de micros et caméras, le tout récent candidat a tenu à se démarquer du « macronisme ».",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Présidentielle 2027 : Teddy Riner découvre le combat politique, entre popularité et agacement",
+     "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/15/presidentielle-2027-teddy-riner-decouvre-le-combat-politique-entre-popularite-et-agacement_6810907_6205049.html",
+     "date": "2026-11-15T04:15+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "\"Peut-il mettre à mal l'annonce faite d'un combat entre le RN et LFI ?\" : Jean-Charles Orsucci, porte-parole de campagne de Gabriel Attal, ne ferme par la porte à Teddy Riner",
+     "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/peut-il-mettre-a-mal-l-annonce-faite-d-un-combat-entre-le-rn-et-lfi-jean-charles-orsucci-porte-parole-de-campagne-de-gabriel-attal-ne-ferme-par-la-porte-a-teddy-riner_8281595.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-13T21:31+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "rubrique": "International",
+   "titre": "Cyberattaques et IA : vous n’avez encore rien vu !",
+   "resume": "Frigos qui chauffent ou fausses alertes nucléaires : en mettant en évidence les vulnérabilités des systèmes informatiques, l’intelligence artificielle facilite la tâche des hackers, qu’ils travaillent pour leur propre compte ou pour celui d’États malveillants, prévient “The Guardian”.",
+   "sources": [
+    {
+     "media": "RFI",
+     "titre": "Présidentielle en France: Teddy Riner attire les foules mais ne dévoile encore rien de son programme",
+     "url": "https://www.rfi.fr/fr/france/20261114-pr%C3%A9sidentielle-en-france-teddy-riner-attire-les-foules-mais-ne-d%C3%A9voile-encore-rien-de-son-programme",
+     "date": "2026-11-14T22:27+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Courrier international",
+     "titre": "Cyberattaques et IA : vous n’avez encore rien vu !",
+     "url": "https://www.courrierinternational.com/article/analyse-cyberattaques-et-ia-vous-n-avez-encore-rien-vu_286199",
+     "date": "2026-11-15T04:00+00:00",
+     "acces": "mixte"
+    }
+   ]
+  },
+  {
+   "id": "s6",
+   "rubrique": "International",
+   "titre": "Le Kremlin confirme une rencontre trilatérale entre Donald Trump, Vladimir Poutine et Xi Jinping, le 19 novembre en Chine",
+   "resume": "La Maison Blanche a annoncé, vendredi, que les discussions des trois chefs d’Etat, en marge du sommet de l’APEC à Shenzhen, porteraient sur le désarmement nucléaire. Selon un responsable américain, s’exprimant sous couvert d’anonymat, l’Iran sera aussi au menu de la rencontre, mais pas l’Ukraine.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Le Kremlin confirme une rencontre trilatérale entre Donald Trump, Vladimir Poutine et Xi Jinping, le 19 novembre en Chine",
+     "url": "https://www.lemonde.fr/international/article/2026/11/15/le-kremlin-confirme-une-rencontre-trilaterale-entre-donald-trump-vladimir-poutine-et-xi-jinping-le-19-novembre-en-chine_6809488_3211.html",
+     "date": "2026-11-15T03:22+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Que faut-il attendre du sommet inédit entre Xi Jinping, Vladimir Poutine et Donald Trump, prévu jeudi en Chine ?",
+     "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/que-faut-il-attendre-du-sommet-inedit-entre-xi-jinping-vladimir-poutine-et-donald-trump-attendu-jeudi-en-chine_8282519.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-14T17:38+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s7",
+   "rubrique": "International",
+   "titre": "Mouvement social en France: un «acte V» marqué par une affluence un peu moindre",
+   "resume": "Protection des enfants et adolescents, opposition au « permis de tuer » des forces de l'ordre, salaires, moyens pour l'enseignement : différentes manifestations ont rythmé, ce samedi 14 novembre, l'acte V du mouvement contre la vie chère,. Il y a eu un peu moins d'affluence et de tensions que lors des précédentes manifestations. Mais une nouvelle mobilisation « massive » est attendue pour le mardi 17 novembre.",
+   "sources": [
+    {
+     "media": "France 24",
+     "titre": "Acte V du mouvement social : des revendications variées, une affluence en baisse",
+     "url": "https://www.france24.com/fr/france/20261114-acte-v-du-mouvement-social-des-revendications-vari%C3%A9es-une-affluence-en-baisse",
+     "date": "2026-11-14T21:43+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Mouvement social en France: un «acte V» marqué par une affluence un peu moindre",
+     "url": "https://www.rfi.fr/fr/france/20261115-mouvement-social-en-france-un-acte-v-marqu%C3%A9-par-une-affluence-un-peu-moindre",
+     "date": "2026-11-15T00:02+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s8",
+   "rubrique": "International",
+   "titre": "Éliminatoires CAN 2027: l'Algérie se fait peur mais l'emporte contre le Togo",
+   "resume": "L'Algérie s'est fait peur en fin de match mais a fini par l'emporter 1-0 contre le Togo ce samedi 14 novembre. Les Fennecs ont d'abord dominé avant de perdre le fil de la partie, sans conséquence. Ils prennent ainsi les commandes du groupe I des éliminatoires de la CAN.",
+   "sources": [
+    {
+     "media": "France 24",
+     "titre": "Éliminatoires de la CAN 2027 : l'Algérie s'impose de peu contre le Togo et conforte sa première place",
+     "url": "https://www.france24.com/fr/sports/20261114-%C3%A9liminatoires-de-la-can-2027-l-alg%C3%A9rie-cale-contre-le-togo-mais-reste-en-t%C3%AAte-de-son-groupe",
+     "date": "2026-11-14T21:00+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Éliminatoires CAN 2027: l'Algérie se fait peur mais l'emporte contre le Togo",
+     "url": "https://www.rfi.fr/fr/afrique-foot/20261114-%C3%A9liminatoires-can-2027-l-alg%C3%A9rie-se-fait-peur-mais-l-emporte-contre-le-togo",
+     "date": "2026-11-14T21:18+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s9",
+   "rubrique": "International",
+   "titre": "Au Portugal, des milliers de manifestants défilent pour dénoncer la crise du logement",
+   "resume": "Le Portugal est le pays de l’Union européenne où les prix du logement ont le plus augmenté par rapport aux revenus des ménages entre 2015 et 2025. L’indicateur mesurant cette évolution a bondi de 60,8 % sur cette période.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Au Portugal, des milliers de manifestants défilent pour dénoncer la crise du logement",
+     "url": "https://www.lemonde.fr/international/article/2026/11/14/au-portugal-des-milliers-de-manifestants-defilent-pour-denoncer-la-crise-du-logement_6810643_3210.html",
+     "date": "2026-11-14T21:17+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Des milliers de Portugais manifestent contre la crise du logement",
+     "url": "https://www.franceinfo.fr/economie/pouvoir-achat/logement/des-milliers-de-portugais-manifestent-contre-la-crise-du-logement_8282765.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-14T18:23+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Des milliers de Portugais manifestent contre la crise du logement",
+     "url": "https://www.franceinfo.fr/economie/pouvoir-achat/logement/des-milliers-de-portugais-manifestent-contre-la-crise-du-logement_8282765.html#xtor=RSS-3-%5Beconomie%5D",
+     "date": "2026-11-14T18:23+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "rubrique": "France",
+   "titre": "«Je suis un pur produit français» : le candidat Teddy Riner s’offre un premier bain de foule au salon du Made in France à Paris",
+   "resume": "REPORTAGE - Pour son deuxième déplacement de campagne, Teddy Riner a arpenté pendant plus de trois heures les allées du salon du Made in France, à Paris.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Made in France : quand la présidentielle s'invite au salon",
+     "url": "https://www.franceinfo.fr/economie/industrie/made-in-france-quand-la-presidentielle-s-invite-au-salon_8282180.html#xtor=RSS-3-%5Beconomie%5D",
+     "date": "2026-11-14T07:32+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Le Figaro",
+     "titre": "«Je suis un pur produit français» : le candidat Teddy Riner s’offre un premier bain de foule au salon du Made in France à Paris",
+     "url": "https://www.lefigaro.fr/elections/presidentielles/je-suis-un-pur-produit-francais-le-candidat-teddy-riner-s-offre-un-premier-bain-de-foule-au-salon-du-made-in-france-a-paris-20261114",
+     "date": "2026-11-14T20:55+00:00",
+     "acces": "mixte"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "rubrique": "France",
+   "titre": "Manifestations du 14 novembre : retour en images sur la journée de mobilisation en France",
+   "resume": "Des manifestations aux revendications multiples se sont déroulées partout en France. Les cortèges ont défilé globalement dans le calme, malgré des « incidents » relevés par le ministère de l’intérieur dans plusieurs villes.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Manifestations du 14 novembre : retour en images sur la journée de mobilisation en France",
+     "url": "https://www.lemonde.fr/politique/video/2026/11/14/manifestations-du-14-novembre-retour-en-images-sur-la-journee-de-mobilisation-en-france_6810577_823448.html",
+     "date": "2026-11-14T20:26+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "\"Les revendications ne sont pas satisfaites\" : les gilets jaunes appellent à une nouvelle journée de mobilisation samedi 21 novembre",
+     "url": "https://www.franceinfo.fr/economie/transports/mobilisation-du-17-novembre/les-revendications-ne-sont-pas-satisfaites-les-gilets-jaunes-appellent-a-un-acte-vi-de-mobilisation-samedi-21-novembre_8282648.html#xtor=RSS-3-%5Beconomie%5D",
+     "date": "2026-11-14T16:20+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "rubrique": "International",
+   "titre": "Italie: Facebook écope d'une amende de 805 millions d'euros pour avoir accédé à des photos sans consentement",
+   "resume": "Et si vous appreniez que votre réseau social favori avait accès à vos informations personnelles sans votre autorisation ? C'est ce qu'il se serait produit en Italie depuis 2023. Les photos et vidéos d'environ 20 millions d'utilisateurs de Facebook auraient pu être consultés par la plateforme sans que cette dernière n'y ait été explicitement autorisée. Ainsi, samedi 14 novembre, l'autorité de protection des données pe",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "La maison mère de Facebook, Meta, écope d’une lourde amende en Italie pour avoir accédé à des photos sans consentement « spécifique »",
+     "url": "https://www.lemonde.fr/pixels/article/2026/11/14/la-maison-mere-de-facebook-meta-ecope-d-une-lourde-amende-en-italie-pour-avoir-accede-a-des-photos-sans-consentement-specifique_6810412_4408996.html",
+     "date": "2026-11-14T15:22+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "RFI",
+     "titre": "Italie: Facebook écope d'une amende de 805 millions d'euros pour avoir accédé à des photos sans consentement",
+     "url": "https://www.rfi.fr/fr/europe/20261114-italie-facebook-%C3%A9cope-d-une-amende-de-805-millions-d-euros-pour-avoir-acc%C3%A9d%C3%A9-%C3%A0-des-photos-sans-consentement",
+     "date": "2026-11-14T19:58+00:00",
+     "acces": "libre"
+    }
+   ]
+  }
+ ],
+ "date": "2026-11-15",
+ "genere_le": "2026-11-15T05:24+00:00",
+ "articles_analyses": 237
+}
