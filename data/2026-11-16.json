@@ -1,0 +1,321 @@
+{
+ "mode": "revue",
+ "items": [
+  {
+   "id": "s1",
+   "rubrique": "International",
+   "titre": "L’Estonie va fermer sa frontière avec la Russie après une tentative de sabotage",
+   "resume": "Huit résidents de Lettonie ont été interpellés samedi près de Tallinn. Ils sont soupçonnés d’avoir voulu incendier, pour le compte du renseignement militaire russe, les locaux d’un fabricant de drones militaires.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "L'Estonie va fermer sa frontière avec la Russie à partir du 1er décembre, après une nouvelle tentative de sabotage",
+     "url": "https://www.franceinfo.fr/monde/russie/l-estonie-va-fermer-sa-frontiere-avec-la-russie-a-partir-du-1er-decembre-apres-une-nouvelle-tentative-de-sabotage_8283728.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-15T17:56+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "L'Estonie accuse Moscou de tentative de sabotage et décide de fermer sa frontière",
+     "url": "https://www.france24.com/fr/europe/20261115-estonie-accuse-russie-tentative-sabotage-et-d%C3%A9cide-de-fermer-fronti%C3%A8re",
+     "date": "2026-11-15T17:12+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "L'Estonie va fermer sa frontière avec la Russie après une tentative de sabotage contre une usine de drones",
+     "url": "https://www.rfi.fr/fr/europe/20261115-l-estonie-va-fermer-sa-fronti%C3%A8re-avec-la-russie-apr%C3%A8s-une-tentative-de-sabotage-contre-une-usine-de-drones",
+     "date": "2026-11-15T17:25+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Courrier international",
+     "titre": "L’Estonie va fermer sa frontière avec la Russie après une tentative de sabotage",
+     "url": "https://www.courrierinternational.com/article/geopolitique-l-estonie-va-fermer-sa-frontiere-avec-la-russie-apres-une-tentative-de-sabotage_287433",
+     "date": "2026-11-16T02:46+00:00",
+     "acces": "mixte"
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "rubrique": "International",
+   "titre": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+   "resume": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+     "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-16T01:47+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’",
+     "url": "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang",
+     "date": "2026-11-16T01:17+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in 2025",
+     "url": "https://www.aljazeera.com/news/2026/11/16/megaspeed-firm-at-centre-of-nvidia-scandal-says-alice-huang-left-in-2025?traffic_source=rss",
+     "date": "2026-11-16T04:46+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "rubrique": "International",
+   "titre": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+   "resume": "Silicon Valley figures back CEO ousted after revelations of affair with suspected Chinese spy, as US treasury secretary urges Nvidia to carry out ‘dramatic shake-up’ Elon Musk and a host of other tech executives are among more than 165,000 signatories of an open letter calling for Jensen Huang’s reinstatement as Nvidia chief, days after he resigned from the multi-trillion dollar chip company. The letter demands that ",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Plus de 157 000 signataires, dont Elon Musk, demandent le retour de Jensen Huang à la tête de Nvidia",
+     "url": "https://www.lemonde.fr/pixels/article/2026/11/16/plus-de-157-000-signataires-dont-elon-musk-demandent-le-retour-de-jensen-huang-a-la-tete-de-nvidia_6811065_4408996.html",
+     "date": "2026-11-15T23:22+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "France 24",
+     "titre": "Elon Musk et plus de 157 000 signataires réclament le retour de Jensen Huang à la tête de Nvidia",
+     "url": "https://www.france24.com/fr/%C3%A9co-tech/20261116-elon-musk-uber-spacex-epic-games-157000-signataires-reclament-retour-jensen-huang-tete-nvidia-intelligence-artificielle-lettre-ouverte-enquete-independante",
+     "date": "2026-11-16T00:11+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+     "url": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
+     "date": "2026-11-16T01:01+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s4",
+   "rubrique": "International",
+   "titre": "Au Yémen, le camp gouvernemental redéploie des renforts autour d’Aden, menacée par les houthistes",
+   "resume": "Le redéploiement des troupes gouvernementales de la région de Bab Al-Mandab vers la capitale provisoire va permettre aux houthistes de consolider leur contrôle du détroit stratégique de Bab Al-Mandab, qui relie l’Asie à l’Europe via le canal de Suez.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Au Yémen, le camp gouvernemental redéploie des renforts autour d’Aden, menacée par les houthistes",
+     "url": "https://www.lemonde.fr/international/article/2026/11/15/au-yemen-le-camp-gouvernemental-redeploie-des-renforts-autour-d-aden-menacee-par-les-houthistes_6811027_3211.html",
+     "date": "2026-11-15T20:16+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Au Yémen, le camp gouvernemental masse des renforts autour d'Aden, menacée par les Houthis",
+     "url": "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-le-camp-gouvernemental-masse-des-renforts-autour-d-aden-menacee-par-les-houthis_8283851.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-15T18:47+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Yémen : les Houthis à 60 km d'Aden, le gouvernement place des renforts autour de la ville",
+     "url": "https://www.france24.com/fr/moyen-orient/20261115-y%C3%A9men-les-houthis-%C3%A0-60-km-d-aden-le-gouvernement-place-des-renforts-autour-de-la-ville",
+     "date": "2026-11-15T19:35+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "rubrique": "France",
+   "titre": "Présidentielle 2027 : \"Je ne suis pas un macroniste\", affirme Teddy Riner",
+   "resume": "En visite au salon Made in France, Teddy Riner a fermement rejeté l’étiquette macroniste, martelant qu’il n’appartient à “aucune famille politique” malgré l’appui d’Emmanuel Macron.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Présidentielle 2027 : Teddy Riner découvre le combat politique, entre popularité et agacement",
+     "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/15/presidentielle-2027-teddy-riner-decouvre-le-combat-politique-entre-popularite-et-agacement_6810907_6205049.html",
+     "date": "2026-11-15T04:15+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Présidentielle 2027 : \"Je ne suis pas un macroniste\", affirme Teddy Riner",
+     "url": "https://www.franceinfo.fr/elections/presidentielle-2027-je-ne-suis-pas-un-macroniste-affirme-teddy-riner_8283248.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-15T08:00+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Le Figaro",
+     "titre": "«Je suis un pur produit français» : le candidat Teddy Riner s’offre un premier bain de foule au salon du Made in France à Paris",
+     "url": "https://www.lefigaro.fr/elections/presidentielles/je-suis-un-pur-produit-francais-le-candidat-teddy-riner-s-offre-un-premier-bain-de-foule-au-salon-du-made-in-france-a-paris-20261114",
+     "date": "2026-11-14T20:55+00:00",
+     "acces": "mixte"
+    }
+   ]
+  },
+  {
+   "id": "s6",
+   "rubrique": "International",
+   "titre": "MP Helen Haines’s first words since leaving hospital after alleged attack led to double amputation",
+   "resume": "Independent MP says she is ‘overwhelmed’ by thousands of warm wishes and thanks Australians for charity donations Get our daily political email , free app or daily news podcast The independent Australian MP Helen Haines has been discharged from hospital, four weeks after she was allegedly attacked by a man outside her electorate office in Victoria resulting in the double amputation of her legs. In a statement, Haines",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+     "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-16T03:09+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "MP Helen Haines’s first words since leaving hospital after alleged attack led to double amputation",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
+     "date": "2026-11-16T05:05+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s7",
+   "rubrique": "International",
+   "titre": "Miguel Angel Félix Gallardo, l’un des narcotrafiquants mexicains les plus puissants, est mort après trente-sept ans passés en prison",
+   "resume": "Ce baron de la drogue est mort, dimanche à l’hôpital, à l’âge de 80 ans, alors qu’il purgeait des peines de soixante-dix-sept ans de prison. Il a marqué l’histoire criminelle du Mexique en posant les fondations des cartels modernes, jusqu’à inspirer la série Netflix « Narcos : Mexico ».",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Miguel Angel Félix Gallardo, l’un des narcotrafiquants mexicains les plus puissants, est mort après trente-sept ans passés en prison",
+     "url": "https://www.lemonde.fr/disparitions/article/2026/11/16/miguel-angel-felix-gallardo-l-un-des-narcotrafiquants-mexicains-les-plus-reputes-est-mort-apres-trente-sept-ans-passes-en-prison_6811303_3382.html",
+     "date": "2026-11-16T04:17+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "France 24",
+     "titre": "Le baron de la drogue mexicain Miguel Ángel Félix Gallardo est mort",
+     "url": "https://www.france24.com/fr/am%C3%A9riques/20261115-baron-de-drogue-mexicain-miguel-angel-felix-gallardo-mort-narcotrafic-hopital-prison-guadalajara",
+     "date": "2026-11-15T22:42+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s8",
+   "rubrique": "International",
+   "titre": "Israël : Gadi Eisenkot estime que Benjamin Netanyahu ne peut plus rester à la tête du gouvernement",
+   "resume": "La chaîne 12 a diffusé un reportage révélant que, la veille des législatives, le chef de cabinet de Benjamin Netanyahu avait transmis au chef de la police une plainte concernant des militants du parti arabe Raam. Appelant à \"l'ouverture immédiate d'une enquête\", Gadi Eisenkot a estimé, dimanche, que Benjamin Netanyahu \"ne pouvait pas rester à la tête du gouvernement une minute de plus\".",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Benyamin Nétanyahou ne peut pas rester « une minute de plus » à la tête du gouvernement israélien, estime Gadi Eisenkot",
+     "url": "https://www.lemonde.fr/international/article/2026/11/15/benyamin-netanyahou-ne-peut-pas-rester-une-minute-de-plus-a-la-tete-du-gouvernement-israelien-estime-gadi-eisenkot_6811061_3210.html",
+     "date": "2026-11-15T21:27+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "France 24",
+     "titre": "Israël : Gadi Eisenkot estime que Benjamin Netanyahu ne peut plus rester à la tête du gouvernement",
+     "url": "https://www.france24.com/fr/moyen-orient/20261116-israel-gadi-eisenkot-estime-benjamin-netanyahu-ne-peut-pas-rester-tete-du-gouvernement-legislatives-reportage-partis-arabes-police-plainte-enquete",
+     "date": "2026-11-16T04:08+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s9",
+   "rubrique": "International",
+   "titre": "Présidentielle en France: Édouard Philippe accepte de discuter avec la droite et le centre mais refuse toujours une primaire",
+   "resume": "Si le candidat Horizons accepte la proposition faite par le président du Sénat, Gérard Larcher, samedi 14 novembre, de réunir les candidats de la droite et du centre en vue de la présidentielle de 2027 en France, celui-ci maintient son refus de participer à une primaire. Un désaccord de fond avec ses trois principaux concurrents qui y sont désormais favorables...",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Présidentielle 2027 : Edouard Philippe accepte l’invitation de Gérard Larcher à une discussion des candidats de la droite et du centre, mais refuse toujours une primaire",
+     "url": "https://www.lemonde.fr/politique/article/2026/11/15/presidentielle-2027-edouard-philippe-accepte-l-invitation-de-gerard-larcher-a-une-discussion-des-candidats-de-la-droite-et-du-centre-mais-refuse-toujours-une-primaire_6811029_823448.html",
+     "date": "2026-11-15T16:00+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "RFI",
+     "titre": "Présidentielle en France: Édouard Philippe accepte de discuter avec la droite et le centre mais refuse toujours une primaire",
+     "url": "https://www.rfi.fr/fr/france/20261116-pr%C3%A9sidentielle-en-france-%C3%A9douard-philippe-accepte-de-discuter-avec-la-droite-et-le-centre-mais-refuse-toujours-une-primaire",
+     "date": "2026-11-16T04:05+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "rubrique": "International",
+   "titre": "Pérou: en Amazonie, le pape Léon XIV appelle à écouter le «cri» de la terre et des pauvres",
+   "resume": "Avant de clore sa longue tournée en Amérique du Sud par une messe à Lima, au Pérou, lundi 16 novembre, le souverain pontife s'est rendu à Pucallpa, dans la forêt amazonienne, dimanche, où il a prononcé un discours très engagé dans lequel il a à la fois appelé à protéger la région et les peuples qui y vivent.",
+   "sources": [
+    {
+     "media": "France 24",
+     "titre": "Au Pérou, Léon XIV appelle à écouter le \"cri de la terre et le cri des pauvres\" en Amazonie",
+     "url": "https://www.france24.com/fr/am%C3%A9riques/20261115-p%C3%A9rou-l%C3%A9on-xiv-arrive-%C3%A0-cusco-%C3%A0-3-400-m-d-altitude-un-mois-apr%C3%A8s-son-op%C3%A9ration",
+     "date": "2026-11-15T18:21+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Pérou: en Amazonie, le pape Léon XIV appelle à écouter le «cri» de la terre et des pauvres",
+     "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261116-p%C3%A9rou-en-amazonie-le-pape-l%C3%A9on-xiv-appelle-%C3%A0-%C3%A9couter-le-cri-de-la-terre-et-des-pauvres",
+     "date": "2026-11-16T04:03+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "rubrique": "International",
+   "titre": "Les Tchèques manifestent massivement contre la réforme du financement des médias publics",
+   "resume": "Des centaines de milliers de Tchèques se sont rassemblés dimanche à Prague contre le projet du gouvernement visant à réduire la redevance des médias publics et à transférer les fonds vers le budget de l'État. L'initiative du gouvernement d'Andrej Babis est dénoncée par ses opposants comme une menace pour la liberté de la presse.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Les Tchèques manifestent en masse contre la réforme du financement des médias publics",
+     "url": "https://www.franceinfo.fr/monde/europe/les-tcheques-manifestent-en-masse-contre-la-reforme-du-financement-des-medias-publics_8283761.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-15T17:54+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Les Tchèques manifestent en masse contre la réforme du financement des médias publics",
+     "url": "https://www.franceinfo.fr/monde/europe/les-tcheques-manifestent-en-masse-contre-la-reforme-du-financement-des-medias-publics_8283761.html#xtor=RSS-3-%5Beconomie%5D",
+     "date": "2026-11-15T17:54+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Les Tchèques manifestent massivement contre la réforme du financement des médias publics",
+     "url": "https://www.france24.com/fr/europe/20261116-tcheques-manifestent-en-masse-contre-reforme-financement-medias-publics-redevance-andrej-babis-liberte-presse",
+     "date": "2026-11-16T02:34+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "rubrique": "International",
+   "titre": "Czechs rally against gov’t threat to media independence",
+   "resume": "Czechs rallied in Prague over plans to shift public media funding to the state, raising fears of government influence.",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "Czechs rally against plan to switch funding of public media",
+     "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-15T21:03+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Czechs rally against gov’t threat to media independence",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/czechs-rally-against-govt-threat-to-media-independence?traffic_source=rss",
+     "date": "2026-11-16T00:26+00:00",
+     "acces": "libre"
+    }
+   ]
+  }
+ ],
+ "date": "2026-11-16",
+ "genere_le": "2026-11-16T05:50+00:00",
+ "articles_analyses": 242
+}
