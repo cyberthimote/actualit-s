@@ -1,0 +1,335 @@
+{
+ "mode": "revue",
+ "items": [
+  {
+   "id": "s1",
+   "rubrique": "International",
+   "titre": "Robert Pattinson est le nouveau James Bond : “un choix idéal”",
+   "resume": "Cinq ans après la sortie du dernier opus de la franchise, les studios Amazon MGM ont annoncé lundi 16 novembre que Robert Pattinson a été choisi pour incarner le futur James Bond. Âgé de 40 ans, le comédien britannique devient le septième acteur à incarner le célèbre espion au cinéma.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Robert Pattinson sera le prochain James Bond",
+     "url": "https://www.franceinfo.fr/culture/cinema/james-bond/robert-pattinson-sera-le-prochain-james-bond_8285168.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-16T16:39+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "L'acteur britannique Robert Pattinson devient le nouveau James Bond",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261116-l-acteur-britannique-robert-pattinson-devient-le-nouveau-james-bond",
+     "date": "2026-11-16T16:39+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Nouveau James Bond : l'acteur britannique Robert Pattinson enfile le costume de 007",
+     "url": "https://www.france24.com/fr/culture/20261116-nouveau-james-bond-acteur-britannique-robert-pattinson-enfile-costume-007",
+     "date": "2026-11-16T16:06+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Cinéma: l'acteur britannique Robert Pattinson sera le nouveau James Bond",
+     "url": "https://www.rfi.fr/fr/culture/20261116-cin%C3%A9ma-l-acteur-britannique-robert-pattinson-sera-le-nouveau-james-bond",
+     "date": "2026-11-16T15:16+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "rubrique": "International",
+   "titre": "Cinq pays dévoilent leur projet de \"hub de retour\" au Rwanda, pour des personnes migrantes expulsées de l'Union européenne",
+   "resume": "L'initiative, dénoncée par les défenseurs des droits humains, a été présentée lors d'une conférence de presse en Autriche.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Le projet de cinq pays de l’UE d’ouvrir un centre de retour au Rwanda traduit la bascule de la politique européenne en matière d’immigration",
+     "url": "https://www.lemonde.fr/international/article/2026/11/16/le-projet-de-cinq-pays-europeens-d-ouvrir-un-centre-de-retour-au-rwanda-traduit-la-bascule-de-la-politique-europeenne-en-matiere-d-immigration_6812426_3210.html",
+     "date": "2026-11-16T20:52+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "En images : cinq pays de l’UE annoncent un projet de centre pour migrants au Rwanda",
+     "url": "https://www.lemonde.fr/international/video/2026/11/16/en-images-cinq-pays-de-l-ue-annoncent-un-projet-de-centre-pour-migrants-au-rwanda_6812261_3210.html",
+     "date": "2026-11-16T18:43+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Cinq pays dévoilent leur projet de \"hub de retour\" au Rwanda, pour des personnes migrantes expulsées de l'Union européenne",
+     "url": "https://www.franceinfo.fr/monde/europe/migrants/cinq-pays-devoilent-leur-projet-de-hub-de-retour-au-rwanda-pour-des-personnes-migrantes-expulsees-de-l-union-europeenne_8285039.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-16T22:06+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "L'Allemagne, l'Autriche, le Danemark, la Grèce et les Pays-Bas présentent leur projet de «hub de retour» pour migrants au Rwanda",
+     "url": "https://www.rfi.fr/fr/europe/20261116-l-allemagne-l-autriche-le-danemark-la-gr%C3%A8ce-et-les-pays-bas-pr%C3%A9sentent-leur-projet-de-hub-de-retour-pour-migrants-au-rwanda",
+     "date": "2026-11-16T15:35+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "rubrique": "International",
+   "titre": "Five EU countries announce migrant deportation centre in Rwanda",
+   "resume": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "Five EU countries announce migrant deportation centre in Rwanda",
+     "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-16T23:20+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
+     "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+     "date": "2026-11-17T01:10+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "EU countries announce migrant deportation centre in Rwanda",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/eu-countries-announce-migrant-deportation-centre-in-rwanda?traffic_source=rss",
+     "date": "2026-11-17T01:12+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s4",
+   "rubrique": "International",
+   "titre": "Ukraine : Marine Le Pen confirme à l'ambassadeur la fin de l'aide financière si elle est élue",
+   "resume": "Los d'une rencontre lundi avec l'ambassadeur d'Ukraine à Paris, Marine Le Pen a réaffirmé que si elle était élue à l'Élysée \"l'état des finances publiques de la France ne permett(rait) plus d'aider financièrement l'Ukraine dans les prochains mois\", selon un communiqué du Rassemblement national.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Marine Le Pen assure auprès de l’ambassadeur ukrainien que la France ne pourrait « plus aider financièrement » Kiev si elle est élue présidente de la République",
+     "url": "https://www.lemonde.fr/politique/article/2026/11/16/marine-le-pen-assure-aupres-de-l-ambassadeur-ukrainien-que-la-france-ne-pourrait-plus-aider-financierement-kiev-si-elle-est-elue-presidente-de-la-republique_6812229_823448.html",
+     "date": "2026-11-16T17:36+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Marine Le Pen réitère auprès de l'ambassadeur ukrainien que la France ne pourrait \"plus aider financièrement\" Kiev si elle est élue",
+     "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/marine-le-pen-reitere-aupres-de-l-ambassadeur-ukrainien-que-la-france-ne-pourrait-plus-aider-financierement-kiev-si-elle-est-elue_8285462.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-16T21:09+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "ÉDITO. Sur l'Ukraine, Marine Le Pen a-t-elle une \"position antipatriotique\" ?",
+     "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/edito-sur-l-ukraine-marine-le-pen-a-t-elle-une-position-antipatriotique_8284844.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-16T12:14+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Marine Le Pen réitère auprès de l'ambassadeur ukrainien que la France ne pourrait \"plus aider financièrement\" Kiev si elle est élue",
+     "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/marine-le-pen-reitere-aupres-de-l-ambassadeur-ukrainien-que-la-france-ne-pourrait-plus-aider-financierement-kiev-si-elle-est-elue_8285462.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-16T21:09+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "rubrique": "International",
+   "titre": "Triple narchomicide à Marseille en 2020 : deux accusés condamnés à la perpétuité",
+   "resume": "Deux figures du narcobanditisme marseillais jugées pour un triple assassinat ont été condamnées, lundi, à des peines de prison à perpétuité assorties d'une période de sûreté. L'une des victimes est le frère aîné du militant antitrafic Amine Kessaci.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Amine Oualane et Karim Harrat, figures du narcobanditisme marseillais, ont été condamnés à la perpétuité pour le triple homicide de 2020, dont l’une des victimes est le demi-frère d’Amine Kessaci",
+     "url": "https://www.lemonde.fr/societe/article/2026/11/16/deux-figures-du-narcobanditisme-marseillais-condamnes-a-la-perpetuite-pour-le-triple-narchomicide-de-2020-dont-l-une-des-victimes-est-le-demi-frere-d-amine-kessaci_6812173_3224.html",
+     "date": "2026-11-16T16:35+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "France 24",
+     "titre": "Triple narchomicide à Marseille en 2020 : deux accusés condamnés à la perpétuité",
+     "url": "https://www.france24.com/fr/france/20261116-triple-narchomicide-%C3%A0-marseille-en-2020-deux-accus%C3%A9s-condamn%C3%A9s-%C3%A0-la-perp%C3%A9tuit%C3%A9",
+     "date": "2026-11-16T17:23+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "France: deux condamnations à perpétuité à l'issue du procès du triple narchomicide près de Marseille",
+     "url": "https://www.rfi.fr/fr/france/20261116-france-deux-condamnations-%C3%A0-perp%C3%A9tuit%C3%A9-%C3%A0-l-issue-du-proc%C3%A8s-du-triple-narchomicide-pr%C3%A8s-de-marseille",
+     "date": "2026-11-16T19:38+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s6",
+   "rubrique": "France",
+   "titre": "Impôts, logement, smic… Ce qu’il faut retenir du débat entre candidats à la présidentielle",
+   "resume": "Gabriel Attal, Raphaël Glucksmann, Marine Le Pen, Jean-Luc Mélenchon et Bruno Retailleau ont échangé, lundi, pendant un peu moins de trois heures, sur la vie chère et le pouvoir d’achat, préoccupation majeure des Françaises et Français, lors d’un débat organisé sur TF1 puis LCI.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Impôts, logement, smic… Ce qu’il faut retenir du débat entre candidats à la présidentielle",
+     "url": "https://www.lemonde.fr/politique/article/2026/11/17/impots-logement-smic-ce-qu-il-faut-retenir-du-debat-entre-candidats-a-la-presidentielle_6812895_823448.html",
+     "date": "2026-11-17T04:33+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "France 24",
+     "titre": "Impôts, logement, Smic... les candidats à la présidentielle débattent de leurs propositions",
+     "url": "https://www.france24.com/fr/france/20261116-imp%C3%B4ts-logement-smic-les-candidats-%C3%A0-la-pr%C3%A9sidentielle-d%C3%A9battent-de-leurs-propositions",
+     "date": "2026-11-16T22:39+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s7",
+   "rubrique": "International",
+   "titre": "Serbie : les étudiants face au défi du pouvoir",
+   "resume": "Le nouveau Parlement serbe, où la Liste étudiante dispose de la majorité absolue, doit être constitué ce mardi 17 novembre. Le mouvement doit désormais choisir en assemblées générales les candidats aux postes clés du Parlement et du gouvernement. Ce mode de fonctionnement pourra-t-il perdurer après la formation du gouvernement ? s’interroge la presse serbe. Deuxième volet de notre série “Serbie, le laboratoire de la ",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "La fonction publique face au défi du handicap",
+     "url": "https://www.lemonde.fr/le-monde-et-vous/article/2026/11/16/la-fonction-publique-face-au-defi-du-handicap_6812296_6065879.html",
+     "date": "2026-11-16T19:00+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "Courrier international",
+     "titre": "Serbie : les étudiants face au défi du pouvoir",
+     "url": "https://www.courrierinternational.com/article/analyse-serbie-les-etudiants-face-au-defi-du-pouvoir_286761",
+     "date": "2026-11-17T04:00+00:00",
+     "acces": "mixte"
+    }
+   ]
+  },
+  {
+   "id": "s8",
+   "rubrique": "International",
+   "titre": "Procès d’OpenAI, Ukraine, Lindsay Clancy, Theodore Roosevelt au Moyen-Orient, Jensen Huang : les informations de la nuit",
+   "resume": "Les principales actualités de ces dernières heures vues par la presse internationale",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Un troisième porte-avions américain, le « Theodore-Roosevelt », est arrivé au Moyen-Orient",
+     "url": "https://www.lemonde.fr/international/article/2026/11/16/un-troisieme-porte-avions-americain-le-theodore-roosevelt-est-arrive-au-moyen-orient_6812491_3210.html",
+     "date": "2026-11-16T21:23+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "Courrier international",
+     "titre": "Procès d’OpenAI, Ukraine, Lindsay Clancy, Theodore Roosevelt au Moyen-Orient, Jensen Huang : les informations de la nuit",
+     "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-proces-d-openai-ukraine-lindsay-clancy-theodore-roosevelt-au-moyen-orient-jensen-huang-les-informations-de-la-nuit_288093",
+     "date": "2026-11-17T03:57+00:00",
+     "acces": "mixte"
+    }
+   ]
+  },
+  {
+   "id": "s9",
+   "rubrique": "International",
+   "titre": "Ukraine en direct : deux ponts de Kiev touchés par des frappes russes",
+   "resume": "Des frappes russes ont touché deux ponts importants de Kiev lundi soir, a déclaré le maire de la capitale ukrainienne, Vitali Klitschko, ajoutant que des \"systèmes d'infrastructures critiques\" avaient été endommagés. La Russie a de son côté confirmé que le pont de Crimée avait été frappé pour la deuxième journée consécutive. Suivez notre direct.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "EN DIRECT, guerre en Ukraine : des frappes russes ont touché deux importants ponts de Kiev, annonce le maire, Vitali Klitschko",
+     "url": "https://www.lemonde.fr/international/live/2026/11/17/en-direct-guerre-en-ukraine-des-frappes-russes-ont-touche-deux-ponts-importants-de-kiev-annonce-le-maire-vitali-klitschko_6810982_3210.html",
+     "date": "2026-11-17T00:13+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "France 24",
+     "titre": "Ukraine en direct : deux ponts de Kiev touchés par des frappes russes",
+     "url": "https://www.france24.com/fr/europe/20261117-en-direct-ukraine-deux-ponts-kiev-touches-frappes-russes-zelensky-poutine",
+     "date": "2026-11-17T00:22+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "rubrique": "International",
+   "titre": "États-Unis : un juge annule les limites de visa pour étudiants et journalistes, Trump fait appel",
+   "resume": "Les restrictions de séjour pour les étudiants et les journalistes étrangers ordonnées par l'administration Trump ont été annulées lundi par un juge fédéral qui considère la nouvelle règlementation \"arbitraire\". Le gouvernement républicain a d'ores et déjà fait appel.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Un juge fédéral américain annule les limites de séjour des étudiants et des journalistes étrangers imposées par Donald Trump",
+     "url": "https://www.lemonde.fr/international/article/2026/11/16/un-juge-federal-americain-annule-les-limites-de-sejour-des-etudiants-et-journalistes-etrangers-imposees-par-donald-trump_6812623_3210.html",
+     "date": "2026-11-16T22:30+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "France 24",
+     "titre": "États-Unis : un juge annule les limites de visa pour étudiants et journalistes, Trump fait appel",
+     "url": "https://www.france24.com/fr/am%C3%A9riques/20261117-etats-unis-juge-federal-annule-limites-visa-etudiants-journalistes-etrangers-donal-trump-appel",
+     "date": "2026-11-17T00:02+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "rubrique": "France",
+   "titre": "Débat de la présidentielle 2027 : revivez le débat entre Marine Le Pen, Raphaël Glucksmann, Jean-Luc Mélenchon, Gabriel Attal et Bruno Retailleau",
+   "resume": "Les cinq candidats à l’élection ont débattu pendant près de trois heures sur TF1 puis LCI. « Financement magique », « foire aux taxes », « cadeaux fiscaux aux plus riches »… Tous s’accusent, notamment, de ne pas financer leurs propositions.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Débat de la présidentielle 2027 : revivez le débat entre Marine Le Pen, Raphaël Glucksmann, Jean-Luc Mélenchon, Gabriel Attal et Bruno Retailleau",
+     "url": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/11/16/en-direct-debat-de-la-presidentielle-2027-les-cinq-candidats-s-affrontent-sur-les-retraites-marine-le-pen-cible-la-ligue-des-droits-de-l-homme-un-ramassis-de-gauchistes_6811633_6205049.html",
+     "date": "2026-11-16T22:21+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "France 24",
+     "titre": "La primaire de la droite, \"un aveu d’échec\" pour Gabriel Attal et Bruno Retailleau",
+     "url": "https://www.france24.com/fr/france/20261116-france-presidentielle-2027-primaire-de-la-droite-un-aveu-dechec-pour-gabriel-attal-et-bruno-retailleau",
+     "date": "2026-11-16T17:57+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "rubrique": "France",
+   "titre": "L’Assemblée nationale adopte un texte pour débloquer l’épargne salariale, à la veille d’une nouvelle mobilisation pour le pouvoir d’achat",
+   "resume": "Les députés de gauche ont dénoncé un dispositif qui ne crée pas de pouvoir d’achat supplémentaire et ne concerne qu’une partie des salariés, le jugeant « inégalitaire » et « inefficace ».",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "L’Assemblée nationale adopte un texte pour débloquer l’épargne salariale, à la veille d’une nouvelle mobilisation pour le pouvoir d’achat",
+     "url": "https://www.lemonde.fr/politique/article/2026/11/16/l-assemblee-nationale-adopte-un-texte-pour-debloquer-l-epargne-salariale-a-la-veille-d-une-nouvelle-mobilisation-pour-le-pouvoir-d-achat_6812558_823448.html",
+     "date": "2026-11-16T22:05+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "L'Assemblée adopte un texte soutenu par le gouvernement pour faciliter le déblocage de l'épargne salariale",
+     "url": "https://www.franceinfo.fr/economie/pouvoir-achat/l-assemblee-adopte-un-texte-soutenu-par-le-gouvernement-pour-faciliter-le-deblocage-de-l-epargne-salariale_8285510.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-16T21:46+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "L'Assemblée adopte un texte soutenu par le gouvernement pour faciliter le déblocage de l'épargne salariale",
+     "url": "https://www.franceinfo.fr/economie/pouvoir-achat/l-assemblee-adopte-un-texte-soutenu-par-le-gouvernement-pour-faciliter-le-deblocage-de-l-epargne-salariale_8285510.html#xtor=RSS-3-%5Beconomie%5D",
+     "date": "2026-11-16T21:46+00:00",
+     "acces": "libre"
+    }
+   ]
+  }
+ ],
+ "date": "2026-11-17",
+ "genere_le": "2026-11-17T05:29+00:00",
+ "articles_analyses": 273
+}
