@@ -1,0 +1,328 @@
+{
+ "mode": "revue",
+ "items": [
+  {
+   "id": "s1",
+   "rubrique": "International",
+   "titre": "Kim Jong-Un va-t-il rencontrer Donald Trump en Chine ?",
+   "resume": "Kim Jong-Un pose avec sa femme Ri Sol Ju, habituellement très discrète et sa fille, Ju Ae, dans la nouvelle station de ski de Samijyon. L’agence officielle de presse nord-coréenne a diffusé une série de photos du dictateur qui fait ainsi la promotion de ce projet touristique immobilier qu'il a initié. Un week-end sur la frontière avec la Chine qui nourrit les spéculations sur une rencontre entre Kim Jong-Un et Donald",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "« L’image d’un “nouveau Yalta” entre Donald Trump, Xi Jinping et Vladimir Poutine est aussi fausse que dangereuse »",
+     "url": "https://www.lemonde.fr/idees/article/2026/11/18/l-image-d-un-nouveau-yalta-entre-donald-trump-xi-jinping-et-vladimir-poutine-est-aussi-fausse-que-dangereuse_6813074_3232.html",
+     "date": "2026-11-18T05:30+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "EN DIRECT, guerre en Ukraine : Vladimir Poutine s’attend à un sommet « d’une grande utilité » avec Donald Trump et Xi Jinping en Chine",
+     "url": "https://www.lemonde.fr/international/live/2026/11/18/en-direct-guerre-en-ukraine-vladimir-poutine-s-attend-a-un-sommet-d-une-grande-utilite-avec-donald-trump-et-xi-jinping-en-chine_6810982_3210.html",
+     "date": "2026-11-18T04:57+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "Avec Donald Trump et Vladimir Poutine à ses côtés, Xi Jinping se place sur le devant de la scène mondiale",
+     "url": "https://www.lemonde.fr/international/article/2026/11/18/avec-donald-trump-et-vladimir-poutine-a-ses-cotes-xi-jinping-se-place-sur-le-devant-de-la-scene-mondiale_6813065_3210.html",
+     "date": "2026-11-18T04:30+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "Aux Etats-Unis, un Pakistanais condamné à vingt-sept ans de prison pour tentative d’assassinat sur des personnalités politiques, dont Donald Trump",
+     "url": "https://www.lemonde.fr/international/article/2026/11/18/etats-unis-un-pakistanais-condamne-a-plus-de-vingt-sept-ans-de-prison-pour-tentative-d-assassinat-sur-des-personnalites-politiques-dont-donald-trump_6813059_3210.html",
+     "date": "2026-11-18T03:45+00:00",
+     "acces": "mixte"
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "rubrique": "International",
+   "titre": "Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker",
+   "resume": "Eisenkot’s bloc has pledged to undo some of Netanyahu’s most contentious domestic policies following Kahana’s election.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Israël : Matan Kahana, un fidèle de Gadi Eisenkot, a été élu président de la Knesset",
+     "url": "https://www.lemonde.fr/international/article/2026/11/17/israel-matan-kahana-un-fidele-de-gadi-eisenkot-a-ete-elu-president-de-la-knesset_6813051_3210.html",
+     "date": "2026-11-17T22:07+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Matan Kahana, un fidèle de Gadi Eisenkot élu président du Parlement en Israël, coup dur pour Benyamin Nétanyahou",
+     "url": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/matan-kahana-un-fidele-de-gadi-eisenkot-elu-president-du-parlement-en-israel-coup-dur-pour-benyamin-netanyahou_8287226.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-17T22:13+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "🔴 Israël : Matan Kahana, un fidèle d'Eisenkot, élu président du Parlement",
+     "url": "https://www.france24.com/fr/moyen-orient/20261117-isra%C3%ABl-matan-kahana-un-fid%C3%A8le-d-eisenkot-%C3%A9lu-pr%C3%A9sident-du-parlement%20Isra%C3%ABl%20:%20Matan%20Kahana%2C%20un%20fid%C3%A8le%20d%27Eisenkot%2C%20%C3%A9lu%20pr%C3%A9sident%20du%20Parlement%20-%20France%2024%20Le%20centriste%20Gadi%20Eisenkot%20a%20fait%20%C3%A9lire%20Matan%20Kahana%2C%20l%27un%20des%20siens%2C%20%C3%A0%20la%20t%C3%AAte%20du%20parlement%20isra%C3%A9lien%2C%20renforcant%20son%20camp%20face%20au%20Premier%20ministre%20sortant%20Benjamin%20Netanyahu%2C%20en%20pleine%20bataille%20p...",
+     "date": "2026-11-17T21:24+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Israël : Matan Kahana, un fidèle d'Eisenkot, élu président du Parlement",
+     "url": "https://www.france24.com/fr/moyen-orient/20261117-isra%C3%ABl-matan-kahana-un-fid%C3%A8le-d-eisenkot-%C3%A9lu-pr%C3%A9sident-du-parlement",
+     "date": "2026-11-17T21:23+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "rubrique": "International",
+   "titre": "Le pont de Crimée à nouveau visé par l'Ukraine",
+   "resume": "Le pont de Crimée, qui relie la Russie à la péninsule annexée, a été visé par des frappes ukrainiennes pour la deuxième nuit consécutive, mardi 17 novembre. L’ouvrage a été endommagé et la circulation suspendue. Le président ukrainien Volodymyr Zelensky a salué une “opération sans précédent”. #franceinfo",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Comment les Ukrainiens ont réussi à détruire une partie du « pont de Poutine » reliant la Russie à la Crimée",
+     "url": "https://www.lemonde.fr/international/article/2026/11/17/comment-les-ukrainiens-ont-reussi-a-detruire-une-partie-du-pont-de-poutine-reliant-la-russie-a-la-crimee_6813025_3210.html",
+     "date": "2026-11-17T18:00+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Le pont de Crimée à nouveau visé par l'Ukraine",
+     "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/crimee/le-pont-de-crimee-a-nouveau-vise-par-l-ukraine_8286692.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-17T21:00+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Guerre en Ukraine : une partie du pont de Crimée s’effondre après des frappes de Kiev",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261117-guerre-en-ukraine-une-partie-du-pont-de-crim%C3%A9e-s-effondre-apr%C3%A8s-des-frappes-de-kiev",
+     "date": "2026-11-17T17:05+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Comment l’Ukraine a en partie détruit le pont de Kertch en Crimée",
+     "url": "https://www.rfi.fr/fr/europe/20261117-comment-l-ukraine-a-en-partie-d%C3%A9truit-le-pont-de-kertch",
+     "date": "2026-11-17T13:11+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s4",
+   "rubrique": "International",
+   "titre": "Les Etats-Unis perdent leur statut de pays ayant éliminé la rougeole, à l'instar du Mexique et de la Bolivie",
+   "resume": "Le gouvernement de Donald Trump est accusé d'avoir largement contribué à cette crise sanitaire, du fait de ses coupes dans les budgets de santé et de ses discours antivaccins.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Les Etats-Unis perdent leur statut de pays ayant éliminé la rougeole, annonce l’Organisation panaméricaine de la santé",
+     "url": "https://www.lemonde.fr/international/article/2026/11/17/les-etats-unis-perdent-leur-statut-de-pays-ayant-elimine-la-rougeole-annonce-l-organisation-panamericaine-de-la-sante_6813011_3210.html",
+     "date": "2026-11-17T16:58+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Les Etats-Unis perdent leur statut de pays ayant éliminé la rougeole, à l'instar du Mexique et de la Bolivie",
+     "url": "https://www.franceinfo.fr/sante/les-etats-unis-perdent-leur-statut-de-pays-ayant-elimine-la-rougeole-a-l-instar-du-mexique-et-de-la-bolivie_8286896.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-17T18:16+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "ONU Info",
+     "titre": "Rougeole : les États-Unis, le Mexique et la Bolivie perdent leur statut de pays ayant éliminé la maladie",
+     "url": "https://news.un.org/feed/view/fr/story/2026/11/1159864",
+     "date": "2026-11-17T12:00+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "rubrique": "International",
+   "titre": "Rare video of Brazilian Amazon tribe",
+   "resume": "A new video has emerged showing members of the isolated Awa tribe who live in the remote part of Brazil’s Amazon forest.",
+   "sources": [
+    {
+     "media": "The Guardian",
+     "titre": "Isolated Brazilian tribe emerges amid alarm over threats to group’s way of life",
+     "url": "https://www.theguardian.com/world/2026/nov/17/brazil-amazon-isolated-indigenous-people",
+     "date": "2026-11-17T21:40+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Rare video of Brazilian Amazon tribe",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/rare-video-of-brazilian-amazon-tribe?traffic_source=rss",
+     "date": "2026-11-18T05:14+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s6",
+   "rubrique": "France",
+   "titre": "Midterms 2026 : malgré la polémique, les démocrates s’imposent en Alaska et parachèvent le basculement du Sénat américain",
+   "resume": "La victoire de Mary Peltola, dans un scrutin marqué par une controverse liée à une confusion potentielle des candidats, permet aux démocrates de glaner le dernier siège en jeu et de disposer de 56 élus contre 44 républicains à la chambre haute.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Midterms 2026 : malgré la polémique, les démocrates s’imposent en Alaska et parachèvent le basculement du Sénat américain",
+     "url": "https://www.lemonde.fr/international/article/2026/11/18/midterms-2026-malgre-la-polemique-les-democrates-s-imposent-en-alaska-et-parachevent-le-basculement-du-senat-americain_6813069_3210.html",
+     "date": "2026-11-18T04:56+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "France 24",
+     "titre": "🔴 Sénat américain : en prenant l'Alaska, les démocrates étendent leur majorité à 56 sièges contre 44",
+     "url": "https://www.france24.com/fr/am%C3%A9riques/20261118-etats-unis-midterms-senat-americain-alaska-peltola-victoire-democrates-etendent-leur-majorite-56-sieges",
+     "date": "2026-11-18T03:47+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s7",
+   "rubrique": "International",
+   "titre": "‘Aarigaa!’: the triumph of Mary Peltola’s historic US Senate win and what it means for Alaska Natives",
+   "resume": "Peltola, the first Alaska Native in the US Senate, ran a campaign that drew universal issues from her own Indigenous politics Late into the night on 3 November, while the lower 48 states were reeling from the blue wave crashing across the US, Mary Peltola took to the stage in a Sheraton Hotel ballroom in Anchorage, Alaska, to greet her supporters. It wasn’t a victory speech as such – there would still be long days ah",
+   "sources": [
+    {
+     "media": "The Guardian",
+     "titre": "‘Aarigaa!’: the triumph of Mary Peltola’s historic US Senate win and what it means for Alaska Natives",
+     "url": "https://www.theguardian.com/us-news/2026/nov/18/mary-peltola-alaska-win-analysis",
+     "date": "2026-11-18T04:25+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Mary Peltola flips Alaska Senate seat in another Democratic win",
+     "url": "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss",
+     "date": "2026-11-18T03:28+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s8",
+   "rubrique": "International",
+   "titre": "Mozambique: le procès de l'opposant Venancio Mondlane s'est ouvert devant la Cour suprême de Maputo",
+   "resume": "Poursuivi pour les violences survenues à la suite de la présidentielle de 2024 à laquelle il s'était porté candidat, le président du parti Anamola s'est montré confiant pour la suite des débats à l'issue de la première audience qui s'est déroulée mardi 17 novembre.",
+   "sources": [
+    {
+     "media": "RFI",
+     "titre": "Mozambique: le procès de l'opposant Venancio Mondlane s'est ouvert devant la Cour suprême de Maputo",
+     "url": "https://www.rfi.fr/fr/afrique/20261118-mozambique-le-proc%C3%A8s-de-l-opposant-venancio-mondlane-s-est-ouvert-devant-la-cour-supr%C3%AAme-de-maputo",
+     "date": "2026-11-18T04:00+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Courrier international",
+     "titre": "Au Mozambique, le procès de l’opposant Venâncio Mondlane met le pouvoir à l’épreuve",
+     "url": "https://www.courrierinternational.com/article/justice-au-mozambique-le-proces-d-un-opposant-met-le-pouvoir-a-l-epreuve_288247",
+     "date": "2026-11-17T12:49+00:00",
+     "acces": "mixte"
+    }
+   ]
+  },
+  {
+   "id": "s9",
+   "rubrique": "International",
+   "titre": "American soldier held in UK suspected of spying for Russia taken into US military custody",
+   "resume": "Lt Col Brandon Carroll Tyner was arrested by British police on 10 November over allegations related to espionage A US soldier who was arrested in the UK on suspicion of spying for Russia has been taken into custody by the US military, police have said. Lt Col Brandon Carroll Tyner, 41, was detained by British counter-terrorism police ‌on 10 November in Gloucestershire over allegations relating ⁠to espionage. Continue",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+     "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-17T22:46+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "American soldier held in UK suspected of spying for Russia taken into US military custody",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/17/american-soldier-brandon-carroll-tyner-spying-us-military-custody",
+     "date": "2026-11-18T00:16+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "rubrique": "International",
+   "titre": "Le conseil d'administration de Nvidia ferme la porte à un retour de son ex-patron Jensen Huang",
+   "resume": "\"Le conseil d'administration de Nvidia a accepté à l'unanimité sa démission et n'envisage pas de réinstaller Jensen au poste de directeur général\", a assuré mardi son président Harvey Jones, qui a dit vouloir trouver un remplaçant à cette figure de l'IA \"aussi vite que possible.\" Le géant affiche une santé de fer au troisième trimestre avec des perspectives relevées.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Jensen Huang, ex-patron de Nvidia, sera entendu au Congrès, le 1ᵉʳ décembre, sur sa liaison avec une Chinoise soupçonnée d’espionnage",
+     "url": "https://www.lemonde.fr/international/article/2026/11/17/jensen-huang-ex-patron-de-nvidia-sera-entendu-au-congres-le-1-decembre-sur-sa-liaison-avec-une-chinoise-soupconnee-d-espionnage_6813021_3210.html",
+     "date": "2026-11-17T17:42+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "France 24",
+     "titre": "Le conseil d'administration de Nvidia ferme la porte à un retour de son ex-patron Jensen Huang",
+     "url": "https://www.france24.com/fr/%C3%A9co-tech/20261117-conseil-administration-nvidia-semi-conducteurs-ferme-porte-retour-ex-patron-jensen-huang-harvey-jones-resultats-ia",
+     "date": "2026-11-17T23:51+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "rubrique": "International",
+   "titre": "Une primaire de la droite et du centre prend forme avec les équipes d'Attal, Retailleau et Lisnard",
+   "resume": "Réunis mardi, les représentants des candidats à la présidentielle Gabriel Attal (Renaissance), Bruno Retailleau (LR) et David Lisnard (Nouvelle Energie) se sont mis d'accord sur le principe d'une primaire à deux tours, organisée d'ici fin janvier. Ils la veulent \"la plus ouverte possible\", y conviant Édouard Philippe, tout en excluant les candidats de partis \"extrêmes\", \"selon Renaissance.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Refus d'\"alliance avec les extrêmes\", participation à deux euros... les premières modalités de la primaire de la droite et du centre dévoilées",
+     "url": "https://www.franceinfo.fr/elections/refus-d-alliance-avec-les-extremes-participation-a-deux-euros-les-premieres-modalites-de-la-primaire-de-la-droite-et-du-centre-devoilees_8286980.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-17T18:25+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Les équipes de Gabriel Attal, Bruno Retailleau et David Lisnard négocient les modalités d'une potentielle primaire de la droite et du centre",
+     "url": "https://www.franceinfo.fr/elections/primaire-ou-pas-primaire-gabriel-attal-bruno-retailleau-et-david-lisnard-semblent-favorables_8285471.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-17T05:44+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Une primaire de la droite et du centre prend forme avec les équipes d'Attal, Retailleau et Lisnard",
+     "url": "https://www.france24.com/fr/france/20261117-equipes-attal-retailleau-lisnard-avancent-sur-une-primaire-droite-centre-sans-edouard-philippe-presidentielle-2027-election-candidats-lr-nouvelle-energie-renaissance",
+     "date": "2026-11-17T23:04+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "rubrique": "International",
+   "titre": "En Turquie, la police organise une descente dans une chaîne de télévision d'opposition et procède à des arrestations",
+   "resume": "Cette opération au siège de Sözcü TV et de son groupe intervient un mois après la prise de contrôle par les autorités de la chaîne d'information la plus regardée du pays, Halk TV.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "En Turquie, la police organise une descente dans une chaîne de télévision d'opposition et procède à des arrestations",
+     "url": "https://www.franceinfo.fr/monde/turquie/en-turquie-la-police-organise-une-descente-dans-une-chaine-de-television-d-opposition-et-procede-a-des-arrestations_8287241.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-17T22:55+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "La Turquie arrête les directeurs d’une chaîne de télévision d’opposition et lui impose un administrateur",
+     "url": "https://www.rfi.fr/fr/moyen-orient/20261117-la-turquie-arr%C3%AAte-les-directeurs-d-une-cha%C3%AEne-de-t%C3%A9l%C3%A9vision-d-opposition-et-lui-impose-un-administrateur",
+     "date": "2026-11-17T12:52+00:00",
+     "acces": "libre"
+    }
+   ]
+  }
+ ],
+ "date": "2026-11-18",
+ "genere_le": "2026-11-18T05:32+00:00",
+ "articles_analyses": 288
+}
