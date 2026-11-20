@@ -1,0 +1,370 @@
+{
+ "mode": "revue",
+ "items": [
+  {
+   "id": "s1",
+   "rubrique": "International",
+   "titre": "Guerre en Ukraine : à Berlin, la réunion des alliés de Kiev, miroir inversé de la rencontre de Shenzhen entre Xi, Trump et Poutine",
+   "resume": "Les membres de la coalition des volontaires, réunis jeudi en Allemagne, se sont engagés à honorer l’intégralité de l’aide promise en 2026 et à maintenir ce soutien en 2027, quand le président russe a mis en scène, en Chine, l’« amitié » que lui porte le chef de la Maison Blanche.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Guerre en Ukraine : à Berlin, la réunion des alliés de Kiev, miroir inversé de la rencontre de Shenzhen entre Xi, Trump et Poutine",
+     "url": "https://www.lemonde.fr/international/article/2026/11/20/guerre-en-ukraine-a-berlin-la-reunion-des-allies-de-kiev-miroir-inverse-de-la-rencontre-de-shenzhen-entre-xi-trump-et-poutine_6813557_3210.html",
+     "date": "2026-11-20T04:30+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Trump, Poutine, Xi, le bilan d'un sommet historique",
+     "url": "https://www.franceinfo.fr/monde/chine/trump-poutine-xi-le-bilan-d-un-sommet-historique_8290289.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-19T15:55+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Xi, Trump, Poutine : un Yalta 2.0 ?",
+     "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261119-xi-trump-poutine-un-yalta-2-0",
+     "date": "2026-11-19T21:00+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Guerre en Ukraine: réunie à Berlin, la «coalition des volontaires» réaffirme son soutien à Kiev",
+     "url": "https://www.rfi.fr/fr/europe/20261119-guerre-en-ukraine-la-coalition-des-volontaires-r%C3%A9unie-%C3%A0-berlin-pour-r%C3%A9affirmer-son-soutien-%C3%A0-kiev",
+     "date": "2026-11-19T16:05+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "rubrique": "International",
+   "titre": "Présidentielle 2027: Tondelier fait un pas vers Mélenchon, Jadot claque la porte des Écologistes",
+   "resume": "La candidate des Écologistes pour l'élection présidentielle, Marine Tondelier, a indiqué mercredi qu'elle était « prête » à travailler à une coalition avec le candidat insoumis Jean-Luc Mélenchon. Une annonce qui a provoqué la colère de Yannick Jadot, ex-candidat du parti écologiste, suspendu du parti depuis l'annonce de son soutien à Raphaël Glucksmann. Il a annoncé quitter le parti ce jeudi 19 novembre.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Yannick Jadot et Jérémie Iordanoff quittent les Ecologistes après l’approche de Marine Tondelier vers Jean-Luc Mélenchon pour la présidentielle",
+     "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/19/yannick-jadot-et-jeremie-iordanoff-quittent-les-ecologistes-apres-l-approche-de-marine-tondelier-vers-jean-luc-melenchon-pour-la-presidentielle_6813385_6205049.html",
+     "date": "2026-11-19T22:55+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "À six mois de l'élection présidentielle, Marine Tondelier fait un pas vers Jean-Luc Mélenchon et se dit \"prête\" à travailler avec lui",
+     "url": "https://www.franceinfo.fr/elections/a-six-mois-de-l-election-presidentielle-marine-tondelier-fait-un-pas-vers-jean-luc-melenchon-et-se-dit-prete-a-travailler-avec-lui_8289617.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-19T08:40+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Yannick Jadot quitte les Écologistes après la main tendue de Marine Tondelier à Jean-Luc Mélenchon",
+     "url": "https://www.france24.com/fr/france/20261119-france-presidentielle-yannick-jadot-quitte-les-ecologistes-marine-tondelier-jean-luc-melenchon-glucksmann",
+     "date": "2026-11-19T23:04+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Présidentielle 2027: Tondelier fait un pas vers Mélenchon, Jadot claque la porte des Écologistes",
+     "url": "https://www.rfi.fr/fr/france/20261119-pr%C3%A9sidentielle-2027-tondelier-fait-un-pas-vers-m%C3%A9lenchon-jadot-claque-la-porte-des-%C3%A9cologistes",
+     "date": "2026-11-19T23:13+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "rubrique": "International",
+   "titre": "Rohingya : un arrêt historique de la Cour de justice internationale reconnaît la Birmanie coupable de génocide",
+   "resume": "L’organe judiciaire de l’ONU a considéré que le pays a violé six fois la convention sur le génocide de 1948. C’est la première fois de l’histoire qu’un Etat est condamné pour le « crime des crimes ». Quelque 10 000 Rohingya, une minorité musulmane, ont été massacrés par l’armée birmane, et leurs villages ont été rasés. Cet arrêt pourrait faire jurisprudence.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Rohingya : un arrêt historique de la Cour de justice internationale reconnaît la Birmanie coupable de génocide",
+     "url": "https://www.lemonde.fr/international/article/2026/11/19/rohingya-un-arret-historique-de-la-cour-de-justice-internationale-reconnait-la-birmanie-coupable-de-genocide_6813377_3210.html",
+     "date": "2026-11-19T20:06+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "RFI",
+     "titre": "La Birmanie coupable de génocide à l'encontre des Rohingyas, pour la Cour internationale de justice",
+     "url": "https://www.rfi.fr/fr/asie-pacifique/20261119-la-birmanie-a-commis-un-g%C3%A9nocide-sur-la-minorit%C3%A9-rohingya-estime-la-cour-internationale-de-justice",
+     "date": "2026-11-19T11:37+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Courrier international",
+     "titre": "La Birmanie a commis un génocide contre les Rohingyas, selon la Cour internationale de justice",
+     "url": "https://www.courrierinternational.com/article/droits-humains-la-birmanie-a-commis-un-genocide-contre-les-rohingyas-selon-la-cour-internationale-de-justice_288689",
+     "date": "2026-11-19T16:53+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "ONU Info",
+     "titre": "La CIJ reconnaît le Myanmar coupable de génocide à l’encontre des Rohingyas",
+     "url": "https://news.un.org/feed/view/fr/story/2026/11/1159874",
+     "date": "2026-11-19T12:00+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s4",
+   "rubrique": "International",
+   "titre": "Anthropic fait son entréé en bourse",
+   "resume": "Anthropic signe une entrée en Bourse historique. Le créateur de l’IA Claude a levé plus de 81 milliards de dollars, malgré les turbulences du secteur. Que révèle ce succès sur les attentes des investisseurs ? Cette opération ouvre-t-elle la voie à une future introduction en Bourse d’OpenAI ? Guillaume Grallet, rédacteur en chef tech et sciences au Point et chroniqueur à France 24, auteur de Pionniers, voyage aux fron",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "L'entreprise américaine d'intelligence artificielle Anthropic signe une entrée en Bourse historique en détrônant SpaceX",
+     "url": "https://www.franceinfo.fr/economie/bourse/l-entreprise-americaine-d-intelligence-artificielle-anthropic-signe-une-entree-en-bourse-historique-en-detronant-spacex_8290763.html#xtor=RSS-3-%5Beconomie%5D",
+     "date": "2026-11-19T22:53+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Anthropic fait son entréé en bourse",
+     "url": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261119-anthropic-fait-son-entr%C3%A9%C3%A9-en-bourse",
+     "date": "2026-11-19T19:23+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Le géant de l'IA Anthropic fait son entrée en Bourse et atteint une valorisation de 1750 milliards de dollars",
+     "url": "https://www.rfi.fr/fr/%C3%A9conomie/20261119-anthropic-entr%C3%A9e-bourse-r%C3%A9alisant-la-plus-importante-lev%C3%A9e-de-fonds-de-l-histoire",
+     "date": "2026-11-19T08:49+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Courrier international",
+     "titre": "Avec l’entrée en Bourse d’Anthropic, des employés soudainement multimillionnaires",
+     "url": "https://www.courrierinternational.com/article/tech-avec-l-entree-en-bourse-d-anthropic-des-employes-soudainement-multimillionnaires_288703",
+     "date": "2026-11-19T18:22+00:00",
+     "acces": "mixte"
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "rubrique": "International",
+   "titre": "Au Royaume-Uni, Andy Burnham ravive le débat sur le Brexit, plus de cinq ans après sa mise en œuvre effective",
+   "resume": "Alors que les Européens et le Royaume-Uni doivent discuter de leur relation, vendredi 20 novembre, le sujet reste complexe outre-Manche. S’il martèle vouloir resserrer les liens avec l’Union, le premier ministre britannique entretient le flou sur la nature du rapprochement qu’il envisage.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Au Royaume-Uni, Andy Burnham ravive le débat sur le Brexit, plus de cinq ans après sa mise en œuvre effective",
+     "url": "https://www.lemonde.fr/international/article/2026/11/20/au-royaume-uni-andy-burnham-ravive-le-debat-sur-le-brexit-plus-de-cinq-ans-apres-sa-mise-en-uvre-effective_6813589_3210.html",
+     "date": "2026-11-20T05:00+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Six ans après le Brexit, le Royaume-Uni a-t-il gagné au change en quittant l'Europe ?",
+     "url": "https://www.franceinfo.fr/monde/europe/la-grande-bretagne-et-l-ue/six-ans-apres-le-brexit-le-royaume-uni-a-t-il-gagne-au-change-en-quittant-l-europe_8290727.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-19T21:23+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Six ans après le Brexit, le Royaume-Uni a-t-il gagné au change en quittant l'Europe ?",
+     "url": "https://www.franceinfo.fr/monde/europe/la-grande-bretagne-et-l-ue/six-ans-apres-le-brexit-le-royaume-uni-a-t-il-gagne-au-change-en-quittant-l-europe_8290727.html#xtor=RSS-3-%5Beconomie%5D",
+     "date": "2026-11-19T21:23+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Royaume-Uni: Andy Burnham tente un rapprochement risqué avec l'UE",
+     "url": "https://www.rfi.fr/fr/europe/20261119-royaume-uni-andy-burnham-tente-un-rapprochement-risqu%C3%A9-avec-l-ue",
+     "date": "2026-11-19T21:25+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s6",
+   "rubrique": "International",
+   "titre": "Fiona the hippo dies after ingesting knitted hat at Cincinnati zoo",
+   "resume": "Zoo staff tried a colonoscopy, vibration plate and other procedures to aid the hippo in passing the hat to no avail Fiona the hippo, one of America’s most famous zoo animals, has died after efforts to remove a knitted hat that she swallowed after it fell into her enclosure proved unsuccessful. “It is with extreme sadness that we share with you the devastating news that Fiona did not make it after multiple attempts fr",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+     "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-19T23:40+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "BBC News",
+     "titre": "From premature baby to social media star - Famed hippo Fiona dies",
+     "url": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-19T22:54+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "Fiona the hippo dies after ingesting knitted hat at Cincinnati zoo",
+     "url": "https://www.theguardian.com/world/2026/nov/19/fiona-hippo-cincinnati-zoo-knit-hat",
+     "date": "2026-11-20T03:05+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Hippo Fiona dies days after swallowing visitor’s hat",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/beloved-hippo-fiona-dies-days-after-swallowing-visitors-hat?traffic_source=rss",
+     "date": "2026-11-20T02:51+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s7",
+   "rubrique": "International",
+   "titre": "COP31 sur le climat : les énergies fossiles retirées du projet de décision finale",
+   "resume": "Les énergies fossiles ne figurent plus dans le nouveau projet de décision finale de la COP31 sur le climat publié jeudi à Antalya (Turquie), un recul dénoncé avec force par les ONG à la veille de la fin théorique des négociations.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "COP31 : les énergies fossiles ont disparu du nouveau projet de « décision finale », à la veille de la fin théorique des négociations",
+     "url": "https://www.lemonde.fr/planete/article/2026/11/19/cop31-les-energies-fossiles-ont-disparu-du-nouveau-projet-de-decision-finale-a-la-veille-de-la-fin-theorique-des-negociations_6813352_3244.html",
+     "date": "2026-11-19T17:09+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "France 24",
+     "titre": "COP31 sur le climat : les énergies fossiles retirées du projet de décision finale",
+     "url": "https://www.france24.com/fr/plan%C3%A8te/20261119-cop31-climat-%C3%A9nergies-fossiles-retir%C3%A9es-projet-d%C3%A9cision-finale",
+     "date": "2026-11-19T21:06+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "ONU Info",
+     "titre": "COP31 : l’ambition fait défaut, les énergies fossiles effacées du projet d’accord",
+     "url": "https://news.un.org/feed/view/fr/story/2026/11/1159875",
+     "date": "2026-11-19T12:00+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s8",
+   "rubrique": "International",
+   "titre": "Présidentielle : les créateurs de contenus sommés de respecter le pluralisme par l'Arcom",
+   "resume": "Créateurs de contenus et influenceurs devront pour la première fois respecter les règles du pluralisme pendant la campagne de la présidentielle 2027, au même titre que la radio et la télévision, a annoncé jeudi le régulateur de l'audiovisuel et du numérique. En cas de manquements répétés, l'Arcom pourra décider de sanctions financières.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Présidentielle 2027 : les créateurs de contenu auront des obligations de pluralisme dans leur traitement de l’élection",
+     "url": "https://www.lemonde.fr/economie/article/2026/11/19/presidentielle-2027-les-createurs-de-contenu-auront-des-obligations-de-pluralisme-dans-leur-traitement-de-l-election_6813376_3234.html",
+     "date": "2026-11-19T19:30+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "France 24",
+     "titre": "Présidentielle : les créateurs de contenus sommés de respecter le pluralisme par l'Arcom",
+     "url": "https://www.france24.com/fr/france/20261119-pr%C3%A9sidentielle-cr%C3%A9ateurs-contenus-somm%C3%A9s-respecter-pluralisme-arcom",
+     "date": "2026-11-19T18:07+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Présidentielle 2027: les créateurs de contenus devront respecter les règles de pluralisme de l'Arcom",
+     "url": "https://www.rfi.fr/fr/france/20261119-pr%C3%A9sidentielle-2027-les-cr%C3%A9ateurs-de-contenus-devront-respecter-les-r%C3%A8gles-de-pluralisme-de-l-arcom",
+     "date": "2026-11-19T16:51+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s9",
+   "rubrique": "International",
+   "titre": "Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears",
+   "resume": "Indexes in Japan, South Korea, Taiwan and Hong Kong fall amid tech sell-off.",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "How did Anthropic's stock market debut unfold?",
+     "url": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-19T23:52+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears",
+     "url": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss",
+     "date": "2026-11-20T02:54+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "rubrique": "France",
+   "titre": "Au Sénat, le vote sur la présomption de légitime défense des forces de l’ordre repoussé à vendredi",
+   "resume": "Cette loi controversée, soutenue par le gouvernement et le RN mais contestée par la gauche, permettrait aux policiers et gendarmes de ne plus systématiquement être soupçonnés ou placés en garde à vue, en cas d’usage d’une arme.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Au Sénat, le vote sur la présomption de légitime défense des forces de l’ordre repoussé à vendredi",
+     "url": "https://www.lemonde.fr/politique/article/2026/11/20/le-vote-sur-la-presomption-de-legitime-defense-des-forces-de-l-ordre-repousse-a-vendredi-au-senat_6813482_823448.html",
+     "date": "2026-11-20T01:00+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Présomption de légitime défense pour les forces de l'ordre : \"Ce texte, au mieux, est inutile, au pire, il est dangereux\", estime Harold Huwart, maire DVG d'Eure-et-Loir",
+     "url": "https://www.franceinfo.fr/politique/presomption-de-legitime-defense-pour-les-forces-de-l-ordre-ce-texte-au-mieux-est-inutile-au-pire-il-est-dangereux-estime-harold-huwart-maire-dvg-d-eure-et-loir_8290574.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-19T19:15+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "rubrique": "Économie",
+   "titre": "Intelligence artificielle : l’action Anthropic finit sa première journée en hausse de 17 % et valorise l’entreprise à 1 280 milliards de dollars",
+   "resume": "L’introduction en Bourse spectaculaire du leader de l’IA n’a pas empêché Wall Street de finir en forte baisse jeudi, sur fond de mouvement anti-IA et d’interrogations sur le modèle économique de ces sociétés.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Intelligence artificielle : l’action Anthropic finit sa première journée en hausse de 17 % et valorise l’entreprise à 1 280 milliards de dollars",
+     "url": "https://www.lemonde.fr/economie/article/2026/11/20/intelligence-artificielle-l-action-anthropic-finit-sa-premiere-journee-en-hausse-de-17-et-valorise-l-entreprise-a-1-280-milliards-de-dollars_6813415_3234.html",
+     "date": "2026-11-19T23:30+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "France 24",
+     "titre": "🔴 Anthropic s'envole dès ses débuts et dépasse les 2 000 milliards de dollars de valorisation",
+     "url": "https://www.france24.com/fr/%C3%A9co-tech/20261119-anthropic-entr%C3%A9e-bourse-historique-propuls%C3%A9e-par-tr%C3%A8s-forte-demande",
+     "date": "2026-11-19T17:02+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "rubrique": "International",
+   "titre": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+   "resume": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist.",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+     "url": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-19T22:48+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "Thomas Markle, Meghan’s father, is competent to face child sex abuse images case",
+     "url": "https://www.theguardian.com/us-news/2026/nov/19/thomas-markle-mentally-competent",
+     "date": "2026-11-19T22:05+00:00",
+     "acces": "libre"
+    }
+   ]
+  }
+ ],
+ "date": "2026-11-20",
+ "genere_le": "2026-11-20T05:32+00:00",
+ "articles_analyses": 302
+}
