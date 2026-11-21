@@ -1,0 +1,335 @@
+{
+ "mode": "revue",
+ "items": [
+  {
+   "id": "s1",
+   "rubrique": "France",
+   "titre": "Le Parlement adopte définitivement la présomption d'usage légal des armes par les forces de l'ordre",
+   "resume": "La proposition de loi, soutenue par le centre, la droite et l'extrême droite, a été adoptée à 205 voix pour et 110 contre au Sénat.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "La loi sur la présomption de légitime défense pour les forces de l’ordre définitivement adoptée par le Parlement, ayant été approuvée au Sénat",
+     "url": "https://www.lemonde.fr/societe/article/2026/11/20/la-loi-sur-la-presomption-de-legitime-defense-pour-les-forces-de-l-ordre-definitivement-adoptee-par-le-parlement-ayant-ete-approuvee-au-senat_6813692_3224.html",
+     "date": "2026-11-20T18:46+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Le Parlement adopte définitivement la présomption d'usage légal des armes par les forces de l'ordre",
+     "url": "https://www.franceinfo.fr/faits-divers/police/le-parlement-adopte-definitivement-la-presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre_8292845.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-20T19:26+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Police : la loi sur la présomption de légitime défense définitivement adoptée par le Parlement",
+     "url": "https://www.france24.com/fr/france/20261120-police-la-loi-sur-la-pr%C3%A9somption-de-l%C3%A9gitime-d%C3%A9fense-d%C3%A9finitivement-adopt%C3%A9e-par-le-parlement",
+     "date": "2026-11-20T19:02+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "France: le Parlement adopte définitivement la présomption d'usage légitime des armes par les forces de l'ordre",
+     "url": "https://www.rfi.fr/fr/france/20261120-france-le-parlement-adopte-d%C3%A9finitivement-la-pr%C3%A9somption-d-usage-l%C3%A9gitime-des-armes-par-les-forces-de-l-ordre",
+     "date": "2026-11-20T18:46+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "rubrique": "France",
+   "titre": "Dominique de Villepin : des coups par sa droite",
+   "resume": "Dominique de Villepin a officialisé vendredi 20 novembre sa candidature à l'élection présidentielle. Une candidature critiquée par certains de son historique famille politique. On en parle dans l'épisode 10 du podcast \"On/Off\".",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Présidentielle 2027 : Dominique de Villepin officialise sa candidature, entre geste gaullien et référence révolutionnaire",
+     "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/20/presidentielle-2027-dominique-de-villepin-officialise-sa-candidature-entre-geste-gaullien-et-reference-revolutionnaire_6813715_6205049.html",
+     "date": "2026-11-20T22:25+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Dominique de Villepin : des coups par sa droite",
+     "url": "https://www.franceinfo.fr/elections/dominique-de-villepin-des-coups-par-sa-droite_8292857.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-20T19:00+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Le Figaro",
+     "titre": "Présidentielle 2027 : Dominique de Villepin, les coulisses d’une entrée en campagne imminente",
+     "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-dominique-de-villepin-les-coulisses-d-une-entree-en-campagne-imminente-20261118",
+     "date": "2026-11-20T08:04+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "Courrier international",
+     "titre": "Dominique de Villepin peut être le candidat chamboule-tout",
+     "url": "https://www.courrierinternational.com/article/vu-de-suisse-dominique-de-villepin-peut-etre-le-candidat-chamboule-tout_288887",
+     "date": "2026-11-20T16:42+00:00",
+     "acces": "mixte"
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "rubrique": "International",
+   "titre": "Three French police officers sentenced over racist assault on Black man",
+   "resume": "Paris criminal court finds racism was an aggravating factor in the 2020 assault of Black music producer Michel Zecler.",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "French police officers sentenced for beating of music producer Michel Zecler",
+     "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-20T22:37+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "French police officers found guilty of racist assault on black music producer",
+     "url": "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer",
+     "date": "2026-11-20T22:23+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Three French police officers sentenced over racist assault on Black man",
+     "url": "https://www.aljazeera.com/news/2026/11/21/three-french-police-officers-sentenced-over-racist-assault-on-black-man?traffic_source=rss",
+     "date": "2026-11-21T03:01+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s4",
+   "rubrique": "International",
+   "titre": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
+   "resume": "President gives wide-ranging White House press conference and says he has ‘fantastic relationships’ with Putin and Xi Donald Trump threatened on Friday to impose “tremendous penalties” on American tech companies that build datacenters outside the US, though he gave no details and told reporters he had not yet informed his own officials about the plan. In a discursive press conference from the White House briefing roo",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "Trump threatens ban on US firms building AI data centres overseas",
+     "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-20T20:54+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
+     "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
+     "date": "2026-11-20T21:47+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Trump threatens tax on US tech firms building AI data centres abroad",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss",
+     "date": "2026-11-20T21:10+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "rubrique": "International",
+   "titre": "Ukraine, Soudan, Gaza: le nombre d’enfants exposés à la guerre atteint des records dans le monde",
+   "resume": "Dans le monde, près d'un quart des enfants vivent dans des zones de conflit. L'ONG Save The Children en a comptabilisé 589 millions en 2025. Un nombre jamais atteint depuis qu'elle a commencé à les recenser en 1990. L'ONG dresse un double constat : en plus de vivre dans la guerre des adultes, les enfants sont devenus – aussi – des cibles.",
+   "sources": [
+    {
+     "media": "France 24",
+     "titre": "Sommet de Shenzhen, guerre en Ukraine, hostilités dans le Golfe",
+     "url": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20261120-sommet-de-shenzhen-guerre-en-ukraine-hostilit%C3%A9s-dans-le-golfe",
+     "date": "2026-11-20T20:24+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Ukraine, Soudan, Gaza: le nombre d’enfants exposés à la guerre atteint des records dans le monde",
+     "url": "https://www.rfi.fr/fr/monde/20261120-ukraine-soudan-gaza-le-nombre-d-enfants-expos%C3%A9s-%C3%A0-la-guerre-atteint-des-records-dans-le-monde",
+     "date": "2026-11-20T20:32+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "ONU Info",
+     "titre": "Ukraine : les enfants paient un tribut sans précédent à la guerre",
+     "url": "https://news.un.org/feed/view/fr/story/2026/11/1159881",
+     "date": "2026-11-20T12:00+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s6",
+   "rubrique": "International",
+   "titre": "Le Danemark accuse la Russie d’avoir commandité la tentative d’assassinat d’un rappeur ukrainien sur son territoire",
+   "resume": "Selon Copenhague, les services de renseignements russes avaient planifié le meurtre d’Albert Vasiliev, alias Kyivstoner, en s’appuyant sur la participation du gang danois Loyal to Familia. Le chef de la diplomatie a annoncé ce 20 novembre l’expulsion de l’attaché militaire russe en poste au Danemark.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Le Danemark accuse la Russie d’avoir commandité la tentative d’assassinat d’un rappeur ukrainien sur son territoire",
+     "url": "https://www.lemonde.fr/international/article/2026/11/20/le-danemark-accuse-la-russie-d-avoir-commandite-la-tentative-d-assassinat-d-un-rappeur-ukrainien-sur-son-territoire_6813695_3210.html",
+     "date": "2026-11-20T19:00+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Le Danemark soupçonne la Russie d'avoir planifié l'assassinat d'un rappeur ukrainien sur son sol",
+     "url": "https://www.franceinfo.fr/monde/europe/union-europeenne/le-danemark-soupconne-la-russie-d-avoir-planifie-l-assassinat-d-un-ukrainien-sur-son-sol_8292689.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-20T17:41+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Le Danemark accuse la Russie d'avoir tenté d'assassiner un rappeur ukrainien",
+     "url": "https://www.rfi.fr/fr/europe/20261120-le-danemark-va-expulser-un-diplomate-russe-apr%C3%A8s-la-tentative-d-assassinat-d-un-ukrainien-sur-son-sol",
+     "date": "2026-11-20T17:35+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s7",
+   "rubrique": "International",
+   "titre": "La chute de missiles russes en Pologne est tout sauf une coïncidence pour Varsovie",
+   "resume": "Le Premier ministre polonais, Donald Tusk, a dénoncé une “provocation délibérée” de Moscou après que plusieurs objets, dont des missiles, sont tombés en territoire polonais tôt ce vendredi 20 novembre. Ces incidents, qui ne sont pas les premiers du genre, surviennent alors que la “coalition des volontaires” en soutien à l’Ukraine mène un exercice militaire dans la région.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Après que des missiles russes se sont écrasés en Pologne, le premier ministre Donald Tusk annonce « des mois de grands défis pour nous tous »",
+     "url": "https://www.lemonde.fr/international/article/2026/11/20/apres-que-des-missiles-russes-se-sont-ecrases-en-pologne-le-premier-ministre-donald-tusk-annonce-des-mois-de-grands-defis-pour-nous-tous_6813699_3210.html",
+     "date": "2026-11-20T19:30+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "RFI",
+     "titre": "Deux missiles russes tombent en Pologne, Varsovie dénonce «une provocation»",
+     "url": "https://www.rfi.fr/fr/europe/20261120-deux-missiles-russes-tombent-en-pologne-varsovie-d%C3%A9nonce-une-provocation",
+     "date": "2026-11-20T15:02+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Courrier international",
+     "titre": "La chute de missiles russes en Pologne est tout sauf une coïncidence pour Varsovie",
+     "url": "https://www.courrierinternational.com/article/tensions-la-chute-de-missiles-russes-en-pologne-est-tout-sauf-une-coincidence-pour-varsovie_288892",
+     "date": "2026-11-20T17:45+00:00",
+     "acces": "mixte"
+    }
+   ]
+  },
+  {
+   "id": "s8",
+   "rubrique": "International",
+   "titre": "Sommet à Shenzhen : Donald Trump assure que ses relations \"fantastiques\" avec Xi Jinping et Vladimir Poutine contribuent à la sécurité des Etats-Unis",
+   "resume": "Les dirigeants américain, russe et chinois ont échangé pendant environ 1h20 jeudi en Chine. Ils se sont mis d'accord sur une \"déclaration de paix\" à l'issue de cette rencontre.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Etats-Unis : de retour d’Asie, Donald Trump défend sa proximité avec Vladimir Poutine et Xi Jinping",
+     "url": "https://www.lemonde.fr/international/article/2026/11/21/etats-unis-de-retour-d-asie-donald-trump-defend-sa-proximite-avec-vladimir-poutine-et-xi-jinping_6813916_3210.html",
+     "date": "2026-11-21T04:30+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Sommet à Shenzhen : Donald Trump assure que ses relations \"fantastiques\" avec Xi Jinping et Vladimir Poutine contribuent à la sécurité des Etats-Unis",
+     "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/direct-suivez-la-conference-de-presse-du-president-americain-donald-trump-apres-un-sommet-inedit-avec-xi-jinping-et-vladimir-poutine_8292656.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-21T05:22+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s9",
+   "rubrique": "International",
+   "titre": "Gen Z protests sweep Europe over wars, rising costs and climate",
+   "resume": "Thousands of Gen Z protesters rallied across 25 European countries over living costs, military spending and climate.",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "Cost of living protests sweep across Europe",
+     "url": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-20T16:45+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Gen Z protests sweep Europe over wars, rising costs and climate",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/gen-z-protests-sweep-europe-over-wars-rising-costs-and-climate?traffic_source=rss",
+     "date": "2026-11-21T02:49+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "rubrique": "International",
+   "titre": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
+   "resume": "Copenhagen accuses Moscow of planning assassination with banned local gang; Russia says no evidence for allegation.",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+     "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-20T21:57+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
+     "url": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper?traffic_source=rss",
+     "date": "2026-11-21T01:12+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "rubrique": "International",
+   "titre": "Climat: enlisée dans les tractations, la COP31 dépasse la date butoir pour trouver un accord",
+   "resume": "En Turquie, la COP31 joue les prolongations. Alors que la grande conférence annuelle sur le changement climatique aurait dû se terminer ce vendredi 20 novembre 2026 dans la soirée, les délégations de près de 200 pays tentent toujours d’arracher des compromis sur plusieurs points critiques.",
+   "sources": [
+    {
+     "media": "France 24",
+     "titre": "La COP31 entre en prolongations pour tenter d'arracher un accord sur le climat",
+     "url": "https://www.france24.com/fr/asie-pacifique/20261120-cop31-entre-prolongations-tenter-arracher-accord-sur-climat",
+     "date": "2026-11-20T16:45+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Climat: enlisée dans les tractations, la COP31 dépasse la date butoir pour trouver un accord",
+     "url": "https://www.rfi.fr/fr/environnement/20261120-climat-enlis%C3%A9e-dans-les-tractations-la-cop31-d%C3%A9passe-la-date-butoir-pour-trouver-un-accord",
+     "date": "2026-11-20T23:17+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "rubrique": "International",
+   "titre": "États-Unis: le financement de la guerre en Iran, monnaie d’échange des démocrates au Congrès",
+   "resume": "C’est l’un des dossiers brûlants qui attendent Donald Trump à partir du 3 janvier et le changement de majorité au Congrès : la poursuite de la guerre en Iran. À ce stade, le groupe républicain fait bloc derrière le président américain. Les élus conservateurs viennent de rejeter une résolution non contraignante au Sénat. Ce texte prévoyait la fin des opérations militaires contre le régime iranien sans autorisation for",
+   "sources": [
+    {
+     "media": "France 24",
+     "titre": "Les États-Unis ont-ils utilisé des bombes au graphite contre l'Iran ?",
+     "url": "https://www.france24.com/fr/moyen-orient/20261120-etats-unis-bombes-graphite-iran",
+     "date": "2026-11-20T16:40+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "États-Unis: le financement de la guerre en Iran, monnaie d’échange des démocrates au Congrès",
+     "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261120-%C3%A9tats-unis-le-financement-de-la-guerre-en-iran-monnaie-d-%C3%A9change-des-d%C3%A9mocrates-au-congr%C3%A8s",
+     "date": "2026-11-20T23:11+00:00",
+     "acces": "libre"
+    }
+   ]
+  }
+ ],
+ "date": "2026-11-21",
+ "genere_le": "2026-11-21T05:27+00:00",
+ "articles_analyses": 287
+}
