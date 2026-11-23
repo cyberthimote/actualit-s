@@ -1,0 +1,363 @@
+{
+ "mode": "revue",
+ "items": [
+  {
+   "id": "s1",
+   "rubrique": "International",
+   "titre": "EN DIRECT, guerre en Ukraine : des frappes russes dans la région de Kiev font au moins 14 morts ; deux navires, dont au moins un russe, attaqués en Libye",
+   "resume": "Selon un bilan encore provisoire, dix personnes ont été tuées dans une frappe russe ayant touché un immeuble résidentiel à Dymer, à une quarantaine de kilomètres au nord de la capitale ukrainienne. Les secours sont parvenus à extraire vivants des décombres un enfant et une femme de 79 ans, ont annoncé les autorités locales.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "EN DIRECT, guerre en Ukraine : des frappes russes dans la région de Kiev font au moins 14 morts ; deux navires, dont au moins un russe, attaqués en Libye",
+     "url": "https://www.lemonde.fr/international/live/2026/11/23/en-direct-guerre-en-ukraine-des-frappes-russes-dans-la-region-de-kiev-font-au-moins-14-morts-deux-navires-dont-au-moins-un-russe-attaques-en-lybie_6814183_3210.html",
+     "date": "2026-11-23T05:07+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Guerre en Ukraine : des frappes russes font au moins 14 morts dans la région de Kiev, avant une réunion de l'Otan dans la journée",
+     "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-frappes-russes-font-au-moins-14-morts-dans-la-region-de-kiev_8295389.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-23T05:21+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Libye : deux navires attaqués par des drones maritimes, dont un bateau russe",
+     "url": "https://www.france24.com/fr/afrique/20261122-libye-drones-maritimes-attaqu%C3%A9-deux-navires-bateau-russe-guerre",
+     "date": "2026-11-22T21:05+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Ukraine : au moins deux morts après une frappe de drone russe contre un immeuble résidentiel",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261122-ukraine-au-moins-deux-morts-apr%C3%A8s-une-frappe-de-drone-russe-contre-un-immeuble-r%C3%A9sidentiel",
+     "date": "2026-11-22T16:39+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "rubrique": "International",
+   "titre": "Israël : les partis d'Eisenkot et de Netanyahu achèvent leurs discussions sans parvenir à un accord",
+   "resume": "Une semaine après une première rencontre, les partis de Benjamin Netanyahu (Likoud) et de Gadi Eisenkot (Yashar) ont conclu dimanche de nouveaux pourparlers en Israël. Ils ne sont pas parvenus à trouver un accord sur une éventuelle coalition. Une nouvelle réunion a été annoncée.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Israël : les partis de Gadi Eisenkot et de Benyamin Nétanyahou concluent de nouvelles négociations de coalition sans accord",
+     "url": "https://www.lemonde.fr/international/article/2026/11/22/israel-les-partis-de-gadi-eisenkot-et-de-benyamin-netanyahou-concluent-de-nouvelles-negociations-de-coalition-sans-accord_6814239_3210.html",
+     "date": "2026-11-22T17:57+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "France 24",
+     "titre": "Israël : les partis d'Eisenkot et de Netanyahu achèvent leurs discussions sans parvenir à un accord",
+     "url": "https://www.france24.com/fr/moyen-orient/20261123-israel-partis-gadi-eisenkot-benjamin-netanyahu-achevent-discussions-sans-parvenir-accord-likoud-coalition",
+     "date": "2026-11-23T05:19+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Israël: pas d'avancée entre les partis d'Eisenkot et de Netanyahu pour la formation d'un gouvernement",
+     "url": "https://www.rfi.fr/fr/moyen-orient/20261122-isra%C3%ABl-pas-d-avanc%C3%A9e-entre-les-partis-d-eisenkot-et-de-netanyahu-pour-la-formation-d-un-gouvernement",
+     "date": "2026-11-22T20:34+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "rubrique": "International",
+   "titre": "La COP31 sévèrement critiquée après l’échec des négociations",
+   "resume": "La 31e Conférence de l’ONU sur le climat s’est achevée dimanche en Turquie sans consensus ni déclaration finale entre les quelque 200 pays participants. Un échec retentissant qui suscite des inquiétudes quant à la capacité des COP, dans leur format actuel, à s’attaquer efficacement au dérèglement climatique.",
+   "sources": [
+    {
+     "media": "France 24",
+     "titre": "COP31 : décryptage après son échec malgré 44 heures de prolongations",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261122-cop31-d%C3%A9cryptage-apr%C3%A8s-son-%C3%A9chec-malgr%C3%A9-44-heures-de-prolongations",
+     "date": "2026-11-22T16:30+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Climat: quelles suites entrevoir après l'échec de la COP31 à Antalya",
+     "url": "https://www.rfi.fr/fr/environnement/20261122-climat-quelles-suites-entrevoir-apr%C3%A8s-l-%C3%A9chec-de-la-cop31-%C3%A0-antalya",
+     "date": "2026-11-22T21:40+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Courrier international",
+     "titre": "La COP31 sévèrement critiquée après l’échec des négociations",
+     "url": "https://www.courrierinternational.com/article/climat-la-cop31-severement-critiquee-apres-l-echec-des-negociations_289248",
+     "date": "2026-11-23T05:10+00:00",
+     "acces": "mixte"
+    }
+   ]
+  },
+  {
+   "id": "s4",
+   "rubrique": "France",
+   "titre": "Hugues Moutouh, un préfet au cœur de la tourmente",
+   "resume": "Le préfet de la région Centre-Val de Loire a décidé de demander à être relevé de ses fonctions. Hugues Moutouh est soupçonné d’être impliqué dans des fuites sur des enquêtes confidentielles du ministère de l’Intérieur, liées au Rassemblement national. Les enquêteurs se concentrent sur un mail découvert lors d’une perquisition.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "L’itinéraire d’Hugues Moutouh, préfet « provocateur et dominant », ex-bras droit de Claude Guéant aujourd’hui soupçonné d’être une « taupe » du RN",
+     "url": "https://www.lemonde.fr/societe/article/2026/11/23/l-itineraire-d-hugues-moutouh-prefet-provocateur-et-dominant-ex-bras-droit-de-claude-gueant-aujourd-hui-soupconne-d-etre-une-taupe-du-rn_6814310_3224.html",
+     "date": "2026-11-23T04:29+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "Fuites vers le RN : Marine Le Pen dit n’avoir « jamais reçu d’informations confidentielles » du préfet Hugues Moutouh",
+     "url": "https://www.lemonde.fr/societe/article/2026/11/22/fuites-vers-le-rn-marine-le-pen-dit-n-avoir-jamais-recu-d-informations-confidentielles-du-prefet-hugues-moutouh_6814216_3224.html",
+     "date": "2026-11-22T14:01+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "Fuites de Beauvau vers le RN : d’un e-mail trouvé au domicile de Frédéric Chatillon aux suspicions visant le préfet Hugues Moutouh, itinéraire d’une enquête sensible",
+     "url": "https://www.lemonde.fr/societe/article/2026/11/21/fuites-de-beauvau-vers-le-rn-d-un-email-trouve-au-domicile-d-un-ami-de-marine-le-pen-aux-suspicions-visant-le-prefet-moutouh-itineraire-d-une-enquete-sensible_6814067_3224.html",
+     "date": "2026-11-21T21:00+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Hugues Moutouh, un préfet au cœur de la tourmente",
+     "url": "https://www.franceinfo.fr/politique/hugues-moutouh-un-prefet-au-c-ur-de-la-tourmente_8295203.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-22T21:47+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "rubrique": "International",
+   "titre": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+   "resume": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A Russian warship docked in the Libyan port city of Benghazi was struck in the early hours of Sunday in a suspected Ukrainian sea drone attack, causing a dramatic night-time explosion and the sinking of the vessel. The strike severely damaged the Merkury, a Russian navy corvette that had stopped to refuel and ta",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+     "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-23T02:59+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+     "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+     "date": "2026-11-22T21:33+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Child rescued in Ukraine after Russian drone attack kills 10",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/child-rescued-in-ukraine-after-russian-drone-attack-kills-10?traffic_source=rss",
+     "date": "2026-11-23T04:38+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s6",
+   "rubrique": "International",
+   "titre": "En Turquie, des milliers de personnes manifestent à Istanbul contre la fermeture de médias d'opposition",
+   "resume": "Cette mobilisation fait suite à une descente de police mardi au siège de la chaîne d'opposition Sözcü TV et de son groupe.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "A Istanbul, des milliers de manifestants ont dénoncé la mise sous tutelle des médias d’opposition par l’Etat",
+     "url": "https://www.lemonde.fr/international/article/2026/11/22/a-istanbul-des-milliers-de-manifestants-ont-denonce-la-mise-sous-tutelle-des-medias-d-opposition-par-l-etat_6814246_3210.html",
+     "date": "2026-11-22T19:58+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "En Turquie, des milliers de personnes manifestent à Istanbul contre la fermeture de médias d'opposition",
+     "url": "https://www.franceinfo.fr/monde/turquie/en-turquie-des-milliers-de-personnes-manifestent-a-istanbul-contre-la-fermeture-de-medias-d-opposition_8295182.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-22T20:04+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Des milliers de manifestants mobilisés à Istanbul contre la fermeture de médias d'opposition",
+     "url": "https://www.france24.com/fr/asie-pacifique/20261122-des-milliers-de-personnes-manifestent-%C3%A0-istanbul-contre-la-fermeture-de-m%C3%A9dias-d-opposition",
+     "date": "2026-11-22T19:02+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s7",
+   "rubrique": "International",
+   "titre": "Choose France : les entreprises françaises prêtent à investir 42,5 milliards d'euros",
+   "resume": "Les entreprises tricolores projettent d'investir 42,5 milliards d'euros en France lors du sommet Choose France qui se déroulera lundi, a détaillé l'Élysée dimanche soir. Malgré une situation économique compliquée dans le pays, plus de 200 projets industriels français seront mis à l'honneur.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Pour Emmanuel Macron, un Choose France 100 % tricolore sur fond de morosité des entreprises françaises",
+     "url": "https://www.lemonde.fr/economie/article/2026/11/23/pour-emmanuel-macron-un-choose-france-100-tricolore-sur-fond-de-morosite-des-entreprises-francaises_6814341_3234.html",
+     "date": "2026-11-23T05:00+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Au programme du sommet Choose France qui s'ouvre lundi, 273 projets valorisés et près de 15 milliards d'euros d'investissements nouveaux",
+     "url": "https://www.franceinfo.fr/economie/au-programme-du-sommet-choose-france-qui-s-ouvre-lundi-273-projets-valorises-et-pres-de-15-milliards-d-euros-d-investissements-nouveaux_8295146.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-22T19:26+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "INFO FRANCEINFO. Sommet Choose France-Édition France : l'entreprise Blanc Aéro Industries doit investir 39 millions d'euros dans le pays",
+     "url": "https://www.franceinfo.fr/economie/info-france-info-sommet-choose-france-edition-france-l-entreprise-blanc-aero-industries-doit-investir-39-millions-d-euros-dans-le-pays_8294021.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-22T05:00+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Au programme du sommet Choose France qui s'ouvre lundi, 273 projets valorisés et près de 15 milliards d'euros d'investissements nouveaux",
+     "url": "https://www.franceinfo.fr/economie/au-programme-du-sommet-choose-france-qui-s-ouvre-lundi-273-projets-valorises-et-pres-de-15-milliards-d-euros-d-investissements-nouveaux_8295146.html#xtor=RSS-3-%5Beconomie%5D",
+     "date": "2026-11-22T19:26+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s8",
+   "rubrique": "International",
+   "titre": "Israël : Eisenkot condamne des attaques de colons juifs en Cisjordanie",
+   "resume": "Des ⁠colons israéliens ont attaqué ​dimanche 22 novembre des villages palestiniens de Cisjordanie occupée, provoquant des incendies et ​inscrivant des graffitis racistes, rapportent des témoins. Notre correspondant Stéphane Amar nous en dit plus.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Cisjordanie : enquête ouverte par les autorités israéliennes après des attaques de colons ; Gadi Eisenkot dénonce un « terrorisme juif »",
+     "url": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/11/22/cisjordanie-enquete-ouverte-par-les-autorites-israeliennes-apres-des-attaques-de-colons-gadi-eisenkot-denonce-un-terrorisme-juif_6814204_6325529.html",
+     "date": "2026-11-22T10:19+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "France 24",
+     "titre": "Israël : Eisenkot condamne des attaques de colons juifs en Cisjordanie",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261122-isra%C3%ABl-eisenkot-condamne-des-attaques-de-colons-juifs-en-cisjordanie",
+     "date": "2026-11-22T16:25+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Israël: une nouvelle attaque de colons en Cisjordanie occupée provoque un tollé politique",
+     "url": "https://www.rfi.fr/fr/moyen-orient/20261122-isra%C3%ABl-une-nouvelle-attaque-de-colons-en-cisjordanie-occup%C3%A9e-provoque-un-toll%C3%A9-politique",
+     "date": "2026-11-22T13:44+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s9",
+   "rubrique": "International",
+   "titre": "What's next after no deal at COP31 climate talks?",
+   "resume": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "What's next after no deal at COP31 climate talks?",
+     "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-23T05:34+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "Cop31 climate talks break down as key deal rejected",
+     "url": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
+     "date": "2026-11-22T16:14+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "rubrique": "France",
+   "titre": "Présidentielle 2027 : Marine Le Pen, une campagne au défi de la justice",
+   "resume": "La candidate du Rassemblement national à l’Elysée, déclarée le soir même d’une condamnation pour détournements de fonds publics, ne fait aucun cas des multiples affaires et soupçons d’atteinte à la probité visant son parti, misant sur l’indifférence présumée des électeurs pour les dossiers judiciaires.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Présidentielle 2027 : Marine Le Pen, une campagne au défi de la justice",
+     "url": "https://www.lemonde.fr/politique/article/2026/11/23/presidentielle-2027-marine-le-pen-une-campagne-au-defi-de-la-justice_6814312_823448.html",
+     "date": "2026-11-23T04:30+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Présidentielle 2027 : \"Je ne me résoudrai jamais à ce que Marine Le Pen entre à l'Élysée\", assure Raphaël Glucksman, candidat PS et Place publique",
+     "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/le-grand-enjeu/presidentielle-2027-je-ne-me-resoudrai-jamais-a-ce-que-marine-le-pen-entre-a-l-elysee-lache-raphael-glucksman-candidat-ps-et-place-publique_8295134.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-22T21:57+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "La candidate à l'élection présidentielle Marine Le Pen estime que couper les subventions aux associations \"politisées\" \"n'est pas du chantage\"",
+     "url": "https://www.franceinfo.fr/elections/la-candidate-a-l-election-presidentielle-marine-le-pen-estime-que-couper-les-subventions-aux-associations-politisees-n-est-pas-du-chantage_8294897.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-22T14:06+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "\"Je serai le candidat de la liberté de penser, de dire ce que vous voyez\", clame Eric Zemmour lors de son premier meeting de campagne présidentielle",
+     "url": "https://www.franceinfo.fr/elections/je-serai-le-candidat-de-la-liberte-de-pensee-de-parler-de-dire-ce-que-vous-voyez-clame-eric-zemmour-lors-de-son-premier-meeting-de-campagne-presidentielle_8294024.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-22T13:00+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "rubrique": "International",
+   "titre": "Manchester’s Co-op Live arena evacuated after ‘unknown substance’ released in crowd at Don Toliver concert",
+   "resume": "Greater Manchester police declared a major incident on Sunday following reports of concertgoers reporting eye and respiratory symptoms One person has been taken to hospital after an “unknown substance” was let off in the crowd during a Don Toliver concert at Manchester’s Co-op Live arena, officials said. Greater Manchester police said a major incident was declared shortly after 10pm on Sunday following reports of peo",
+   "sources": [
+    {
+     "media": "The Guardian",
+     "titre": "Manchester’s Co-op Live arena evacuated after ‘unknown substance’ released in crowd at Don Toliver concert",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/23/manchester-co-op-live-arena-evacuated-tear-gas-don-toliver-concert",
+     "date": "2026-11-23T03:27+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Don Toliver concert chaos after ‘substance’ let off in crowd",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/don-toliver-concert-chaos-after-substance-let-off-in-crowd?traffic_source=rss",
+     "date": "2026-11-23T03:25+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "rubrique": "International",
+   "titre": "US intelligence chief defends Trump’s comments calling Putin his ‘friend’",
+   "resume": "US Director of National Intelligence Jay Clayton says Trump's comments were 'entirely appropriate' in context of summit.",
+   "sources": [
+    {
+     "media": "The Guardian",
+     "titre": "US intelligence chief says he trusts Trump’s description of Putin as ‘my friend’",
+     "url": "https://www.theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend",
+     "date": "2026-11-22T20:55+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "US intelligence chief defends Trump’s comments calling Putin his ‘friend’",
+     "url": "https://www.aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his?traffic_source=rss",
+     "date": "2026-11-23T02:23+00:00",
+     "acces": "libre"
+    }
+   ]
+  }
+ ],
+ "date": "2026-11-23",
+ "genere_le": "2026-11-23T05:41+00:00",
+ "articles_analyses": 253
+}
