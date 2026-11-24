@@ -1,0 +1,314 @@
+{
+ "mode": "revue",
+ "items": [
+  {
+   "id": "s1",
+   "rubrique": "International",
+   "titre": "How Nvidia is reacting to Jensen Huang's return as CEO",
+   "resume": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Le « come-back » spectaculaire de Jensen Huang à la tête de Nvidia, sous la pression de Donald Trump et des marchés financiers",
+     "url": "https://www.lemonde.fr/economie/article/2026/11/24/le-come-back-spectaculaire-de-jensen-huang-a-la-tete-de-nvidia-sous-la-pression-de-donald-trump-et-des-marches-financiers_6814669_3234.html",
+     "date": "2026-11-24T04:30+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "EN DIRECT, Jensen Huang réintégré chez Nvidia à la surprise générale : le dirigeant accueilli sous les applaudissements de centaines de salariés ; Wall Street clôture en très forte hausse",
+     "url": "https://www.lemonde.fr/international/live/2026/11/24/en-direct-jensen-huang-reintegre-chez-nvidia-a-la-surprise-generale-le-dirigeant-accueilli-sous-les-applaudissements-de-centaines-de-salaries-wall-street-cloture-en-tres-forte-hausse_6814407_3210.html",
+     "date": "2026-11-23T23:46+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "Jensen Huang réintégré à la tête de Nvidia par son conseil d’administration, deux semaines après avoir démissionné à la suite de soupçons d’espionnage chinois",
+     "url": "https://www.lemonde.fr/economie/article/2026/11/23/jensen-huang-reintegre-comme-directeur-general-et-president-de-nvidia-par-le-conseil-d-administration-deux-semaines-apres-avoir-demissionne-suite-a-des-suspicions-d-espionnage-chinois_6814392_3234.html",
+     "date": "2026-11-23T14:21+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Nvidia : Jensen Huang redevient PDG, Donald Trump aux commandes de l'opération ?",
+     "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/nvidia-jensen-huang-redevient-pdg-donald-trump-aux-commandes-de-l-operation_8296710.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-23T22:28+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "rubrique": "Économie",
+   "titre": "La France va se doter de \"stocks stratégiques\" de terres rares et \"métaux prioritaires\", annonce l'Elysée",
+   "resume": "Ce projet sera piloté par la Caisse des dépôts qui doit désormais consulter les industriels des secteurs stratégiques utilisant ces matières premières incontournables.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "La France va créer des stocks stratégiques de terres rares et de métaux prioritaires pour réduire sa dépendance à la Chine d’ici à 2027",
+     "url": "https://www.lemonde.fr/economie/article/2026/11/23/la-france-va-creer-des-stocks-strategiques-de-terres-rares-et-de-metaux-prioritaires-pour-reduire-sa-dependance-a-la-chine-d-ici-a-2027_6814452_3234.html",
+     "date": "2026-11-23T20:43+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "La France va se doter de \"stocks stratégiques\" de terres rares et \"métaux prioritaires\", annonce l'Elysée",
+     "url": "https://www.franceinfo.fr/economie/industrie/la-france-va-se-doter-de-stocks-strategiques-de-terres-rares-et-metaux-prioritaires-annonce-l-elysee_8296749.html#xtor=RSS-3-%5Beconomie%5D",
+     "date": "2026-11-23T23:34+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Terres rares : Emmanuel Macron annonce que la France va se doter de \"stocks stratégiques\"",
+     "url": "https://www.france24.com/fr/france/20261123-terres-rares-macron-annonce-france-doter-stocks-strat%C3%A9giques",
+     "date": "2026-11-23T21:06+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Industrie: la France va se doter de «stocks stratégiques» de minerais critiques",
+     "url": "https://www.rfi.fr/fr/france/20261123-industrie-la-france-va-se-doter-de-stocks-strat%C3%A9giques-de-minerais-critiques",
+     "date": "2026-11-23T22:13+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "rubrique": "International",
+   "titre": "En direct : Tripoli veut des explications après les attaques contre des navires russes à Benghazi",
+   "resume": "Le gouvernement libyen d'union nationale, basé à Tripoli, a réclamé lundi des explications à Kiev après des attaques contre des navires russes près de Benghazi, tandis que l'exécutif rival de l'Est a demandé une enquête internationale sur une présumée présence militaire ukrainienne en Libye. Suivez notre direct.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "EN DIRECT, guerre en Ukraine : la Libye réclame des explications à Kiev après les attaques contre des navires russes près de Benghazi",
+     "url": "https://www.lemonde.fr/international/live/2026/11/23/en-direct-guerre-en-ukraine-la-libye-reclame-des-explications-a-kiev-apres-les-attaques-contre-des-navires-russes-pres-de-benghazi_6814183_3210.html",
+     "date": "2026-11-23T22:33+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "France 24",
+     "titre": "En direct : Tripoli veut des explications après les attaques contre des navires russes à Benghazi",
+     "url": "https://www.france24.com/fr/europe/20261124-en-direct-ukraine-russie-libye-attaques-benghazi-zelensky-poutine",
+     "date": "2026-11-24T04:00+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Tripoli réclame des explications à Kiev après les attaques contre des navires russes près de Benghazi",
+     "url": "https://www.rfi.fr/fr/europe/20261123-direct-l-ukraine-dit-avoir-attaqu%C3%A9-deux-bateaux-russes-pr%C3%A8s-des-c%C3%B4tes-de-la-libye",
+     "date": "2026-11-23T07:55+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s4",
+   "rubrique": "France",
+   "titre": "Congrès, référendum… Quelles solutions pour inscrire une «règle d’or» budgétaire dans la Constitution ?",
+   "resume": "DÉCRYPTAGE - L’exécutif envisage de s’appuyer sur un texte de 2011, déjà voté dans les deux chambres du Parlement. Il reste toutefois une étape importante avant de pouvoir fixer les objectifs d’équilibre des finances publiques dans les lois fondamentales du pays.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Budget : ces cinq obstacles auxquels se heurte le projet d’inscrire une « règle d’or » dans la Constitution",
+     "url": "https://www.lemonde.fr/politique/article/2026/11/23/budget-ces-cinq-obstacles-auxquels-se-heurte-le-projet-d-inscrire-une-regle-d-or-dans-la-constitution_6814433_823448.html",
+     "date": "2026-11-23T17:30+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Thierry Breton plaide pour une \"règle d'or\" inscrite dans la Constitution",
+     "url": "https://www.franceinfo.fr/economie/budget/thierry-breton-plaide-pour-un-budget-inscrit-dans-la-constitution_8296070.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-23T15:46+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Le Figaro",
+     "titre": "Congrès, référendum… Quelles solutions pour inscrire une «règle d’or» budgétaire dans la Constitution ?",
+     "url": "https://www.lefigaro.fr/politique/congres-referendum-quelles-solutions-pour-inscrire-une-regle-d-or-budgetaire-dans-la-constitution-20261123",
+     "date": "2026-11-23T14:23+00:00",
+     "acces": "mixte"
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "rubrique": "Économie",
+   "titre": "Depuis janvier, les Français ont retiré près de 10 milliards d'euros de leurs livrets A, qui connaît sa pire année depuis 2008",
+   "resume": "\"Dans un contexte de baisse du pouvoir d'achat avec la hausse du coût de l'énergie, les ménages ont été amenés à puiser dans leurs livrets\", explique le directeur du Cercle de l'Epargne.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Les épargnants ont retiré près de 10 milliards d’euros de leurs Livret A depuis janvier, un record depuis dix ans",
+     "url": "https://www.lemonde.fr/argent/article/2026/11/24/les-epargnants-ont-retire-pres-de-10-milliards-d-euros-de-leurs-livret-a-depuis-janvier-un-record-depuis-dix-ans_6814708_1657007.html",
+     "date": "2026-11-24T05:00+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Depuis janvier, les Français ont retiré près de 10 milliards d'euros de leurs livrets A, qui connaît sa pire année depuis 2008",
+     "url": "https://www.franceinfo.fr/economie/votre-argent/livret-a/depuis-janvier-les-francais-ont-retire-pres-de-10-milliards-d-euros-de-leurs-livrets-a-qui-connait-sa-pire-annee-depuis-2008_8297058.html#xtor=RSS-3-%5Beconomie%5D",
+     "date": "2026-11-24T05:17+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s6",
+   "rubrique": "France",
+   "titre": "\"On n'est plus à une surprise près\" : pourquoi Emmanuel Macron envisage-t-il de créer une règle d'or budgétaire à cinq mois de la présidentielle ?",
+   "resume": "Le président de la République réfléchit à faire inscrire dans la Constitution une sorte de \"règle d'or\" budgétaire en faisant adopter une réforme de 2011 qui n'a jamais abouti. Mais cette initiative du chef de l'Etat, brandie dans un timing étonnant, peut-elle réellement être couronnée de succès ?",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "\"On n'est plus à une surprise près\" : pourquoi Emmanuel Macron envisage-t-il de créer une règle d'or budgétaire à cinq mois de la présidentielle ?",
+     "url": "https://www.franceinfo.fr/politique/emmanuel-macron/on-n-est-plus-a-une-surprise-pres-pourquoi-emmanuel-macron-envisage-t-il-de-creer-une-regle-d-or-budgetaire-a-cinq-mois-de-la-presidentielle_8295866.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-24T05:16+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Le Figaro",
+     "titre": "Règle d’or budgétaire : Emmanuel Macron face à la faisabilité d’un ultime défi",
+     "url": "https://www.lefigaro.fr/politique/regle-d-or-budgetaire-emmanuel-macron-face-a-la-faisabilite-d-un-ultime-defi-20261123",
+     "date": "2026-11-23T19:34+00:00",
+     "acces": "mixte"
+    }
+   ]
+  },
+  {
+   "id": "s7",
+   "rubrique": "International",
+   "titre": "Au Yémen, les Houthis déplorent 25 morts ou disparus dans des frappes saoudiennes",
+   "resume": "Une agence de presse houthie fait état mardi de 25 morts ou disparus après des frappes aériennes de l'Arabie saoudite contre des autocars et des camions dans le sud du Yémen. Cette attaque fait suite à des bombardements dans la province côtière voisine de Hodeïda, contrôlée par les Houthis, qui ont fait au moins 17 morts.",
+   "sources": [
+    {
+     "media": "France 24",
+     "titre": "Au Yémen, les Houthis déplorent 25 morts ou disparus dans des frappes saoudiennes",
+     "url": "https://www.france24.com/fr/moyen-orient/20261124-yemen-houthis-deplorent-25-morts-disparus-frappes-saoudiennes",
+     "date": "2026-11-24T03:30+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Yémen: frappes saoudiennes meurtrières dans la ville portuaire de Hodeïda",
+     "url": "https://www.rfi.fr/fr/moyen-orient/20261123-y%C3%A9men-frappes-saoudiennes-meurtri%C3%A8res-dans-la-ville-portuaire-de-hode%C3%AFda",
+     "date": "2026-11-23T16:01+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s8",
+   "rubrique": "France",
+   "titre": "Six députés LFI portent plainte pour des menaces de mort anonymes",
+   "resume": "Les courriers haineux reçus par les élus « insoumis », qui dénoncent une inaction des autorités, comportaient aussi des croix gammées.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Six députés LFI portent plainte pour des menaces de mort anonymes",
+     "url": "https://www.lemonde.fr/societe/article/2026/11/24/six-deputes-lfi-portent-plainte-pour-des-menaces-de-mort-anonymes_6814471_3224.html",
+     "date": "2026-11-24T00:09+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Six députés de la France insoumise vont porter plainte pour des menaces de mort anonymes",
+     "url": "https://www.franceinfo.fr/societe/justice/six-deputes-de-la-france-insoumise-vont-porter-plainte-pour-des-menaces-de-mort-anonymes_8296824.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-23T22:18+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s9",
+   "rubrique": "International",
+   "titre": "Butt of the joke: Trump impersonator mocks president at Canada press dinner",
+   "resume": "Carney watches on as comedian lampoons US leader and his interest in men’s backsides at correspondents’ event Ottawa Canada’s prime minister, Mark Carney, was joined on stage in Ottawa by a Donald Trump impersonator who mocked the US president to raucous laughter from a crowd of politicians and journalists at a parliamentary press gallery dinner on Saturday. With coiffed hair and an ill-fitting suit, comedian Mark Cr",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
+     "url": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-23T17:14+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "Butt of the joke: Trump impersonator mocks president at Canada press dinner",
+     "url": "https://www.theguardian.com/world/2026/nov/23/canada-trump-impersonator-press-dinner",
+     "date": "2026-11-23T22:41+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "rubrique": "International",
+   "titre": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
+   "resume": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\".",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
+     "url": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-23T21:24+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "Gisèle Pelicot ‘deeply shocked’ after nude images used to promote book",
+     "url": "https://www.theguardian.com/world/2026/nov/23/gisele-pelicot-deeply-shocked-nude-images-book-france",
+     "date": "2026-11-23T18:12+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "rubrique": "International",
+   "titre": "L'attaque ukrainienne au large de Benghazi ravive la tension entre les belligérants libyens",
+   "resume": "Les autorités de l'Est libyen ont réclamé, lundi 23 novembre à l'ONU, une enquête sur la présence des forces ukrainiennes dans l'ouest du pays. Kiev a revendiqué l'attaque de deux navires russes au large de Benghazi visés par des drones marins. Une première, après deux opérations similaires en Libye en février et en décembre derniers. Ces nouvelles attaques ravivent les divisions et la tension entre les belligérants ",
+   "sources": [
+    {
+     "media": "France 24",
+     "titre": "L'attaque ukrainienne à Benghazi attise les tensions en Libye et en Méditerranée",
+     "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261123-l-attaque-ukrainienne-%C3%A0-benghazi-attise-les-tensions-en-libye-et-en-m%C3%A9diterran%C3%A9e",
+     "date": "2026-11-23T21:00+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "L'attaque ukrainienne au large de Benghazi ravive la tension entre les belligérants libyens",
+     "url": "https://www.rfi.fr/fr/afrique/20261123-l-attaque-ukrainienne-en-large-de-benghazi-ravive-la-tension-entre-les-bellig%C3%A9rants-libyens",
+     "date": "2026-11-23T21:16+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "rubrique": "International",
+   "titre": "Iranian singer and four others receive lashes after performance without hijab",
+   "resume": "Western governments and rights groups have criticised flogging as torture and a violation of international law An Iranian singer and four members of her production team ⁠have each received 74 lashes after being sentenced for “offending public decency by producing and ⁠publishing obscene and ⁠immoral ​content online”, an Iranian news website said on Monday. Parastoo Ahmadi and the four ⁠others were also handed two-yea",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "Iranian authorities flog singer who performed without hijab, lawyers say",
+     "url": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-23T18:04+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "Iranian singer and four others receive lashes after performance without hijab",
+     "url": "https://www.theguardian.com/world/2026/nov/23/iranian-singer-lashes-performing-without-hijab",
+     "date": "2026-11-23T20:56+00:00",
+     "acces": "libre"
+    }
+   ]
+  }
+ ],
+ "date": "2026-11-24",
+ "genere_le": "2026-11-24T05:32+00:00",
+ "articles_analyses": 281
+}
