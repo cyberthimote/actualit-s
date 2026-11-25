@@ -1,0 +1,363 @@
+{
+ "mode": "revue",
+ "items": [
+  {
+   "id": "s1",
+   "rubrique": "International",
+   "titre": "Cheers and applause as Jensen Huang returns to Nvidia office",
+   "resume": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Nvidia : Donald Trump aurait gagné jusqu’à 15 millions de dollars grâce à ses actions après le retour de Jensen Huang, selon le « Financial Times »",
+     "url": "https://www.lemonde.fr/international/article/2026/11/24/nvidia-donald-trump-aurait-gagne-jusqu-a-15-millions-de-dollars-grace-a-ses-actions-apres-le-retour-de-jensen-huang-selon-le-financial-times_6814756_3210.html",
+     "date": "2026-11-24T11:56+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Donald Trump s'est-il enrichi avec le retour de Jensen Huang à la tête de Nvidia ?",
+     "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-s-est-il-enrichi-avec-le-retour-de-jensen-huang-a-la-tete-de-nvidia_8298372.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-24T22:33+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Donald Trump s'est-il enrichi avec le retour surprise de Jensen Huang à la tête de Nvidia ?",
+     "url": "https://www.franceinfo.fr/internet/nvidia/donald-trump-s-est-il-enrichi-avec-le-retour-surprise-de-jensen-huang-a-la-tete-de-nvidia_8298000.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-24T17:34+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Donald Trump s'est-il enrichi avec le retour surprise de Jensen Huang à la tête de Nvidia ?",
+     "url": "https://www.franceinfo.fr/internet/nvidia/donald-trump-s-est-il-enrichi-avec-le-retour-surprise-de-jensen-huang-a-la-tete-de-nvidia_8298000.html#xtor=RSS-3-%5Beconomie%5D",
+     "date": "2026-11-24T17:34+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "rubrique": "International",
+   "titre": "Libye: deux militaires libyens morts des suites des attaques ukrainiennes contre des navires russes à Benghazi",
+   "resume": "Deux militaires libyens ont succombé à leurs blessures à la suite des attaques contre des navires russes à Benghazi, le 22 novembre, revendiquées par l'Ukraine, ont annoncé dans la nuit de mardi à mercredi les autorités de l'Est libyen.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "EN DIRECT, guerre en Ukraine : deux militaires libyens succombent à leurs blessures après les frappes revendiquées par Kiev contre des navires russes à Benghazi",
+     "url": "https://www.lemonde.fr/international/live/2026/11/25/en-direct-guerre-en-ukraine-deux-militaires-libyens-succombent-a-leurs-blessures-apres-les-frappes-revendiquees-par-kiev-contre-des-navires-russes-a-benghazi_6814183_3210.html",
+     "date": "2026-11-25T05:27+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "La Libye nie toute \"entente\" avec Kiev après les attaques ukrainiennes contre des navires russes",
+     "url": "https://www.franceinfo.fr/monde/afrique/libye/la-libye-nie-toute-entente-avec-kiev-apres-les-attaques-ukrainiennes-contre-des-navires-russes_8298132.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-24T18:58+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Ukraine en direct : deux militaires libyens tués dans les attaques de navires russes à Benghazi",
+     "url": "https://www.france24.com/fr/europe/20261125-en-direct-ukraine-russie-libye-benghazi-union-europeenne-zelensky-poutine",
+     "date": "2026-11-25T03:02+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Libye: deux militaires libyens morts des suites des attaques ukrainiennes contre des navires russes à Benghazi",
+     "url": "https://www.rfi.fr/fr/afrique/20261125-libye-deux-militaires-libyens-morts-des-suites-des-attaques-ukrainiennes-contre-des-navires-russes-%C3%A0-benghazi",
+     "date": "2026-11-25T03:41+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "rubrique": "France",
+   "titre": "Edouard Philippe propose un débat télévisé avant mi-décembre à David Lisnard, qu'il soupçonne de ne pas être \"étanche\" avec l'extrême droite",
+   "resume": "Le maire du Havre considère par ailleurs que \"les points d'accord sont considérablement plus nombreux\" avec Gabriel Attal et Bruno Retailleau qu'avec le maire du Havre.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Présidentielle 2027 : Edouard Philippe souhaite un débat télévisé avec David Lisnard, qu’il soupçonne de ne pas être « étanche » vis-à-vis de l’extrême droite",
+     "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/24/edouard-philippe-a-vote-pour-david-lisnard-a-la-presidence-de-l-amf-mais-fustige-sa-posture-dans-la-course-a-l-elysee_6814832_6205049.html",
+     "date": "2026-11-24T17:43+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Edouard Philippe propose un débat télévisé avant mi-décembre à David Lisnard, qu'il soupçonne de ne pas être \"étanche\" avec l'extrême droite",
+     "url": "https://www.franceinfo.fr/elections/edouard-philippe-propose-un-debat-televise-avant-mi-decembre-a-david-lisnard-qu-il-soupconn-de-ne-pas-etre-etanche-avec-l-extreme-droite_8298417.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-24T22:48+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "David Lisnard, le candidat ultralibéral qui chamboule la campagne à droite",
+     "url": "https://www.france24.com/fr/france/20261124-france-presidentielle-2027-david-lisnard-candidat-ultraliberal-chamboule-campagne-droite",
+     "date": "2026-11-24T16:43+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Présidentielle 2027: Édouard Philippe marque ses différences avec David Lisnard",
+     "url": "https://www.rfi.fr/fr/france/20261125-pr%C3%A9sidentielle-2027-%C3%A9douard-philippe-marque-ses-diff%C3%A9rences-avec-david-lisnard",
+     "date": "2026-11-25T03:37+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s4",
+   "rubrique": "International",
+   "titre": "L'Iran inflige 74 coups de fouet à la chanteuse Parastoo Ahmadi",
+   "resume": "Les autorités iraniennes ont infligé, lundi 23 novembre, 74 coups de fouet à la chanteuse Parastoo Ahmadi qui s'était produite sans voile dans une vidéo diffusée sur YouTube, rapporte l'agence de presse Isna, citant son avocat.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Une chanteuse iranienne subit 74 coups de fouet pour avoir chanté sans voile",
+     "url": "https://www.franceinfo.fr/monde/iran/une-chanteuse-iranienne-subit-74-coups-de-fouet-pour-avoir-chante-sans-voile_8298069.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-24T16:08+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "L'ONU et la France condamnent l'Iran pour la flagellation de la chanteuse Parastoo Ahmadi",
+     "url": "https://www.france24.com/fr/moyen-orient/20261124-l-onu-et-la-france-condamnent-l-iran-pour-la-flagellation-de-la-chanteuse-parastoo-ahmadi",
+     "date": "2026-11-24T17:53+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "L'Iran inflige 74 coups de fouet à la chanteuse Parastoo Ahmadi",
+     "url": "https://www.rfi.fr/fr/moyen-orient/20261124-l-iran-inflige-74-coups-de-fouet-%C3%A0-la-chanteuse-parastoo-ahmadi",
+     "date": "2026-11-24T12:46+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Iran whips singer Parastoo Ahmadi 74 times over YouTube concert",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss",
+     "date": "2026-11-25T01:21+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "rubrique": "International",
+   "titre": "Le géant chinois des télécoms Huawei reconnu coupable de vol de secrets industriels aux États-Unis",
+   "resume": "Après plus de huit ans de procédure et onze semaines de procès, le géant chinois de la tech Huawei a été reconnu coupable de fraude bancaire et de vol de secrets industriels, mardi à New York. Le chef d’accusation d’association de malfaiteurs, le plus grave, a en revanche été écarté par les jurés.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Le géant chinois Huawei reconnu coupable de vol de secrets industriels aux Etats-Unis, après huit ans de procédure",
+     "url": "https://www.lemonde.fr/international/article/2026/11/25/le-geant-chinois-huawei-reconnu-coupable-de-vol-de-secrets-industriels-aux-etats-unis-apres-huit-ans-de-procedure_6814902_3210.html",
+     "date": "2026-11-24T23:49+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "France 24",
+     "titre": "Le groupe chinois Huawei reconnu coupable de vol de secret industriel aux États-Unis",
+     "url": "https://www.france24.com/fr/%C3%A9co-tech/20261124-le-groupe-chinois-huawei-reconnu-coupable-de-vol-de-secret-industriel-aux-%C3%A9tats-unis",
+     "date": "2026-11-24T23:01+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Courrier international",
+     "titre": "Le géant chinois des télécoms Huawei reconnu coupable de vol de secrets industriels aux États-Unis",
+     "url": "https://www.courrierinternational.com/article/justice-le-geant-chinois-des-telecoms-huawei-reconnu-coupable-de-vol-de-secrets-industriels-aux-etats-unis_290073",
+     "date": "2026-11-25T04:49+00:00",
+     "acces": "mixte"
+    }
+   ]
+  },
+  {
+   "id": "s6",
+   "rubrique": "International",
+   "titre": "Présidentielle 2027: le Congrès des maires de France, marché aux parrainages des candidats",
+   "resume": "En temps ordinaire, le Congrès des maires de France, porte de Versailles à Paris, est l'occasion d'une levée de boucliers contre le budget en cours d'examen au Parlement. Mais à la veille d'une élection présidentielle, l'événement se transforme en une sorte de marché aux 500 signatures tant convoitées par les candidats à l'Élysée. De nombreux prétendants à la candidature sont d'ailleurs attendus entre ce mardi 24 nov",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Présidentielle 2027 : les maires s’inquiètent du « ras-le-bol général » des électeurs",
+     "url": "https://www.lemonde.fr/politique/article/2026/11/24/presidentielle-2027-les-maires-s-inquietent-du-ras-le-bol-general-des-electeurs_6814869_823448.html",
+     "date": "2026-11-24T22:36+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Congrès des maires : \"Il faut réfléchir à l'anonymat des parrainages, pour inciter les maires non cartés, ruraux, à parrainer des candidats\", estime le politologue Brice Soccol",
+     "url": "https://www.franceinfo.fr/politique/congres-des-maires-il-faut-reflechir-a-l-anonymat-des-parrainages-pour-inciter-les-maires-non-cartes-ruraux-a-parrainer-des-candidats-estime-le-politologue-brice-soccol_8297511.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-24T11:09+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "REPLAY. Police municipale, incendie, fiscalité… Quinze maires répondent à vos questions depuis le congrès de l'Association des maires de France",
+     "url": "https://www.franceinfo.fr/politique/direct-police-municipale-incendie-fiscalite-quinze-maires-repondent-a-vos-questions-depuis-le-congres-de-l-association-des-maires-de-france_8295998.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-24T17:06+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Présidentielle 2027: le Congrès des maires de France, marché aux parrainages des candidats",
+     "url": "https://www.rfi.fr/fr/france/20261124-pr%C3%A9sidentielle-2027-le-congr%C3%A8s-des-maires-de-france-march%C3%A9-aux-parrainages-des-candidats",
+     "date": "2026-11-24T14:53+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s7",
+   "rubrique": "International",
+   "titre": "Pourquoi Emmanuel Macron a-t-il déterré le projet de règle d’or budgétaire ?",
+   "resume": "Lundi 23 novembre, le président de la République a confirmé au “Figaro” qu’il envisageait de convoquer le Congrès pour modifier la Constitution afin d’y inscrire une règle d’or budgétaire. Pourquoi une telle initiative à quelques mois de la fin de son mandat ? Les opinions divergent dans les colonnes de la presse internationale.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Projet français, dépendance chinoise, exemple américain… Quatre questions sur les \"stocks stratégiques de terres rares et métaux\" voulus par Emmanuel Macron",
+     "url": "https://www.franceinfo.fr/economie/projet-francais-dependance-chinoise-exemple-americain-quatre-questions-sur-les-stocks-strategiques-de-terres-rares-et-metaux_8297829.html#xtor=RSS-3-%5Beconomie%5D",
+     "date": "2026-11-24T14:27+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Le Figaro",
+     "titre": "Règle d’or budgétaire : Emmanuel Macron face à la faisabilité d’un ultime défi",
+     "url": "https://www.lefigaro.fr/politique/regle-d-or-budgetaire-emmanuel-macron-face-a-la-faisabilite-d-un-ultime-defi-20261123",
+     "date": "2026-11-24T09:05+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "Le Figaro",
+     "titre": "Budget : Emmanuel Macron envisagerait un Congrès sur la règle d’or, droite et RN sont favorables mais critiques",
+     "url": "https://www.lefigaro.fr/politique/budget-emmanuel-macron-envisagerait-un-congres-sur-la-regle-d-or-droite-et-rn-sont-favorables-mais-critiques-20261122",
+     "date": "2026-11-24T09:07+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "Courrier international",
+     "titre": "Pourquoi Emmanuel Macron a-t-il déterré le projet de règle d’or budgétaire ?",
+     "url": "https://www.courrierinternational.com/article/vu-de-l-etranger-pourquoi-emmanuel-macron-a-t-il-deterre-le-projet-de-regle-d-or-budgetaire_289847",
+     "date": "2026-11-24T14:36+00:00",
+     "acces": "mixte"
+    }
+   ]
+  },
+  {
+   "id": "s8",
+   "rubrique": "International",
+   "titre": "En Colombie, le président et l’armée à Carthagène pour une prise d’otages en cours dans un supermarché",
+   "resume": "Le chef de l’Etat, Abelardo de la Espriella, a affirmé que cette prise d’otages relevait de la criminalité de droit commun, écartant toute implication des groupes armés ayant commis plusieurs attentats à travers le pays, ces derniers mois.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "En Colombie, le président et l’armée à Carthagène pour une prise d’otages en cours dans un supermarché",
+     "url": "https://www.lemonde.fr/international/article/2026/11/25/en-colombie-le-president-et-l-armee-a-carthagenes-pour-une-prise-d-otages-en-cours-dans-un-supermarche_6814815_3211.html",
+     "date": "2026-11-25T04:52+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "France 24",
+     "titre": "Colombie : une prise d'otages est en cours dans la ville touristique de Carthagène",
+     "url": "https://www.france24.com/fr/am%C3%A9riques/20261124-colombie-prise-otages-cours-ville-touristique-carthag%C3%A8ne",
+     "date": "2026-11-24T17:17+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s9",
+   "rubrique": "International",
+   "titre": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
+   "resume": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
+     "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-25T04:49+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "Kilmar Ábrego García, man at center of Trump deportation battle, leaves US",
+     "url": "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us",
+     "date": "2026-11-24T23:50+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "rubrique": "International",
+   "titre": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city",
+   "resume": "Abelardo de la Espriella to take control of an operation involving scores of security personnel trying to free at least 20 hostages Colombia’s president has arrived at the scene of an hours-long standoff between security services and gunmen holding at least 20 people hostage inside a supermarket in Cartagena, a popular tourist city. Abelardo de la Espriella’s motorcade arrived in Cartagena on Tuesday night, Agence Fr",
+   "sources": [
+    {
+     "media": "The Guardian",
+     "titre": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city",
+     "url": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
+     "date": "2026-11-25T03:57+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Gunmen hold dozens hostage in Colombia supermarket",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/gunmen-hold-dozens-hostage-in-colombia-supermarket?traffic_source=rss",
+     "date": "2026-11-25T00:49+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "rubrique": "International",
+   "titre": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
+   "resume": "China launched its Shenzhou-24 space mission to bring three astronauts to its Tiangong space station.",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
+     "url": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-25T03:28+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Pakistani astronaut launches into space aboard Chinese rocket",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/pakistani-astronaut-launches-into-space-aboard-chinese-rocket?traffic_source=rss",
+     "date": "2026-11-25T02:44+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "rubrique": "International",
+   "titre": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+   "resume": "The verdict follows a months-long trial in New York.",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+     "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-25T02:59+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "China’s Huawei found guilty of trade secrets conspiracy, fraud in US trial",
+     "url": "https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets?traffic_source=rss",
+     "date": "2026-11-24T21:43+00:00",
+     "acces": "libre"
+    }
+   ]
+  }
+ ],
+ "date": "2026-11-25",
+ "genere_le": "2026-11-25T05:33+00:00",
+ "articles_analyses": 308
+}
