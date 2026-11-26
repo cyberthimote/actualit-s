@@ -1,0 +1,328 @@
+{
+ "mode": "revue",
+ "items": [
+  {
+   "id": "s1",
+   "rubrique": "France",
+   "titre": "Présidentielle 2027 : l'ascension de David Lisnard, réélu président de l'Association des maires de France",
+   "resume": "Dans les allées du Salon des maires, la course aux parrainages est lancée. Parmi les 38 candidats déclarés à l'élection présidentielle, combien pourront réellement participer au scrutin ?",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "David Lisnard, candidat à l’élection présidentielle, réélu à la tête de l’Association des maires de France",
+     "url": "https://www.lemonde.fr/politique/article/2026/11/25/david-lisnard-candidat-a-l-election-presidentielle-reelu-a-la-tete-de-l-association-des-maires-de-france_6815094_823448.html",
+     "date": "2026-11-25T12:43+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Présidentielle 2027 : l'ascension de David Lisnard, réélu président de l'Association des maires de France",
+     "url": "https://www.franceinfo.fr/elections/presidentielle-2027-l-ascension-de-david-lisnard-reelu-president-de-l-association-des-maires-de-france_8300370.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-25T22:51+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "David Lisnard réélu Président de l'Association des maires de France",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261125-david-lisnard-r%C3%A9%C3%A9lu-pr%C3%A9sident-de-l-association-des-maires-de-france",
+     "date": "2026-11-25T16:25+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "David Lisnard, candidat à la présidentielle, réélu à la tête de l'Association des maires de France",
+     "url": "https://www.rfi.fr/fr/france/20261125-david-lisnard-candidat-%C3%A0-la-pr%C3%A9sidentielle-r%C3%A9%C3%A9lu-%C3%A0-la-t%C3%AAte-de-l-association-des-maires-de-france",
+     "date": "2026-11-25T13:41+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "rubrique": "International",
+   "titre": "Macy's postpones Thanksgiving parade due to severe weather",
+   "resume": "The was the first time ever that the iconic celebration was delayed because of storms. New York expects damaging winds and heavy rainfall over the Thanksgiving holiday.",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "Macy's postpones Thanksgiving parade due to severe weather",
+     "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-26T04:04+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "New York City’s Macy’s Thanksgiving Day parade postponed due to weather",
+     "url": "https://www.theguardian.com/us-news/2026/nov/25/macys-thanksgiving-day-parade-postponed-weather",
+     "date": "2026-11-25T21:08+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Storms push Macy’s Thanksgiving Day Parade in New York City to Saturday",
+     "url": "https://www.aljazeera.com/news/2026/11/26/storms-push-macys-thanksgiving-day-parade-in-new-york-city-to-saturday?traffic_source=rss",
+     "date": "2026-11-26T00:52+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "rubrique": "International",
+   "titre": "Colombian president taunts arrested supermarket hostage-takers",
+   "resume": "Colombia’s president has confronted the men who held 76 people hostage at a Cartagena supermarket.",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "Colombian police storm supermarket to free 76 held hostage for 17 hours",
+     "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-25T18:41+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city",
+     "url": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
+     "date": "2026-11-25T03:57+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Colombian president taunts arrested supermarket hostage-takers",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/colombian-president-taunts-arrested-supermarket-hostage-takers?traffic_source=rss",
+     "date": "2026-11-26T03:23+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s4",
+   "rubrique": "International",
+   "titre": "En Egypte, un incendie meurtrier sur une autoroute de l’agglomération du Caire fait une trentaine de victimes",
+   "resume": "Le sinistre s’est déclaré lorsqu’un camion chargé de carburant s’est renversé sur un axe très fréquenté, selon les médias d’Etat. Le ministère de la santé égyptien a également fait état d’au moins 15 blessés, dont quatre dans un état critique.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "En Egypte, un incendie meurtrier sur une autoroute de l’agglomération du Caire fait une trentaine de victimes",
+     "url": "https://www.lemonde.fr/afrique/article/2026/11/26/en-egypte-un-incendie-meurtrier-sur-une-autoroute-de-l-agglomeration-du-caire-fait-une-trentaine-de-victimes_6815263_3212.html",
+     "date": "2026-11-26T00:32+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "En Egypte, un incendie dans l'agglomération du Caire fait au moins 30 morts",
+     "url": "https://www.franceinfo.fr/monde/afrique/egypte/en-egypte-un-incendie-dans-l-agglomeration-du-caire-fait-au-moins-30-morts_8300229.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-25T20:54+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "En Égypte, un incendie sur une autoroute du Caire fait une trentaine de morts",
+     "url": "https://www.france24.com/fr/afrique/20261125-en-%C3%A9gypte-un-incendie-sur-une-autoroute-du-caire-fait-une-trentaine-de-morts",
+     "date": "2026-11-25T20:11+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "rubrique": "International",
+   "titre": "Andy Taylor, ex-guitariste de Duran Duran, est décédé à l'âge de 65 ans",
+   "resume": "Le guitariste britannique Andy Taylor, dont le jeu a contribué à forger le son de Duran Duran, groupe phare de la new wave des années 1980, est décédé lundi d'un cancer de la prostate, ont annoncé ses proches mercredi.",
+   "sources": [
+    {
+     "media": "France 24",
+     "titre": "Andy Taylor, ex-guitariste de Duran Duran, est décédé à l'âge de 65 ans",
+     "url": "https://www.france24.com/fr/culture/20261125-andy-taylor-ex-guitariste-de-duran-duran-est-d%C3%A9c%C3%A9d%C3%A9-%C3%A0-l-%C3%A2ge-de-65-ans",
+     "date": "2026-11-25T22:45+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Décès à 65 ans d'Andy Taylor, ex-guitariste du groupe britannique Duran Duran",
+     "url": "https://www.rfi.fr/fr/musique/20261125-d%C3%A9c%C3%A8s-%C3%A0-65-ans-d-andy-taylor-ex-guitariste-du-groupe-britannique-duran-duran",
+     "date": "2026-11-25T22:43+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "Andy Taylor, guitarist in Duran Duran, dies aged 65",
+     "url": "https://www.theguardian.com/music/2026/nov/25/andy-taylor-duran-duran-guitarist-dead",
+     "date": "2026-11-25T21:41+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s6",
+   "rubrique": "International",
+   "titre": "\"Ce n'est pas notre guerre\" : Teddy Riner exhorte à arrêter de donner de l'argent à l'Ukraine",
+   "resume": "Teddy Riner a clarifié son point de vue, mercredi, sur l'aide militaire apportée à l'Ukraine par l'armée française. \"Je ne comprends pas qu'on envoie des troupes en Ukraine alors que ce n'est pas notre guerre\", a-t-il dit au 108e Congrès des maires organisé par l'Association des maires de France. Il s'est dit prêt à s'asseoir \"avec la Russie et Zelensky demain\", refusant de \"donner de l'argent que nous n'avons pas\".",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Teddy Riner affirme, à propos de la guerre en Ukraine, que la France doit « arrêter de donner de l’argent » qu’elle n’a pas",
+     "url": "https://www.lemonde.fr/politique/article/2026/11/25/teddy-riner-affirme-a-propos-de-la-guerre-en-ukraine-que-la-france-doit-arreter-de-donner-de-l-argent-que-nous-n-avons-pas_6815137_823449.html",
+     "date": "2026-11-25T18:57+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Teddy Riner et le roi du Maroc : liaisons dangereuses ?",
+     "url": "https://www.franceinfo.fr/sports/judo/teddy-riner/teddy-riner-et-le-roi-du-maroc-liaisons-dangereuses_8300217.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-25T19:36+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "\"Ce n'est pas notre guerre\" : Teddy Riner exhorte à arrêter de donner de l'argent à l'Ukraine",
+     "url": "https://www.france24.com/fr/france/20261125-notre-guerre-teddy-riner-exhorte-arr%C3%AAter-donner-argent-ukraine-%C3%A9lection-fran%C3%A7aise-pr%C3%A9sidentielle",
+     "date": "2026-11-25T21:26+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s7",
+   "rubrique": "International",
+   "titre": "Nvidia : Trump impliqué, jusqu'où ?",
+   "resume": "Comment expliquer le retour spectaculaire de Jensen Huang aux commandes de Nvidia ? Hier, le dirigeant du géant des semi-conducteurs a présenté ses excuses aux salariés, reconnaissant avoir enfreint le code de conduite de l’entreprise et commis de graves erreurs. Malgré les controverses entourant sa relation avec Alicia Huang, soupçonnée d’espionnage au profit de Pékin, Donald Trump aurait multiplié les efforts pour ",
+   "sources": [
+    {
+     "media": "France 24",
+     "titre": "Nvidia : Trump impliqué, jusqu'où ?",
+     "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261125-nvidia-trump-impliqu%C3%A9-jusqu-o%C3%B9",
+     "date": "2026-11-25T20:45+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Courrier international",
+     "titre": "L’intervention de Trump en faveur du patron de Nvidia est une erreur qui reviendra le hanter",
+     "url": "https://www.courrierinternational.com/article/opinion-l-intervention-de-trump-en-faveur-du-patron-de-nvidia-est-une-erreur-qui-reviendra-le-hanter_290239",
+     "date": "2026-11-26T04:01+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "BBC News",
+     "titre": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+     "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-25T16:42+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s8",
+   "rubrique": "Économie",
+   "titre": "L'ONG Reporters sans frontières saisit l'Arcom pour demander de \"suspendre CNews pendant un mois\"",
+   "resume": "L'ONG accuse la chaîne de non respect répété du pluralisme pour favoriser l'extrême droite.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Reporters sans frontières demande la suspension de CNews pour une durée d’un mois",
+     "url": "https://www.lemonde.fr/economie/article/2026/11/26/reporters-sans-frontieres-demande-la-suspension-de-cnews-pour-une-duree-d-un-mois_6815475_3234.html",
+     "date": "2026-11-26T05:00+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "L'ONG Reporters sans frontières saisit l'Arcom pour demander de \"suspendre CNews pendant un mois\"",
+     "url": "https://www.franceinfo.fr/economie/medias/l-ong-reporters-sans-frontieres-saisit-l-arcom-pour-demander-de-suspendre-cnews-pendant-un-mois_8300685.html#xtor=RSS-3-%5Beconomie%5D",
+     "date": "2026-11-26T05:13+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s9",
+   "rubrique": "International",
+   "titre": "Qui a donné le plus à l’Ukraine depuis 2022 ?",
+   "resume": "🇪🇺 🇺🇦Depuis 2022, l’aide totale à l’Ukraine approche les 400 milliards d’euros. Les Européens sont les premiers contributeurs, au motif qu’aider l’Ukraine à se défendre, c’est aussi un enjeu de sécurité pour l’Europe toute entière. Viennent ensuite les États-Unis 🇺🇸, puis les autres alliés non-européens. L’UE souhaiterait que ses partenaires non-européens montent en puissance dans l’aide à l’Ukraine. #franceinfoRF",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Violences sur des élus : plus de 3 100 faits comptabilisés depuis le début 2026 ; une hausse de 25 % par rapport à 2025, annonce Laurent Nuñez",
+     "url": "https://www.lemonde.fr/societe/article/2026/11/25/violences-sur-des-elus-plus-de-3-100-faits-comptabilises-depuis-le-debut-2026-en-hausse-de-25-par-rapport-a-2025-annonce-laurent-nunez_6815158_3224.html",
+     "date": "2026-11-25T17:40+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Qui a donné le plus à l’Ukraine depuis 2022 ?",
+     "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/qui-a-donne-le-plus-a-l-ukraine-depuis-2022_8300127.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-26T05:00+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "rubrique": "International",
+   "titre": "Brazil blasts ‘unacceptable’ new US tariff proposals",
+   "resume": "President Lula’s office says Brazil will not yield to threats and aims for a negotiated resolution.",
+   "sources": [
+    {
+     "media": "The Guardian",
+     "titre": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
+     "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+     "date": "2026-11-26T03:54+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Brazil blasts ‘unacceptable’ new US tariff proposals",
+     "url": "https://www.aljazeera.com/news/2026/11/26/brazil-blasts-unacceptable-new-us-tariff-proposals?traffic_source=rss",
+     "date": "2026-11-26T04:47+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "rubrique": "International",
+   "titre": "En direct : Trump et le chef de l'Otan exhortent Moscou à ne pas \"étendre la guerre\" avec l'Ukraine",
+   "resume": "Donald Trump et le chef de l'Otan, Mark Rutte, ont appelé la Russie à ne pas \"étendre la guerre\" en Ukraine, dans une déclaration conjointe publiée mercredi à l'issue d'une rencontre à la résidence du président américain en Floride. Les dirigeants de l'UE vont batailler jeudi et vendredi sur le futur budget européen et l'aide à l'Ukraine, sans espoir d'accord à ce stade. Notre direct.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "EN DIRECT, guerre en Ukraine : Donald Trump et le secrétaire général de l’OTAN exhortent Moscou à ne pas « étendre la guerre » avec Kiev",
+     "url": "https://www.lemonde.fr/international/live/2026/11/25/en-direct-guerre-en-ukraine-kiev-sous-le-feu-de-missiles-balistiques_6814183_3210.html",
+     "date": "2026-11-25T21:50+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "France 24",
+     "titre": "En direct : Trump et le chef de l'Otan exhortent Moscou à ne pas \"étendre la guerre\" avec l'Ukraine",
+     "url": "https://www.france24.com/fr/europe/20261126-en-direct-ukraine-russie-ue-sommet-aide-zelensky-poutine",
+     "date": "2026-11-26T03:26+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "rubrique": "International",
+   "titre": "SpaceX reçoit l’autorisation de lancer jusqu’à un million de satellites pour ses centres de données spatiaux",
+   "resume": "La course aux data centers spatiaux s’intensifie, l’espace offrant de nombreux avantages par rapport à la terre. Google mène ses propres travaux et Blue Origin a soumis une demande pour son projet.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "SpaceX reçoit l’autorisation de lancer jusqu’à un million de satellites pour ses centres de données spatiaux",
+     "url": "https://www.lemonde.fr/sciences/article/2026/11/26/spacex-recoit-l-autorisation-de-lancer-jusqu-a-un-million-de-satellites-pour-ses-centres-de-donnees-spatiaux_6815331_1650684.html",
+     "date": "2026-11-26T01:52+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "France 24",
+     "titre": "SpaceX pourra lancer un million de satellites pour ses centres de données dans l'espace",
+     "url": "https://www.france24.com/fr/%C3%A9co-tech/20261125-spacex-pourra-lancer-un-million-satellites-centres-de-donnees-espace",
+     "date": "2026-11-25T22:22+00:00",
+     "acces": "libre"
+    }
+   ]
+  }
+ ],
+ "date": "2026-11-26",
+ "genere_le": "2026-11-26T05:33+00:00",
+ "articles_analyses": 292
+}
