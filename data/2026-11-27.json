@@ -1,0 +1,349 @@
+{
+ "mode": "revue",
+ "items": [
+  {
+   "id": "s1",
+   "rubrique": "France",
+   "titre": "Écrits antisémites : Jordan Bardella fragilisé par de nouvelles révélations",
+   "resume": "DÉCRYPTAGE - Les journaux Le Monde et Mediapart ont publié de nouvelles enquêtes censées prouver que Jordan Bardella a bien tenu des propos antisémites en 2013, alors qu’il n’était que simple militant du Front national.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Ecrits antisémites : Jordan Bardella s’enferre dans le déni et les mensonges",
+     "url": "https://www.lemonde.fr/politique/article/2026/11/27/ecrits-antisemites-jordan-bardella-s-enferre-dans-le-deni-et-les-mensonges_6815806_823448.html",
+     "date": "2026-11-27T05:24+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "De nouveaux messages antisémites de Jordan Bardella révélés par « Le Monde »",
+     "url": "https://www.lemonde.fr/podcasts/article/2026/11/27/de-nouveaux-messages-antisemites-de-jordan-bardella-reveles-par-le-monde_6815759_5463015.html",
+     "date": "2026-11-27T04:00+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Jordan Bardella accusé de nouveaux écrits antisémites : comment réagissent les électeurs du RN ?",
+     "url": "https://www.franceinfo.fr/politique/jordan-bardella/propos-antisemites-attribues-a-jordan-bardella/jordan-bardella-accuse-de-nouveaux-ecrits-antisemites-comment-reagissent-les-electeurs-du-rn_8302038.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-26T20:31+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Propos antisémites attribués à Jordan Bardella : \"M. Bardella devrait aujourd'hui non seulement assumer, mais s'expliquer\", déclare Sylvain Berrios, député Horizons du Val-de-Marne et porte-parole d'Édouard Philippe.",
+     "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/propos-antisemites-attribues-a-jordan-bardella-m-bardella-devrait-aujourd-hui-non-seulement-assumer-mais-s-expliquer-declare-sylvain-berrios-depute-horizons-du-val-de-marne-et-porte-parole-d-edouard-philippe_8301936.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-26T18:49+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "rubrique": "Environnement et sciences",
+   "titre": "Espagne : le naufrage d’un pétrolier chargé de diesel fait un mort au large d’Ibiza, sans « indice de pollution » provisoirement observé",
+   "resume": "L’équipage de 17 membres a été secouru, mais l’un d’entre eux a ensuite été déclaré mort à l’hôpital, à Ibiza, selon les secours de l’archipel des Baléares. Les dommages environnementaux sont en cours d’évaluation.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Espagne : le naufrage d’un pétrolier chargé de diesel fait un mort au large d’Ibiza, sans « indice de pollution » provisoirement observé",
+     "url": "https://www.lemonde.fr/international/article/2026/11/26/espagne-un-petrolier-charge-de-diesel-coule-au-large-d-ibiza-faisant-un-mort_6815505_3210.html",
+     "date": "2026-11-26T09:06+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Un pétrolier transportant 7 000 tonnes de diesel a fait naufrage au large au large d'Ibiza",
+     "url": "https://www.franceinfo.fr/environnement/pollution/naufrages/un-petrolier-transportant-7-000-tonnes-de-diesel-a-fait-naufrage-au-large-au-large-d-ibiza_8302080.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-26T21:11+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Espagne : un navire avec 7 000 tonne de diesel coule au large d'Ibiza",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261126-espagne-un-navire-avec-7-000-tonne-de-diesel-coule-au-large-d-ibiza",
+     "date": "2026-11-26T17:00+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Naufrage d'un pétrolier au large d'Ibiza: l'Espagne se mobilise pour empêcher une marée noire",
+     "url": "https://www.rfi.fr/fr/europe/20261126-naufrage-d-un-p%C3%A9trolier-au-large-d-ibiza-l-espagne-se-mobilise-pour-emp%C3%AAcher-une-mar%C3%A9e-noire",
+     "date": "2026-11-26T12:55+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "rubrique": "International",
+   "titre": "Israël : Eisenkot s'allie au parti des Démocrates",
+   "resume": "Le casse-tête israélien pour former un gouvernement est-il sur le point d'être résolu ? Le parti Yashar de Gadi Eisenkot, chargé de former un nouveau gouvernement en Israël, a conclu jeudi 26 novembre un accord de coalition avec son partenaire de gauche. Il prévoit de donner quatre ministères à des responsables issus des Démocrates. Le temps presse : il reste à Gadi Eisenkot jusqu'au 6 décembre pour fournir un gouver",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Israël : Gadi Eisenkot et le parti de gauche Les Démocrates nouent un accord de coalition, premier pas vers la formation d’un gouvernement",
+     "url": "https://www.lemonde.fr/international/article/2026/11/26/israel-gadi-eisenkot-et-le-parti-de-gauche-les-democrates-nouent-un-accord-de-coalition-premier-pas-vers-la-formation-d-un-gouvernement_6815576_3210.html",
+     "date": "2026-11-26T17:08+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "En Israël, Gadi Eisenkot et le parti de gauche nouent un accord de coalition en vue de former un gouvernement",
+     "url": "https://www.franceinfo.fr/monde/israel/en-israel-gadi-eisenkot-et-le-parti-de-gauche-nouent-un-accord-de-coalition-en-vue-de-former-un-gouvernement_8301750.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-26T17:26+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Israël : Eisenkot s'allie au parti des Démocrates",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261127-isra%C3%ABl-eisenkot-s-allie-au-parti-des-d%C3%A9mocrates",
+     "date": "2026-11-27T04:46+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "Israël: Gadi Eisenkot et le parti de gauche nouent un accord de coalition",
+     "url": "https://www.rfi.fr/fr/moyen-orient/20261126-isra%C3%ABl-gadi-eisenkot-et-le-parti-de-gauche-nouent-un-accord-de-coalition",
+     "date": "2026-11-26T17:21+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s4",
+   "rubrique": "International",
+   "titre": "Kiev assure n'avoir \"aucune intention d'étendre la guerre\" à la Libye, après l'attaque de navires russes près de Benghazi",
+   "resume": "Deux navires, russes d'après la présidence ukrainienne, ont été attaqués, dimanche, dans le port et au large de Benghazi, en Libye.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "EN DIRECT, guerre en Ukraine : Kiev n’a « aucune intention d’étendre la guerre à la Libye », assure le chef de la diplomatie ukrainienne",
+     "url": "https://www.lemonde.fr/international/live/2026/11/27/en-direct-guerre-en-ukraine-kiev-n-a-aucune-intention-d-etendre-la-guerre-a-la-libye-assure-le-chef-de-la-diplomatie-ukrainienne_6814183_3210.html",
+     "date": "2026-11-26T23:45+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Kiev assure n'avoir \"aucune intention d'étendre la guerre\" à la Libye, après l'attaque de navires russes près de Benghazi",
+     "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/kiev-assure-n-avoir-aucune-intention-d-etendre-la-guerre-a-la-libye-apres-l-attaque-de-navires-russes-pres-de-benghazi_8302074.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-26T21:19+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Navires russes ciblés en Libye : l'Algérie \"n'accepte pas\" que la guerre \"s'étende\" au Maghreb",
+     "url": "https://www.france24.com/fr/afrique/20261126-navires-russes-cibl%C3%A9s-libye-alg%C3%A9rie-n-accepte-pas-guerre-s-%C3%A9tende-maghreb",
+     "date": "2026-11-26T19:18+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "rubrique": "International",
+   "titre": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
+   "resume": "Prosecutors order drug tests for the 21-year-old suspect, who says he was overtaking when the crash happened.",
+   "sources": [
+    {
+     "media": "BBC News",
+     "titre": "Egyptian authorities arrest motorist over tanker crash that killed 31",
+     "url": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-26T12:16+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
+     "url": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+     "date": "2026-11-26T00:39+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
+     "url": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss",
+     "date": "2026-11-26T21:08+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s6",
+   "rubrique": "International",
+   "titre": "L'Algérie accuse la France de \"maltraitances\" sur un agent consulaire détenu depuis 2025",
+   "resume": "Le ministre algérien des Affaires étrangères, Ahmed Attaf, a accusé jeudi la France d'avoir maltraité un agent consulaire détenu depuis 2025 dans l'Hexagone et mis en examen dans le cadre de l'enlèvement de l'influenceur algérien Amir Boukhors. L'affaire avait aggravé les tensions diplomatiques déjà vives entre les deux pays et conduit à l'expulsion réciproque de diplomates et agents consulaires.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "L’Algérie accuse les autorités françaises d’avoir maltraité un agent consulaire détenu en France depuis 2025, critiquant une « démonstration hollywoodienne »",
+     "url": "https://www.lemonde.fr/afrique/article/2026/11/26/l-algerie-accuse-les-autorites-francaises-d-avoir-maltraite-un-agent-consulaire-detenu-en-france-depuis-2025-critiquant-une-demonstration-hollywoodienne_6815597_3212.html",
+     "date": "2026-11-26T19:54+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "\"Notre compatriote a été violemment interpellé\" : l'Algérie accuse la France d'avoir maltraité un agent consulaire",
+     "url": "https://www.franceinfo.fr/monde/afrique/algerie/l-algerie-accuse-la-france-d-avoir-maltraite-un-agent-consulaire-detenu-depuis-plus-d-un-an_8301975.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-26T19:30+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "L'Algérie accuse la France de \"maltraitances\" sur un agent consulaire détenu depuis 2025",
+     "url": "https://www.france24.com/fr/france/20261126-alg%C3%A9rie-accuse-france-maltraitances-agent-consulaire-d%C3%A9tenu-depuis-2025",
+     "date": "2026-11-26T20:34+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s7",
+   "rubrique": "International",
+   "titre": "Espagne : L'extrême-droite aux portes du pouvoir ?",
+   "resume": "Les Espagnols se rendent aux urnes dimanche pour des élections législatives anticipées. Porté par une dynamique favorable, Vox, le parti d’extrême droite a le vent en poupe et pourrait jouer les faiseurs de roi en rejoignant une coalition de droite avec le parti conservateur. Une telle alliance marquerait le retour de l’extrême droite au pouvoir dans le pays, pour la première fois depuis Franco. À gauche, le Parti so",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "En Espagne, une journaliste visée par une procédure disciplinaire après s'être interrogée sur la place de l'extrême droite dans les médias publics",
+     "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-une-journaliste-visee-par-une-procedure-disciplinaire-apres-s-etre-interrogee-sur-la-place-de-l-extreme-droite-dans-les-medias-publics_8301078.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-26T17:16+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "En Espagne, une journaliste visée par une procédure disciplinaire après s'être interrogée sur la place de l'extrême droite dans les médias publics",
+     "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-une-journaliste-visee-par-une-procedure-disciplinaire-apres-s-etre-interrogee-sur-la-place-de-l-extreme-droite-dans-les-medias-publics_8301078.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-26T17:16+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "En Espagne, une journaliste visée par une procédure disciplinaire après s'être interrogée sur la place de l'extrême droite dans les médias publics",
+     "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-une-journaliste-visee-par-une-procedure-disciplinaire-apres-s-etre-interrogee-sur-la-place-de-l-extreme-droite-dans-les-medias-publics_8301078.html#xtor=RSS-3-%5Beconomie%5D",
+     "date": "2026-11-26T17:16+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Espagne : L'extrême-droite aux portes du pouvoir ?",
+     "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261126-espagne-l-extr%C3%AAme-droite-aux-portes-du-pouvoir",
+     "date": "2026-11-26T19:56+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s8",
+   "rubrique": "International",
+   "titre": "New Zealand’s Opportunity Party poised to become election kingmaker",
+   "resume": "The newly-elected Opportunity party is now in a position to swing New Zealand’s next parliament to the left or right.",
+   "sources": [
+    {
+     "media": "The Guardian",
+     "titre": "New Zealand election: final results show ruling coalition needs minor party to govern",
+     "url": "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results",
+     "date": "2026-11-27T02:38+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "New Zealand’s Opportunity Party poised to become election kingmaker",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/new-zealands-opportunity-party-poised-to-become-election-kingmaker?traffic_source=rss",
+     "date": "2026-11-27T04:59+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s9",
+   "rubrique": "International",
+   "titre": "Banderole pro-palestinienne et heurts : un match vire à l’incident diplomatique entre la Turquie et la Géorgie",
+   "resume": "La rencontre entre Besiktas et Hapoel Beer-Sheva, jeudi en Géorgie, s'est soldée par une intervention policière musclée. Des supporteurs du club d'Istanbul ont déployé une banderole pro-palestinienne lors du match de Ligue Europa et des heurts ont éclaté dans les tribunes du stade de Batoumi. Les chefs de la diplomatie turque et géorgienne se seraient entretenus.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Une banderole pro-palestinienne déployée durant le match de Ligue Europa entre Besiktas et Hapoel Beer-Sheva provoque des remous diplomatiques",
+     "url": "https://www.franceinfo.fr/sports/foot/ligue-europa/une-banderole-pro-palestinienne-deployee-durant-le-match-de-ligue-europa-entre-besiktas-et-hapoel-beer-sheva-provoque-des-remous-diplomatiques_8302029.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-26T20:24+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Banderole pro-palestinienne et heurts : un match vire à l’incident diplomatique entre la Turquie et la Géorgie",
+     "url": "https://www.france24.com/fr/sports/20261127-ligue-europa-violences-supporters-turcs-besiktas-georgie-palestine-israel-turquie-erdogan-palestine-banderole-diplomatie",
+     "date": "2026-11-27T04:20+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "rubrique": "International",
+   "titre": "France: Jean-Luc Mélenchon en visite à Berlin, malgré sa méfiance envers l'Allemagne",
+   "resume": "Le leader de la France insoumise Jean-Luc Mélenchon est en déplacement à Berlin jusqu’au dimanche 29 novembre. Selon les informations de RFI, le leader de la France insoumise doit rencontrer ce vendredi 27 novembre la coprésidente de Die Linke, Ines Schwerdtner. Il vient aussi présenter dans la soirée dans un cinéma son livre Faites mieux ! Vers la Révolution citoyenne, sorti il y a deux ans, mais tout juste traduit ",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Après ses propos hostiles à l'Allemagne et ses projets de renforcement de son armée, Jean-Luc Mélenchon est à Berlin pour présenter son livre",
+     "url": "https://www.franceinfo.fr/politique/melenchon/les-relations-compliquees-de-jean-luc-melenchon-avec-l-allemagne_8301105.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-26T11:15+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "France: Jean-Luc Mélenchon en visite à Berlin, malgré sa méfiance envers l'Allemagne",
+     "url": "https://www.rfi.fr/fr/france/20261127-france-jean-luc-m%C3%A9lenchon-en-visite-%C3%A0-berlin-malgr%C3%A9-sa-m%C3%A9fiance-envers-l-allemagne",
+     "date": "2026-11-27T03:24+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "rubrique": "France",
+   "titre": "Présidentielle 2027 : Eric Zemmour annonce sa « dernière campagne »",
+   "resume": "Arrivé quatrième au scrutin de 2022 avec 7,07 % des voix, le candidat du parti d’extrême droite Reconquête ! n’est plus crédité que d’environ 3 % des intentions de vote dans un sondage publié jeudi, très loin derrière Marine Le Pen.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Présidentielle 2027 : Eric Zemmour annonce sa « dernière campagne »",
+     "url": "https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-eric-zemmour-annonce-sa-derniere-campagne_6815659_823448.html",
+     "date": "2026-11-26T23:54+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "\"C'est ma dernière campagne\", annonce le candidat de Reconquête à la présidentielle Eric Zemmour",
+     "url": "https://www.franceinfo.fr/politique/eric-zemmour/c-est-ma-derniere-campagne-annonce-le-candidat-de-reconquete-a-la-presidentielle-eric-zemmour_8302101.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-26T21:55+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "rubrique": "France",
+   "titre": "\"Il faut plus d'humilité quand on fait campagne\" : Emmanuel Macron tacle la \"drôle d'arrogance\" de Marine Le Pen",
+   "resume": "La candidate du parti d'extrême droite avait auparavant dénoncé \"de basses manœuvres politiciennes\" pour conclure d'ici la fin de l'année un accord sur le budget européen qui serait difficile à remettre en cause si elle remportait la présidentielle.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Depuis Bruxelles, Emmanuel Macron reproche à Marine Le Pen de faire preuve d’une « drôle d’arrogance » en pensant « qu’elle serait déjà en charge du destin de la France »",
+     "url": "https://www.lemonde.fr/politique/article/2026/11/26/emmanuel-macron-rabroue-marine-le-pen-et-sa-drole-d-arrogance_6815601_823448.html",
+     "date": "2026-11-26T21:31+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "\"Il faut plus d'humilité quand on fait campagne\" : Emmanuel Macron tacle la \"drôle d'arrogance\" de Marine Le Pen",
+     "url": "https://www.franceinfo.fr/politique/emmanuel-macron/il-faut-plus-d-humilite-quand-on-fait-campagne-emmanuel-macron-tacle-la-drole-d-arrogance-de-marine-le-pen_8302119.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-26T22:25+00:00",
+     "acces": "libre"
+    }
+   ]
+  }
+ ],
+ "date": "2026-11-27",
+ "genere_le": "2026-11-27T05:35+00:00",
+ "articles_analyses": 292
+}
