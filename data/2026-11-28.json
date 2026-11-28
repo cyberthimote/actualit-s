@@ -1,0 +1,321 @@
+{
+ "mode": "revue",
+ "items": [
+  {
+   "id": "s1",
+   "rubrique": "International",
+   "titre": "OpenAI countersues Apple for allegedly stealing trade secrets",
+   "resume": "Lawsuit also alleging pressure on hardware suppliers comes after Apple sued OpenAI for allegedly poaching employees OpenAI sued Apple on Friday, accusing the company of ⁠stealing its trade secrets ​and discouraging hardware suppliers from working on future OpenAI devices. The suit, filed in northern California federal court, comes after Apple sued OpenAI for allegedly poaching its employees to gain access to its tech",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "OpenAI accuse Apple de vol de secrets et de pressions sur ses fournisseurs",
+     "url": "https://www.lemonde.fr/economie/article/2026/11/27/openai-accuse-apple-de-vol-de-secrets-et-de-pressions-sur-ses-fournisseurs_6815936_3234.html",
+     "date": "2026-11-27T21:49+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "The Guardian",
+     "titre": "OpenAI countersues Apple for allegedly stealing trade secrets",
+     "url": "https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets",
+     "date": "2026-11-27T23:28+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "OpenAI countersues Apple over trade secrets as AI race heats up",
+     "url": "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up?traffic_source=rss",
+     "date": "2026-11-27T20:40+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "rubrique": "International",
+   "titre": "Après l'entrée de la France en récession, l'agence S&P menace de dégrader sa note souveraine",
+   "resume": "L'agence de notation américaine S&P Global Ratings a confirmé vendredi la note souveraine de la France à A+, mais l'a assortie d'une perspective négative, faisant craindre une nouvelle dégradation de cette note à moyen terme.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "L’agence S&P menace de dégrader encore la note de la France, entrée en récession",
+     "url": "https://www.lemonde.fr/politique/article/2026/11/27/l-agence-s-p-menace-de-degrader-encore-la-note-de-la-france-entree-en-recession_6815934_823448.html",
+     "date": "2026-11-27T21:18+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "L'agence de notation Standard & Poor's menace de dégrader prochainement la note de la France",
+     "url": "https://www.franceinfo.fr/economie/budget/l-agende-de-notation-standard-poor-s-menace-de-degrader-prochainement-la-note-de-la-france_8302788.html#xtor=RSS-3-%5Beconomie%5D",
+     "date": "2026-11-27T21:32+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Après l'entrée de la France en récession, l'agence S&P menace de dégrader sa note souveraine",
+     "url": "https://www.france24.com/fr/%C3%A9co-tech/20261127-apr%C3%A8s-entr%C3%A9e-france-r%C3%A9cession-agence-standard-and-poor-s-menace-d%C3%A9grader-note-souveraine",
+     "date": "2026-11-27T21:57+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "rubrique": "International",
+   "titre": "Trump se considère l'\"ami\" de Poutine ? Pour Zelensky, cela revient à se dire ami d'Hitler",
+   "resume": "Volodymyr Zelensky a critiqué vendredi Donald Trump pour avoir qualifié Vladimir Poutine d'\"ami\", comparant le dirigeant russe à Adolf Hitler, lors d'un entretien accordé à la BBC. \"Il s'agit d'un agresseur et d'un tueur... il ne peut pas être considéré comme un ami\", a souligné le président ukrainien.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Volodymyr Zelensky compare la relation de Donald Trump avec Vladimir Poutine à une amitié avec Hitler pendant la Seconde Guerre mondiale",
+     "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-compare-la-relation-de-donald-trump-avec-vladimir-poutine-a-une-amitie-avec-hitler-pendant-la-seconde-guerre-mondiale_8303130.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-27T15:22+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Trump se considère l'\"ami\" de Poutine ? Pour Zelensky, cela revient à se dire ami d'Hitler",
+     "url": "https://www.france24.com/fr/europe/20261127-trump-se-consid%C3%A8re-ami-poutine-pour-zelensky-cela-revient-se-dire-ami-hitler",
+     "date": "2026-11-27T20:52+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Courrier international",
+     "titre": "Zelensky critique l’“étrange” amitié entre Trump et Poutine, qu’il compare à Hitler",
+     "url": "https://www.courrierinternational.com/article/verbatim-zelensky-critique-l-etrange-amitie-entre-trump-et-poutine-qu-il-compare-a-hitler_290923",
+     "date": "2026-11-27T16:52+00:00",
+     "acces": "mixte"
+    }
+   ]
+  },
+  {
+   "id": "s4",
+   "rubrique": "France",
+   "titre": "Ecrits antisémites : la défense de Jordan Bardella patine, Marine Le Pen maintient timidement sa confiance",
+   "resume": "Interrogé sur le contenu de la plainte du président du RN contre « Mediapart » pour « faux et usage de faux », son avocat a évoqué des courriels périphériques aux échanges incriminés.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Ecrits antisémites : la défense de Jordan Bardella patine, Marine Le Pen maintient timidement sa confiance",
+     "url": "https://www.lemonde.fr/politique/article/2026/11/27/ecrits-antisemites-la-defense-de-jordan-bardella-patine-marine-le-pen-maintient-timidement-sa-confiance_6815931_823448.html",
+     "date": "2026-11-27T20:14+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Marine Le Pen réitère sa confiance à Jordan Bardella, après de nouveaux éléments sur des écrits antisémites attribués au patron du RN",
+     "url": "https://www.franceinfo.fr/elections/marine-le-pen-reitere-sa-confiance-a-jordan-bardella-apres-de-nouveaux-elements-sur-des-ecrits-antisemites-attribues-au-patron-du-rn_8303001.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-27T11:50+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Le Figaro",
+     "titre": "Écrits antisémites : Jordan Bardella fragilisé par de nouvelles révélations",
+     "url": "https://www.lefigaro.fr/politique/jordan-bardella-fragilise-par-de-nouvelles-revelations-20261126",
+     "date": "2026-11-26T19:39+00:00",
+     "acces": "mixte"
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "rubrique": "International",
+   "titre": "La Cour suprême du Canada valide la quasi-totalité de la loi sur la laïcité du Québec",
+   "resume": "Avec cette loi, le port de signes religieux est interdit pour certains fonctionnaires provinciaux ayant une position d'autorité comme les enseignants, les membres des forces de l'ordre et les juges.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "La Cour suprême canadienne consacre la laïcité au Québec dans une décision historique",
+     "url": "https://www.lemonde.fr/international/article/2026/11/27/la-cour-supreme-canadienne-consacre-la-laicite-au-quebec-dans-une-decision-historique_6815937_3210.html",
+     "date": "2026-11-27T22:06+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "La Cour suprême du Canada valide la quasi-totalité de la loi sur la laïcité du Québec",
+     "url": "https://www.franceinfo.fr/monde/canada/la-cour-supreme-du-canada-valide-la-quasi-totalite-la-loi-sur-la-laicite-du-quebec_8303376.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-27T16:19+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Courrier international",
+     "titre": "La Cour suprême du Canada valide une loi québécoise “controversée” sur l’interdiction des signes religieux",
+     "url": "https://www.courrierinternational.com/article/laicite-la-cour-supreme-du-canada-valide-une-loi-quebecoise-controversee-sur-l-interdiction-des-signes-religieux_290931",
+     "date": "2026-11-28T04:50+00:00",
+     "acces": "mixte"
+    }
+   ]
+  },
+  {
+   "id": "s6",
+   "rubrique": "International",
+   "titre": "Deux employés de Médecins sans frontières tués par une frappe israélienne à Gaza",
+   "resume": "Deux employés de Médecins sans frontières (MSF) ont été tués vendredi par une frappe israélienne à Gaza, ont annoncé l'organisation humanitaire et l'armée israélienne, laquelle les a accusés d'être des \"terroristes\" du Hamas.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Gaza : l’armée israélienne tue deux employés de Médecins sans frontières, qu’elle qualifie de « terroristes »",
+     "url": "https://www.lemonde.fr/international/article/2026/11/28/gaza-l-armee-israelienne-tue-deux-employes-de-medecins-sans-frontieres-qu-elle-qualifie-de-terroristes_6816022_3210.html",
+     "date": "2026-11-28T02:30+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "RFI",
+     "titre": "Deux employés de Médecins sans frontières tués par une frappe israélienne à Gaza",
+     "url": "https://www.rfi.fr/fr/moyen-orient/20261128-deux-employ%C3%A9s-de-m%C3%A9decins-sans-fronti%C3%A8res-tu%C3%A9s-par-une-frappe-isra%C3%A9lienne-%C3%A0-gaza",
+     "date": "2026-11-28T05:02+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s7",
+   "rubrique": "France",
+   "titre": "A Berlin, Jean-Luc Mélenchon se défend de germanophobie : « Souvent nous sommes jaloux, mais nous ne le disons pas »",
+   "resume": "Venu dans la capitale allemande présenter l’un de ses ouvrages, le candidat de La France insoumise à la présidentielle a nié tout sentiment anti-allemand. Tout en reprenant ses accusations contre le réarmement de l’Allemagne, et son modèle ordolibéral.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "A Berlin, Jean-Luc Mélenchon se défend de germanophobie : « Souvent nous sommes jaloux, mais nous ne le disons pas »",
+     "url": "https://www.lemonde.fr/international/article/2026/11/28/a-berlin-jean-luc-melenchon-se-defend-de-germanophobie-souvent-nous-sommes-jaloux-mais-nous-ne-le-disons-pas_6816060_3210.html",
+     "date": "2026-11-28T04:30+00:00",
+     "acces": "mixte"
+    },
+    {
+     "media": "Le Figaro",
+     "titre": "L’obsession antiallemande de Jean-Luc Mélenchon, en visite ce vendredi à Berlin",
+     "url": "https://www.lefigaro.fr/politique/l-obsession-antiallemande-de-jean-luc-melenchon-en-visite-ce-vendredi-a-berlin-20261127",
+     "date": "2026-11-27T05:30+00:00",
+     "acces": "mixte"
+    }
+   ]
+  },
+  {
+   "id": "s8",
+   "rubrique": "International",
+   "titre": "En Estonie, les larmes coulent à la frontière avec la Russie, bientôt fermée",
+   "resume": "À Narva, en Estonie, comme à Ivangorod, en Russie, les files d’attente s’allongent à l’approche de la fermeture de la frontière, prévue pour le 1er décembre. De part et d’autre du fleuve Narva, le site lituanien “Delfi” donne la parole à des habitants dont les liens familiaux et les habitudes de vie sont bouleversés par la montée des tensions entre Tallinn et Moscou.",
+   "sources": [
+    {
+     "media": "France 24",
+     "titre": "Estonie-Russie : la fermeture de la frontière inquiète les habitants de Narva",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261127-estonie-russie-la-fermeture-de-la-fronti%C3%A8re-inqui%C3%A8te-les-habitants-de-narva",
+     "date": "2026-11-27T15:53+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "Courrier international",
+     "titre": "En Estonie, les larmes coulent à la frontière avec la Russie, bientôt fermée",
+     "url": "https://www.courrierinternational.com/article/reportage-en-estonie-les-larmes-coulent-a-la-frontiere-avec-la-russie-bientot-fermee_290733",
+     "date": "2026-11-28T04:07+00:00",
+     "acces": "mixte"
+    }
+   ]
+  },
+  {
+   "id": "s9",
+   "rubrique": "International",
+   "titre": "La flambée des prix du kérosène met à mal les compagnies aériennes «low cost»",
+   "resume": "La crise du kérosène touche de plus en plus les compagnies aériennes « low cost ». La dernière en date : la compagnie norvégienne Norse Atlantic Airways a annulé, jeudi 26 novembre, tous ses vols. La petite compagnie spécialisée dans les vols long-courrier à prix bas n'est pas la seule dans cette situation. C'est le modèle économique de ces petites compagnies pas chères qui bat de l'aile.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "La compagnie aérienne norvégienne Norse Atlantic dépose le bilan, affectée par la flambée des prix du kérosène",
+     "url": "https://www.franceinfo.fr/economie/transports/la-compagnie-aerienne-norvegienne-norse-atlantic-depose-le-bilan-affectee-par-la-flambee-des-prix-du-kerozene_8303307.html#xtor=RSS-3-%5Beconomie%5D",
+     "date": "2026-11-27T16:59+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "La flambée des prix du kérosène met à mal les compagnies aériennes «low cost»",
+     "url": "https://www.rfi.fr/fr/%C3%A9conomie/20261128-la-flamb%C3%A9e-des-prix-du-k%C3%A9ros%C3%A8ne-met-%C3%A0-mal-les-compagnies-a%C3%A9riennes-low-cost",
+     "date": "2026-11-28T03:37+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "rubrique": "International",
+   "titre": "RDC: l'armée ougandaise annonce son retrait dans l'Est, Kinshasa et Kampala tentent d'apaiser les tensions",
+   "resume": "Les relations entre Kinshasa et Kampala traversent une nouvelle zone de turbulences. L’armée ougandaise annonce le prochain retrait de ses troupes de Lubero, dans l’est de la République démocratique du Congo (RDC), tout en accusant des milices alliées au pouvoir congolais de massacrer des civils. Une annonce qui intervient après les déclarations controversées du chef d’état-major ougandais, Muhoozi Kainerugaba, sur l",
+   "sources": [
+    {
+     "media": "France 24",
+     "titre": "RD Congo : le ton monte entre Kinshasa et l'armée ougandaise, déployée dans l'Est",
+     "url": "https://www.france24.com/fr/afrique/20261127-rd-congo-ton-monte-entre-kinshasa-arm%C3%A9e-ougandaise-d%C3%A9ploy%C3%A9e-est-lubero-nord-kivu",
+     "date": "2026-11-27T17:34+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "RFI",
+     "titre": "RDC: l'armée ougandaise annonce son retrait dans l'Est, Kinshasa et Kampala tentent d'apaiser les tensions",
+     "url": "https://www.rfi.fr/fr/afrique/20261128-rdc-l-arm%C3%A9e-ougandaise-annonce-son-retrait-dans-l-est-kinshasa-et-kampala-tentent-d-apaiser-les-tensions",
+     "date": "2026-11-28T03:36+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "rubrique": "International",
+   "titre": "Présidentielle 2027: la dynamique David Lisnard à la loupe",
+   "resume": "Gros plan sur le phénomène David Lisnard qui réalise cette semaine une percée dans les sondages et se hisse directement à la troisième place des intentions de vote. Pour Damien Lecomte, docteur en Sciences politiques, le candidat de Nouvelle Energie bénéficie d'un \"effet de nouveauté\" et n'est pas associé au bilan d'Emmanuel Macron.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "David Lisnard, c'est Zemmour 2022 ou Macron 2017 ?",
+     "url": "https://www.franceinfo.fr/elections/david-lisnard-c-est-zemmour-2022-ou-macron-2017_8303160.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-27T19:00+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "REPLAY. \"David Lisnard, les secrets d'une percée éclair\" : regardez le documentaire de franceinfo consacré aux coulisses de l'entrée en campagne présidentielle du maire de Cannes",
+     "url": "https://www.franceinfo.fr/politique/david-lisnard/direct-david-lisnard-les-secrets-d-une-percee-eclair-regardez-le-documentaire-de-franceinfo-consacre-aux-coulisses-de-l-entree-en-campagne-presidentielle-du-maire-de-cannes_8301420.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-27T20:45+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Présidentielle : David Lisnard, c'est Zemmour 2022 ou Macron 2017 ? \"On/Off\", épisode 11",
+     "url": "https://www.franceinfo.fr/elections/presidentielle-david-lisnard-c-est-zemmour-2022-ou-macron-2017-on-off-episode-11_8301783.html#xtor=RSS-3-%5Bpolitique%5D",
+     "date": "2026-11-27T11:43+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Présidentielle 2027: la dynamique David Lisnard à la loupe",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261127-pr%C3%A9sidentielle-2027-la-dynamique-david-lisnard-%C3%A0-la-loupe",
+     "date": "2026-11-27T23:42+00:00",
+     "acces": "libre"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "rubrique": "International",
+   "titre": "Essor des data centers : faut-il débrancher l'IA?",
+   "resume": "Cette semaine Elon Musk a obtenu le feu vert pour envoyer des data centers dans l'espace ! Jusqu'où ira la course à l'intelligence artificielle? Pour le président de la plateforme Café IA, Gilles Babinet, la logique actuelle \"est plutôt une logique d'accélération\".",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Donald Trump autorise Elon Musk à lancer un million de satellites dans l’espace pour créer des data centers",
+     "url": "https://www.franceinfo.fr/internet/spacex/donald-trump-autorise-elon-musk-a-lancer-un-million-de-satellites-dans-l-espace-pour-creer-des-data-centers_8302953.html#xtor=RSS-3-%5Bmonde%5D",
+     "date": "2026-11-27T12:40+00:00",
+     "acces": "libre"
+    },
+    {
+     "media": "France 24",
+     "titre": "Essor des data centers : faut-il débrancher l'IA?",
+     "url": "https://www.france24.com/fr/%C3%A9missions/la-question-qui-f%C3%A2che/20261127-essor-des-data-centers-faut-il-d%C3%A9brancher-l-ia",
+     "date": "2026-11-27T23:27+00:00",
+     "acces": "libre"
+    }
+   ]
+  }
+ ],
+ "date": "2026-11-28",
+ "genere_le": "2026-11-28T05:28+00:00",
+ "articles_analyses": 272
+}
